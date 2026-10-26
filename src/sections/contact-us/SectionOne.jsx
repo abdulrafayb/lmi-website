@@ -1,3 +1,4 @@
+import Button from "../../ui/Button";
 import Eyebrow from "../../ui/Eyebrow";
 import { ArrowRight } from "@phosphor-icons/react";
 import Reveal from "../../components/Reveal";
@@ -35,13 +36,10 @@ export default function SectionOne() {
           <p className="text-hero-copy mx-auto mt-6 max-w-xl text-base leading-relaxed lg:mx-0 lg:text-lg">
             {description}
           </p>
-          <a
-            href={action.href}
-            className="border-brand-red bg-brand-red text-surface outline-brand-red hover:border-brand-red-dark hover:bg-brand-red-dark mt-8 inline-flex min-h-12 items-center justify-center gap-3 rounded-sm border px-7 py-3 text-base font-semibold transition-colors focus-visible:outline-2 focus-visible:outline-offset-4"
-          >
+          <Button href={action.href} className="mt-8">
             {action.label}
             <ArrowRight size={19} aria-hidden="true" />
-          </a>
+          </Button>
         </Reveal>
         <Reveal
           delay={0.1}

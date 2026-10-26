@@ -1,5 +1,5 @@
+import Button from "../../ui/Button";
 import { ArrowRight } from "@phosphor-icons/react";
-import { Link } from "react-router-dom";
 import Reveal from "../../components/Reveal";
 import homeData from "../../../data/Home.json";
 
@@ -23,13 +23,10 @@ export default function SectionTen() {
             {description}
           </p>
         </div>
-        <Link
-          to={action.path}
-          className="tertiary outline-surface inline-flex min-h-12 shrink-0 items-center justify-center gap-3 rounded-sm border px-7 py-3 text-base font-semibold transition-colors focus-visible:outline-2 focus-visible:outline-offset-4"
-        >
+        <Button to={action.path} variant="tertiary" className="shrink-0">
           {action.label}
           <ArrowRight size={19} aria-hidden="true" />
-        </Link>
+        </Button>
       </Reveal>
     </section>
   );

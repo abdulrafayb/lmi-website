@@ -1,3 +1,4 @@
+import Button from "../../ui/Button";
 import Eyebrow from "../../ui/Eyebrow";
 import { Users } from "@phosphor-icons/react";
 import Reveal from "../../components/Reveal";
@@ -39,12 +40,9 @@ export default function SectionSix() {
               .
             </p>
           </div>
-          <a
-            href={action.href}
-            className="border-brand-red bg-brand-red text-surface outline-brand-red hover:border-brand-red-dark hover:bg-brand-red-dark inline-flex min-h-11 shrink-0 items-center justify-center rounded-sm border px-6 py-3 text-sm font-semibold transition-colors focus-visible:outline-2 focus-visible:outline-offset-4"
-          >
+          <Button href={action.href} className="shrink-0">
             {action.label}
-          </a>
+          </Button>
         </Reveal>
       </div>
     </section>

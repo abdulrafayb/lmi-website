@@ -1,6 +1,6 @@
+import Button from "../../ui/Button";
 import Eyebrow from "../../ui/Eyebrow";
 import { ArrowRight } from "@phosphor-icons/react";
-import { Link } from "react-router-dom";
 import Reveal from "../../components/Reveal";
 import homeData from "../../../data/Home.json";
 
@@ -46,13 +46,10 @@ export default function SectionSeven() {
           ))}
         </ul>
         <div className="mt-9 flex justify-center lg:mt-14">
-          <Link
-            to={action.path}
-            className="secondary outline-brand-red inline-flex min-h-10 items-center justify-center gap-2 rounded-sm border px-5 py-2 text-sm font-semibold transition-colors focus-visible:outline-2 focus-visible:outline-offset-4"
-          >
+          <Button to={action.path} variant="secondary">
             {action.label}
             <ArrowRight size={17} aria-hidden="true" />
-          </Link>
+          </Button>
         </div>
       </div>
     </section>

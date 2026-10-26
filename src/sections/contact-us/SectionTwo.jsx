@@ -1,3 +1,4 @@
+import Button from "../../ui/Button";
 import Eyebrow from "../../ui/Eyebrow";
 import { useState } from "react";
 import { useForm } from "react-hook-form";
@@ -181,13 +182,10 @@ export default function SectionTwo() {
                 },
               )}
             </div>
-            <button
-              type="submit"
-              className="border-brand-red bg-brand-red text-surface outline-brand-red hover:bg-brand-red-dark mt-4 inline-flex min-h-11 w-full items-center justify-center gap-2 rounded-sm border px-5 py-3 text-sm font-semibold transition-colors focus-visible:outline-2 focus-visible:outline-offset-4"
-            >
+            <Button type="submit" className="mt-4 w-full">
               {submitLabel}
               <ArrowRight size={16} aria-hidden="true" />
-            </button>
+            </Button>
             <p
               id="quote-note"
               className="text-hero-copy mt-4 text-xs leading-relaxed"

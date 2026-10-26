@@ -1,6 +1,6 @@
+import Button from "../../ui/Button";
 import Eyebrow from "../../ui/Eyebrow";
 import { ArrowRight } from "@phosphor-icons/react";
-import { Link } from "react-router-dom";
 import Reveal from "../../components/Reveal";
 import homeData from "../../../data/Home.json";
 
@@ -33,13 +33,14 @@ export default function SectionNine() {
               </li>
             ))}
           </ul>
-          <Link
+          <Button
             to={insights.action.path}
-            className="secondary outline-brand-red mt-4 inline-flex min-h-10 items-center justify-center gap-2 rounded-sm border px-5 py-2 text-sm font-semibold transition-colors focus-visible:outline-2 focus-visible:outline-offset-4"
+            variant="secondary"
+            className="mt-4"
           >
             {insights.action.label}
             <ArrowRight size={16} aria-hidden="true" />
-          </Link>
+          </Button>
         </Reveal>
         <Reveal delay={0.1}>
           <Eyebrow className="mb-4">{caseStudies.eyebrow}</Eyebrow>
@@ -62,13 +63,14 @@ export default function SectionNine() {
               </li>
             ))}
           </ol>
-          <Link
+          <Button
             to={caseStudies.action.path}
-            className="secondary outline-brand-red mt-3 inline-flex min-h-10 items-center justify-center gap-2 rounded-sm border px-5 py-2 text-sm font-semibold transition-colors focus-visible:outline-2 focus-visible:outline-offset-4"
+            variant="secondary"
+            className="mt-3"
           >
             {caseStudies.action.label}
             <ArrowRight size={16} aria-hidden="true" />
-          </Link>
+          </Button>
         </Reveal>
       </div>
     </section>

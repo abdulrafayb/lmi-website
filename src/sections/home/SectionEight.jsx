@@ -1,6 +1,6 @@
+import Button from "../../ui/Button";
 import Eyebrow from "../../ui/Eyebrow";
 import { ArrowRight } from "@phosphor-icons/react";
-import { Link } from "react-router-dom";
 import Reveal from "../../components/Reveal";
 import homeData from "../../../data/Home.json";
 
@@ -50,14 +50,15 @@ export default function SectionEight() {
                 <h3 className="text-hero-heading mt-4 text-lg leading-snug font-bold">
                   {title}
                 </h3>
-                <Link
+                <Button
                   to={path}
-                  className="text-brand-red outline-brand-red mx-auto mt-auto inline-flex min-h-11 w-fit items-center gap-1 pt-4 text-sm font-medium underline-offset-4 hover:underline focus-visible:outline-2 focus-visible:outline-offset-4 lg:mx-0"
+                  variant="link"
+                  className="mx-auto mt-auto w-fit lg:mx-0"
                 >
                   {exploreLabel}
                   <span className="sr-only"> {title}</span>
                   <ArrowRight size={15} aria-hidden="true" />
-                </Link>
+                </Button>
               </article>
             </Reveal>
           ))}

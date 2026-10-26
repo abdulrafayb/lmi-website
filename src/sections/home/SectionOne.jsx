@@ -1,6 +1,6 @@
+import Button from "../../ui/Button";
 import Reveal from "../../components/Reveal";
 import { ArrowRight } from "@phosphor-icons/react";
-import { Link } from "react-router-dom";
 import homeData from "../../../data/Home.json";
 
 const { heading, description, actions } = homeData.sectionOne;
@@ -28,18 +28,15 @@ export default function SectionOne() {
           </p>
           <div className="mt-6 flex flex-wrap justify-center gap-2.5 lg:justify-start">
             {actions.map(({ label, path, variant, showArrow }) => (
-              <Link
+              <Button
                 key={path}
                 to={path}
-                className={`outline-brand-red inline-flex min-h-10 items-center justify-center gap-2 rounded-sm border px-5 py-2 text-sm font-semibold transition-colors focus-visible:outline-2 focus-visible:outline-offset-4 max-sm:flex-[1_1_auto] ${
-                  variant === "primary"
-                    ? "border-brand-red bg-brand-red text-surface hover:border-brand-red-dark hover:bg-brand-red-dark"
-                    : "secondary"
-                }`}
+                variant={variant}
+                className="max-sm:flex-[1_1_auto]"
               >
                 {label}
                 {showArrow && <ArrowRight size={17} aria-hidden="true" />}
-              </Link>
+              </Button>
             ))}
           </div>
         </Reveal>

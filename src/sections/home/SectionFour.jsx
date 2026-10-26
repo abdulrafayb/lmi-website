@@ -1,7 +1,7 @@
+import Button from "../../ui/Button";
 import Eyebrow from "../../ui/Eyebrow";
 import Reveal from "../../components/Reveal";
 import { ArrowRight } from "@phosphor-icons/react";
-import { Link } from "react-router-dom";
 import homeData from "../../../data/Home.json";
 
 const { eyebrow, heading, description, services, exploreLabel, action } =
@@ -54,27 +54,25 @@ export default function SectionFour() {
                   <p className="text-hero-copy mt-3 text-sm leading-relaxed">
                     {description}
                   </p>
-                  <Link
+                  <Button
                     to={path}
-                    className="text-brand-red outline-brand-red mx-auto mt-auto inline-flex min-h-11 w-fit items-center gap-1 pt-2 text-sm font-medium underline-offset-4 hover:underline focus-visible:outline-2 focus-visible:outline-offset-4 lg:mx-0"
+                    variant="link"
+                    className="mx-auto mt-auto w-fit lg:mx-0"
                   >
                     {exploreLabel}
                     <span className="sr-only"> {title}</span>
                     <ArrowRight size={15} aria-hidden="true" />
-                  </Link>
+                  </Button>
                 </article>
               </Reveal>
             ),
           )}
         </ul>
         <div className="mt-8 flex justify-center">
-          <Link
-            to={action.path}
-            className="outline-brand-red secondary inline-flex min-h-10 items-center justify-center gap-2 rounded-sm border px-5 py-2 text-sm font-semibold transition-colors focus-visible:outline-2 focus-visible:outline-offset-4"
-          >
+          <Button to={action.path} variant="secondary">
             {action.label}
             <ArrowRight size={17} aria-hidden="true" />
-          </Link>
+          </Button>
         </div>
       </div>
     </section>
