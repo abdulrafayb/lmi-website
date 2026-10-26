@@ -1,0 +1,14 @@
+{
+  "sectionOne": {
+    "eyebrow": "Certifications & Recognition",
+    "heading": ["Recognised by", "Industry Leaders"],
+    "description": "Our certified systems, trained people and disciplined processes work together to deliver safe, compliant and reliable transportation.",
+    "action": {
+      "label": "Explore Our Capabilities",
+      "path": "/#home-services-heading"
+    },
+    "image": null,
+    "imageAlt": "LMI tanker at a terminal",
+    "imagePlaceholder": "[Photo: LMI tanker at a terminal]"
+  }
+}

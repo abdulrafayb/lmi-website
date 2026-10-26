@@ -18,7 +18,7 @@ export default function SectionFour() {
           <Eyebrow className="mb-3">{eyebrow}</Eyebrow>
           <h2
             id="home-services-heading"
-            className="text-hero-heading text-2xl leading-tight font-bold tracking-tight md:text-3xl lg:text-4xl"
+            className="text-hero-heading scroll-mt-28 text-2xl leading-tight font-bold tracking-tight md:text-3xl lg:text-4xl"
           >
             {heading}
           </h2>
