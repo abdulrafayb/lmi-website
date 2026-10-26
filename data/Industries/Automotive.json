@@ -88,5 +88,127 @@
         "description": "Careful unloading at the destination, completed per your receiving requirements."
       }
     ]
+  },
+  "sectionFour": {
+    "eyebrow": "Services we use",
+    "heading": "Transportation Solutions for Automotive Needs",
+    "services": [
+      {
+        "title": "Car Carrier & Vehicle Transport",
+        "description": "Secure vehicle transportation using purpose-built car carriers.",
+        "image": null,
+        "imageAlt": "Car carrier",
+        "imagePlaceholder": "[Photo: car carrier]",
+        "action": {
+          "label": "Explore Car Carrier Services",
+          "path": "/services"
+        }
+      },
+      {
+        "title": "Full Truckload (FTL)",
+        "description": "Dedicated capacity for parts and components moving in volume.",
+        "image": null,
+        "imageAlt": "Full truckload",
+        "imagePlaceholder": "[Photo: full truckload]",
+        "action": {
+          "label": "Explore Full Truckload",
+          "path": "/services/full-truckload-ftl"
+        }
+      },
+      {
+        "title": "Dry Cargo Transportation",
+        "description": "Packaged and palletized parts for plants, warehouses and dealers.",
+        "image": null,
+        "imageAlt": "Dry cargo",
+        "imagePlaceholder": "[Photo: dry cargo]",
+        "action": {
+          "label": "Explore Dry Cargo",
+          "path": "/services/dry-cargo-transportation"
+        }
+      },
+      {
+        "title": "Flatbed & Project Cargo",
+        "description": "Open-deck transport for workshop, plant and industrial equipment.",
+        "image": null,
+        "imageAlt": "Flatbed equipment",
+        "imagePlaceholder": "[Photo: flatbed equipment]",
+        "action": {
+          "label": "Explore Flatbed & Project",
+          "path": "/services/flatbed-transportation"
+        }
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Trusted by",
+    "heading": "Automotive and Corporate Clients",
+    "description": "With decades of experience in Pakistan’s transport industry, LMI supports businesses that need vehicles and cargo delivered safely and on time. Our operations follow ISO 9001 certification standards.",
+    "logoPlaceholder": "[logo]",
+    "clients": [
+      {
+        "id": "daewoo",
+        "name": "Daewoo",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "automotive-one",
+        "name": "[Automotive client]",
+        "image": null,
+        "placeholder": true
+      },
+      {
+        "id": "automotive-two",
+        "name": "[Automotive client]",
+        "image": null,
+        "placeholder": true
+      },
+      {
+        "id": "corporate-fleet",
+        "name": "[Corporate fleet client]",
+        "image": null,
+        "placeholder": true
+      }
+    ],
+    "highlights": [
+      {
+        "heading": "[Project or client reference]",
+        "description": "[Add a real vehicle-transport reference here: client, scale and route.]"
+      },
+      {
+        "heading": "Safety record",
+        "description": "Recognized for safety performance by BP Pakistan (2001) and awarded for road safety participation."
+      }
+    ],
+    "testimonial": {
+      "quote": "[Client testimonial: two to three sentences about working with LMI]",
+      "attribution": "[Name], [Job Title], [Company]"
+    }
+  },
+  "sectionSix": {
+    "eyebrow": "FAQ",
+    "heading": "Automotive Transportation Questions",
+    "items": [
+      {
+        "question": "Do you offer car carrier services in Pakistan?",
+        "answer": "Yes. We transport vehicles on purpose-built car carriers, with the carrier configuration chosen to suit the vehicles and the route."
+      },
+      {
+        "question": "Can you move multiple vehicles in one shipment?",
+        "answer": "Yes. Fleet and corporate relocations, and dealer transfers, can be planned as multi-vehicle movements."
+      },
+      {
+        "question": "Do you also transport automotive parts?",
+        "answer": "Yes. Parts and components move as dry cargo or full truckload, depending on volume."
+      },
+      {
+        "question": "How are vehicles protected during transit?",
+        "answer": "Vehicles are positioned and secured according to the carrier’s configuration, and the carrier is inspected before dispatch under our HSE protocols."
+      },
+      {
+        "question": "How do I request a quote?",
+        "answer": "Tell us the number and type of vehicles, the pickup point, the destination and your timeline, and our team will recommend a transportation approach."
+      }
+    ]
   }
 }

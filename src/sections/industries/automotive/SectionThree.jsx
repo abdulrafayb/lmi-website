@@ -69,8 +69,8 @@ export default function SectionThree() {
             {steps.map(({ number, heading, description }) => (
               <li key={number} className="border-proof-accent border-t-2 pt-3">
                 <h4 className="text-hero-heading text-sm leading-snug font-bold lg:text-base">
-                  <span className="text-brand-red" aria-hidden="true">
-                    {number}{" "}
+                  <span className="text-brand-red mr-1.5" aria-hidden="true">
+                    {number}
                   </span>
                   {heading}
                 </h4>
