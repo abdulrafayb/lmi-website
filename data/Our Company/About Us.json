@@ -147,5 +147,53 @@
     "image": null,
     "imageAlt": "LMI base facility, Karachi",
     "imagePlaceholder": "[Photo: LMI base facility, Karachi]"
+  },
+  "sectionSix": {
+    "eyebrow": "Trusted by",
+    "heading": "Partnerships Built Over Decades",
+    "description": "Strong, lasting relationships with nationally and internationally recognized names, a testament to the trust placed in our reliability, safety standards and service excellence.",
+    "placeholderLabel": "[logo]",
+    "partners": [
+      {
+        "name": "Engro",
+        "image": null
+      },
+      {
+        "name": "CPECC",
+        "image": null
+      },
+      {
+        "name": "WFP",
+        "image": null
+      },
+      {
+        "name": "Daewoo",
+        "image": null
+      },
+      {
+        "name": "BP",
+        "image": null
+      },
+      {
+        "name": "Shell",
+        "image": null
+      },
+      {
+        "name": "PSO",
+        "image": null
+      },
+      {
+        "name": "Caltex",
+        "image": null
+      }
+    ]
+  },
+  "sectionSeven": {
+    "heading": "Need a Reliable Transportation Partner?",
+    "description": "Let’s move your business forward, together.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
   }
 }
