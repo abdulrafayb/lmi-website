@@ -1,0 +1,14 @@
+{
+  "sectionOne": {
+    "eyebrow": "About LMI",
+    "heading": ["Over 70 Years of", "Moving Pakistan"],
+    "description": "From a single truck in 1954 to a trusted third-party logistics provider, guided by one motto: \"Professional Par Excellence\".",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI trucks on the road",
+    "imagePlaceholder": "[Photo: LMI trucks on the road]"
+  }
+}
