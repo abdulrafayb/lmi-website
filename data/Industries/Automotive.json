@@ -18,5 +18,75 @@
       "label": "Contact Us Today",
       "path": "/contact-us"
     }
+  },
+  "sectionTwo": {
+    "eyebrow": "What we move",
+    "heading": "Vehicles and the cargo behind them",
+    "cargo": [
+      {
+        "icon": "vehicles",
+        "heading": "New & Used Vehicles",
+        "description": "Cars and light vehicles moved on purpose-built carriers."
+      },
+      {
+        "icon": "fleet",
+        "heading": "Corporate & Fleet Vehicles",
+        "description": "Multiple vehicles relocated between business locations."
+      },
+      {
+        "icon": "parts",
+        "heading": "Parts & Components",
+        "description": "Packaged and palletized parts moved by road freight."
+      },
+      {
+        "icon": "equipment",
+        "heading": "Workshop & Plant Equipment",
+        "description": "Equipment moved on suitable flatbed configurations."
+      },
+      {
+        "icon": "transfers",
+        "heading": "Dealer & Showroom Transfers",
+        "description": "Movements between dealerships, yards and distribution points."
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "How we work",
+    "heading": "Care Begins Before the Carrier Moves",
+    "paragraphs": [
+      "Moving vehicles is about more than getting them from A to B. The number of vehicles, their type, the pickup location and the receiving site all affect how a carrier should be configured and loaded, so we plan these details before the vehicle arrives.",
+      "Vehicles are positioned and secured according to the carrier’s configuration, then unloaded in a controlled manner at the destination. An assured fleet network of verified trucks and drivers is ready exactly when required, which keeps dealer, fleet and corporate schedules on time.",
+      "Our drivers follow our HSE protocols, including pre-trip inspection of the carrier before every dispatch."
+    ],
+    "action": {
+      "label": "Learn more about our HSSE standards",
+      "path": "/hsse"
+    },
+    "panelHeading": "Care from loading to handover",
+    "image": null,
+    "imageAlt": "Vehicle carrier loaded with cars",
+    "imagePlaceholder": "[Photo: vehicle carrier loaded with cars]",
+    "steps": [
+      {
+        "number": "1",
+        "heading": "Loading coordination",
+        "description": "Align carrier type and vehicle readiness before loading begins."
+      },
+      {
+        "number": "2",
+        "heading": "Positioning and securing",
+        "description": "Vehicles placed and secured according to the carrier configuration."
+      },
+      {
+        "number": "3",
+        "heading": "Carrier readiness",
+        "description": "Equipment checked before dispatch."
+      },
+      {
+        "number": "4",
+        "heading": "Controlled unloading and handover",
+        "description": "Careful unloading at the destination, completed per your receiving requirements."
+      }
+    ]
   }
 }

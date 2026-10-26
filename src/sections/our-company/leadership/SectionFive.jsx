@@ -66,17 +66,19 @@ export default function SectionFive() {
               return (
                 <li
                   key={icon}
-                  className="border-trust-border bg-surface lg:before:bg-proof-accent relative rounded-md border px-4 py-5 lg:before:absolute lg:before:-top-[calc(1.25rem+1px)] lg:before:left-1/2 lg:before:h-[calc(1.25rem+1px)] lg:before:w-0.5 lg:before:-translate-x-1/2 lg:before:content-['']"
+                  className="lg:before:bg-proof-accent relative lg:before:absolute lg:before:-top-5 lg:before:left-1/2 lg:before:h-5 lg:before:w-0.5 lg:before:-translate-x-1/2 lg:before:content-['']"
                 >
-                  <span
-                    className="bg-proof-accent text-hero-heading mx-auto grid size-12 place-items-center rounded-md"
-                    aria-hidden="true"
-                  >
-                    <Icon size={25} />
-                  </span>
-                  <h4 className="text-hero-heading mt-4 text-sm leading-snug font-semibold lg:text-base">
-                    {label}
-                  </h4>
+                  <div className="border-trust-border bg-surface h-full rounded-md border px-4 py-5">
+                    <span
+                      className="bg-proof-accent text-hero-heading mx-auto grid size-12 place-items-center rounded-md"
+                      aria-hidden="true"
+                    >
+                      <Icon size={25} />
+                    </span>
+                    <h4 className="text-hero-heading mt-4 text-sm leading-snug font-semibold lg:text-base">
+                      {label}
+                    </h4>
+                  </div>
                 </li>
               );
             })}
