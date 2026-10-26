@@ -1,0 +1,156 @@
+{
+  "logo": {
+    "src": "/images/lmi-logo.png",
+    "alt": "LMI – Logistics Management International",
+    "wordmark": "LMi",
+    "tagline": "Logistics Management International"
+  },
+  "links": [
+    {
+      "label": "Our Company",
+      "children": [
+        {
+          "label": "Certifications & Recognitions",
+          "path": "/company/certifications-recognitions"
+        },
+        {
+          "label": "Leadership",
+          "path": "/company/leadership"
+        },
+        {
+          "label": "About Us",
+          "path": "/company/about-us"
+        }
+      ]
+    },
+    {
+      "label": "Services",
+      "children": [
+        {
+          "label": "Heavy & Project Cargo",
+          "path": "/services/heavy-project-cargo"
+        },
+        {
+          "label": "Flatbed Transportation",
+          "path": "/services/flatbed-transportation"
+        },
+        {
+          "label": "Full Truckload (FTL)",
+          "path": "/services/full-truckload-ftl"
+        },
+        {
+          "label": "Containerized Transportation",
+          "path": "/services/containerized-transportation"
+        },
+        {
+          "label": "Dry Cargo Transportation",
+          "path": "/services/dry-cargo-transportation"
+        },
+        {
+          "label": "Chemical & Liquid Cargo Transportation",
+          "path": "/services/chemical-liquid-cargo-transportation"
+        },
+        {
+          "label": "Petroleum Transportation",
+          "path": "/services/petroleum-transportation"
+        },
+        {
+          "label": "Road Freight Transportation",
+          "path": "/services/road-freight-transportation"
+        },
+        {
+          "label": "Overview",
+          "path": "/services"
+        }
+      ]
+    },
+    {
+      "label": "Industries",
+      "children": [
+        {
+          "label": "Automotive",
+          "path": "/industries/automotive"
+        },
+        {
+          "label": "Construction & Engineering",
+          "path": "/industries/construction-engineering"
+        },
+        {
+          "label": "Manufacturing & Industrial",
+          "path": "/industries/manufacturing-industrial"
+        },
+        {
+          "label": "Chemicals & Petrochemicals",
+          "path": "/industries/chemicals-petrochemicals"
+        },
+        {
+          "label": "Oil, Gas & Energy",
+          "path": "/industries/oil-gas-energy"
+        },
+        {
+          "label": "Overview",
+          "path": "/industries"
+        }
+      ]
+    },
+    {
+      "label": "Fleet & Visibility",
+      "children": [
+        {
+          "label": "Shipment Tracking & Operational Visibility",
+          "path": "/fleet-visibility/shipment-tracking-operational-visibility"
+        },
+        {
+          "label": "Nationwide Network",
+          "path": "/fleet-visibility/nationwide-network"
+        },
+        {
+          "label": "Fleet & Equipment",
+          "path": "/fleet-visibility/fleet-equipment"
+        },
+        {
+          "label": "Overview",
+          "path": "/fleet-visibility"
+        }
+      ]
+    },
+    {
+      "label": "HSSE",
+      "children": [
+        {
+          "label": "Fleet Safety & Maintenance",
+          "path": "/hsse/fleet-safety-maintenance"
+        },
+        {
+          "label": "Training & Operational Safety",
+          "path": "/hsse/training-operational-safety"
+        },
+        {
+          "label": "Driver & Road Safety",
+          "path": "/hsse/driver-road-safety"
+        },
+        {
+          "label": "Overview",
+          "path": "/hsse"
+        }
+      ]
+    },
+    {
+      "label": "Insights",
+      "children": [
+        {
+          "label": "Case Studies",
+          "path": "/insights/case-studies"
+        },
+        {
+          "label": "Overview",
+          "path": "/insights"
+        }
+      ]
+    },
+    {
+      "label": "Contact Us",
+      "path": "/contact-us"
+    }
+  ]
+}

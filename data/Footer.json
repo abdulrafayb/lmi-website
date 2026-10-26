@@ -1,0 +1,131 @@
+{
+  "description": "Delivering safe, reliable and efficient road transportation solutions across Pakistan.",
+  "socials": [
+    {
+      "platform": "facebook",
+      "label": "LMI on Facebook",
+      "href": "https://www.facebook.com/"
+    },
+    {
+      "platform": "linkedin",
+      "label": "LMI on LinkedIn",
+      "href": "https://www.linkedin.com/"
+    },
+    {
+      "platform": "instagram",
+      "label": "LMI on Instagram",
+      "href": "https://www.instagram.com/"
+    }
+  ],
+  "columns": [
+    {
+      "title": "Company",
+      "links": [
+        {
+          "label": "About LMI",
+          "path": "/company/about-us"
+        },
+        {
+          "label": "Leadership",
+          "path": "/company/leadership"
+        },
+        {
+          "label": "Careers",
+          "path": "/company/careers"
+        },
+        {
+          "label": "Newsroom",
+          "path": "/company/newsroom"
+        }
+      ]
+    },
+    {
+      "title": "Services",
+      "links": [
+        {
+          "label": "Petroleum Transportation",
+          "path": "/services/petroleum-transportation"
+        },
+        {
+          "label": "Chemical & Liquid Cargo",
+          "path": "/services/chemical-liquid-cargo-transportation"
+        },
+        {
+          "label": "Road Freight & FTL",
+          "path": "/services/road-freight-transportation"
+        },
+        {
+          "label": "Containerized Transportation",
+          "path": "/services/containerized-transportation"
+        },
+        {
+          "label": "Flatbed & Project Cargo",
+          "path": "/services/flatbed-transportation"
+        },
+        {
+          "label": "Vehicle Transportation",
+          "path": "/services/vehicle-transportation"
+        }
+      ]
+    },
+    {
+      "title": "Industries",
+      "links": [
+        {
+          "label": "Oil, Gas & Energy",
+          "path": "/industries/oil-gas-energy"
+        },
+        {
+          "label": "Chemicals & Petrochemicals",
+          "path": "/industries/chemicals-petrochemicals"
+        },
+        {
+          "label": "Manufacturing & Industrial",
+          "path": "/industries/manufacturing-industrial"
+        },
+        {
+          "label": "Construction & Engineering",
+          "path": "/industries/construction-engineering"
+        },
+        {
+          "label": "Automotive",
+          "path": "/industries/automotive"
+        }
+      ]
+    },
+    {
+      "title": "Quick Links",
+      "links": [
+        {
+          "label": "Fleet & Visibility",
+          "path": "/fleet-visibility"
+        },
+        {
+          "label": "HSSE",
+          "path": "/hsse"
+        },
+        {
+          "label": "Insights",
+          "path": "/insights"
+        },
+        {
+          "label": "Contact Us",
+          "path": "/contact-us"
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "title": "Contact Us",
+    "phone": {
+      "label": "+92-21-35293173-76",
+      "href": "tel:+922135293173"
+    },
+    "email": {
+      "label": "info@lmipk.com",
+      "href": "mailto:info@lmipk.com"
+    },
+    "address": "Suite # 119, 1st Floor, Clifton Center, Block 5, Clifton, Karachi, Pakistan"
+  },
+  "copyright": "Logistics Management International (Pvt) Ltd. All Rights Reserved."
+}
