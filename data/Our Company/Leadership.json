@@ -1,0 +1,41 @@
+{
+  "sectionOne": {
+    "eyebrow": "Direction and accountability",
+    "heading": ["Leadership That", "Keeps Operations", "Moving"],
+    "description": "At LMI, leadership connects strategic direction with the realities of transportation: operational discipline, safety, customer focus and accountability.",
+    "action": {
+      "label": "Meet Our Leadership",
+      "href": "#leadership-team"
+    },
+    "image": null,
+    "imageAlt": "LMI leadership with a truck",
+    "imagePlaceholder": "[Photo: LMI leadership with a truck]"
+  },
+  "sectionTwo": {
+    "eyebrow": "How we lead",
+    "heading": "Direction Grounded in Accountability",
+    "description": "Strong performance in transportation depends on planning, disciplined execution, risk management and customer support.",
+    "principles": [
+      {
+        "icon": "safety",
+        "heading": "Safety & responsibility",
+        "description": "We prioritize people, communities and assets in every decision."
+      },
+      {
+        "icon": "operations",
+        "heading": "Operational excellence",
+        "description": "We build systems and processes that drive reliability and efficiency."
+      },
+      {
+        "icon": "customers",
+        "heading": "Customer commitment",
+        "description": "We partner with customers to solve challenges and deliver value."
+      },
+      {
+        "icon": "performance",
+        "heading": "Sustainable performance",
+        "description": "We focus on long-term value, responsible growth and performance."
+      }
+    ]
+  }
+}

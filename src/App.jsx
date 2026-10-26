@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import ContactUs from "./pages/ContactUs";
 import AboutUs from "./pages/our-company/AboutUs";
+import Leadership from "./pages/our-company/Leadership";
 import CertificationsAndRecognitions from "./pages/our-company/CertificationsAndRecognitions";
 
 export default function App() {
@@ -15,6 +16,7 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/contact-us" element={<ContactUs />} />
           <Route path="/company/about-us" element={<AboutUs />} />
+          <Route path="/company/leadership" element={<Leadership />} />
           <Route
             path="/company/certifications-recognitions"
             element={<CertificationsAndRecognitions />}
