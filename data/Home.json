@@ -253,5 +253,88 @@
       "label": "Learn about our HSSE approach",
       "path": "/hsse"
     }
+  },
+  "sectionEight": {
+    "eyebrow": "Built for your sector",
+    "heading": "Customized Solutions for Every Industry",
+    "description": "Each industry moves differently. We match the equipment, safety standards and planning to how yours operates.",
+    "exploreLabel": "Explore",
+    "industries": [
+      {
+        "title": "Oil, Gas & Energy",
+        "path": "/industries/oil-gas-energy",
+        "image": null,
+        "imagePlaceholder": "[Photo: Oil, Gas & Energy]"
+      },
+      {
+        "title": "Chemicals & Petrochemicals",
+        "path": "/industries/chemicals-petrochemicals",
+        "image": null,
+        "imagePlaceholder": "[Photo: Chemicals & Petrochemicals]"
+      },
+      {
+        "title": "Manufacturing & Industrial",
+        "path": "/industries/manufacturing-industrial",
+        "image": null,
+        "imagePlaceholder": "[Photo: Manufacturing & Industrial]"
+      },
+      {
+        "title": "Construction & Engineering",
+        "path": "/industries/construction-engineering",
+        "image": null,
+        "imagePlaceholder": "[Photo: Construction & Engineering]"
+      },
+      {
+        "title": "Automotive",
+        "path": "/industries/automotive",
+        "image": null,
+        "imagePlaceholder": "[Photo: Automotive]"
+      }
+    ]
+  },
+  "sectionNine": {
+    "insights": {
+      "eyebrow": "Insights",
+      "heading": "Latest From the Road",
+      "items": [
+        {
+          "id": "insight-one",
+          "category": "Insight",
+          "title": "[Article title]"
+        },
+        {
+          "id": "insight-two",
+          "category": "Insight",
+          "title": "[Article title]"
+        },
+        {
+          "id": "case-study-one",
+          "category": "Case study",
+          "title": "[Case study title]"
+        }
+      ],
+      "action": {
+        "label": "View all insights",
+        "path": "/insights"
+      }
+    },
+    "caseStudies": {
+      "eyebrow": "Case studies",
+      "heading": "Transportation in Practice",
+      "description": "Real movements, told in four parts: challenge, approach, delivery and result.",
+      "stages": ["Challenge", "Approach", "Delivery", "Result"],
+      "action": {
+        "label": "View case studies",
+        "path": "/insights/case-studies"
+      }
+    }
+  },
+  "sectionTen": {
+    "heading": "Let's Plan Your Next Movement",
+    "description": "Tell us what you need to move, where it needs to go and when.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
   }
 }

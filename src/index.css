@@ -25,8 +25,10 @@
   /* ---- Home proof points ---- */
   --color-proof-surface: #f6f4ef;
   --color-proof-accent: #ffae42;
+  --color-action-amber-hover: #ffc166;
   --color-proof-divider: #e9e5dd;
 
+  --color-editorial-border: #d6cdbf;
   --color-equipment-badge: #fff2da;
 
   /* Continuous logo motion, consumed by Tailwind's animate-logo-scroll utility. */
@@ -61,6 +63,10 @@ body {
   /* Shared button variant; section layouts use Tailwind utilities in JSX. */
   .secondary {
     @apply border-brand-red bg-surface text-brand-red hover:bg-brand-red hover:text-surface;
+  }
+
+  .tertiary {
+    @apply border-proof-accent bg-proof-accent text-brand-black hover:border-action-amber-hover hover:bg-action-amber-hover;
   }
 
   .wrapper {

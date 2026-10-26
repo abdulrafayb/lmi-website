@@ -4,8 +4,11 @@ import SectionThree from "../sections/home/SectionThree";
 import SectionFour from "../sections/home/SectionFour";
 import SectionFive from "../sections/home/SectionFive";
 import SectionSix from "../sections/home/SectionSix";
-
 import SectionSeven from "../sections/home/SectionSeven";
+import SectionEight from "../sections/home/SectionEight";
+import SectionNine from "../sections/home/SectionNine";
+
+import SectionTen from "../sections/home/SectionTen";
 
 export default function Home() {
   return (
@@ -17,6 +20,9 @@ export default function Home() {
       <SectionFive />
       <SectionSix />
       <SectionSeven />
+      <SectionEight />
+      <SectionNine />
+      <SectionTen />
     </>
   );
 }
