@@ -1,3 +1,4 @@
+import Reveal from "../../components/Reveal";
 import {
   ClipboardText,
   MapPin,
@@ -18,12 +19,14 @@ export default function SectionThree() {
   return (
     <section className="bg-proof-surface py-7.5" aria-label={label}>
       <ul className="wrapper lg:divide-proof-divider grid max-w-290 grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4 lg:gap-0 lg:divide-x">
-        {items.map(({ icon, text }) => {
+        {items.map(({ icon, text }, index) => {
           const Icon = icons[icon];
           return (
-            <li
+            <Reveal
+              as="li"
+              delay={index * 0.05}
               key={icon}
-              className="text-hero-heading flex min-w-0 items-center gap-4 lg:px-5"
+              className="text-hero-heading flex min-w-0 flex-col items-center gap-4 text-center lg:flex-row lg:px-5 lg:text-left"
             >
               <span
                 className="bg-proof-accent grid size-11 shrink-0 place-items-center rounded-md"
@@ -32,7 +35,7 @@ export default function SectionThree() {
                 <Icon size={24} />
               </span>
               <span className="text-base leading-snug font-bold">{text}</span>
-            </li>
+            </Reveal>
           );
         })}
       </ul>

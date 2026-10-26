@@ -27,6 +27,8 @@
   --color-proof-accent: #ffae42;
   --color-proof-divider: #e9e5dd;
 
+  --color-equipment-badge: #fff2da;
+
   /* Continuous logo motion, consumed by Tailwind's animate-logo-scroll utility. */
   --animate-logo-scroll: logo-scroll 30s linear infinite;
 

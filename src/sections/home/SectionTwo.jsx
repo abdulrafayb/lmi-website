@@ -1,11 +1,15 @@
+import Reveal from "../../components/Reveal";
 import homeData from "../../../data/Home.json";
 
 const { heading, placeholderLabel, logos } = homeData.sectionTwo;
 
 export default function SectionTwo() {
   return (
-    <section className="bg-surface py-4.5" aria-labelledby="home-trust-heading">
-      <div className="wrapper flex flex-col gap-4 lg:flex-row lg:items-center lg:gap-6">
+    <section
+      className="bg-surface py-4.5 text-center lg:text-left"
+      aria-labelledby="home-trust-heading"
+    >
+      <Reveal className="wrapper flex flex-col gap-4 lg:flex-row lg:items-center lg:gap-6">
         <h2
           id="home-trust-heading"
           className="text-hero-copy shrink-0 text-sm font-semibold tracking-[0.12em] uppercase"
@@ -55,7 +59,7 @@ export default function SectionTwo() {
             </div>
           </div>
         </div>
-      </div>
+      </Reveal>
     </section>
   );
 }
