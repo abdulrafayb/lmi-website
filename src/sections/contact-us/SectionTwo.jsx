@@ -1,6 +1,12 @@
 import { useState } from "react";
 import { useForm } from "react-hook-form";
-import { ArrowRight, Envelope, MapPin, Phone } from "@phosphor-icons/react";
+import {
+  ArrowRight,
+  CaretDown,
+  Envelope,
+  MapPin,
+  Phone,
+} from "@phosphor-icons/react";
 import Reveal from "../../components/Reveal";
 import contactData from "../../../data/Contact Us.json";
 
@@ -127,16 +133,27 @@ export default function SectionTwo() {
                         )}
                       </label>
                       {type === "select" ? (
-                        <select {...props} defaultValue="">
-                          <option value="" disabled>
-                            {placeholder}
-                          </option>
-                          {services.map((service) => (
-                            <option key={service} value={service}>
-                              {service}
+                        <div className="relative mt-2">
+                          <select
+                            {...props}
+                            defaultValue=""
+                            className={`${props.className.replace("mt-2", "")} appearance-none pr-11`}
+                          >
+                            <option value="" disabled>
+                              {placeholder}
                             </option>
-                          ))}
-                        </select>
+                            {services.map((service) => (
+                              <option key={service} value={service}>
+                                {service}
+                              </option>
+                            ))}
+                          </select>
+                          <CaretDown
+                            size={17}
+                            aria-hidden="true"
+                            className="text-hero-heading pointer-events-none absolute top-1/2 right-4 -translate-y-1/2"
+                          />
+                        </div>
                       ) : type === "textarea" ? (
                         <textarea
                           {...props}
