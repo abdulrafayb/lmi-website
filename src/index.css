@@ -1,1 +1,74 @@
-@import 'tailwindcss';
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800&display=swap");
+@import "tailwindcss";
+
+@theme {
+  /* ---- Brand colors (sampled from the LMI logo) ---- */
+  --color-brand-red: #c22735; /* logo red – primary */
+  --color-brand-red-dark: #b61a21; /* logo shadow red – hover / pressed */
+  --color-brand-black: #101213; /* nav text black – headings, dark sections */
+  --color-brand-charcoal: #29282c; /* softer black – body text, dark cards */
+  --color-brand-ink: #1b1e22; /* footer background (sampled from design) */
+  --color-placeholder: #d1d3d6; /* grey block used until real photos are added */
+
+  /* ---- Typography ---- */
+  --font-sans: "Barlow", ui-sans-serif, system-ui, sans-serif;
+
+  /* ---- Breakpoints (screen sizes) ---- */
+  --breakpoint-sm: 40rem; /* 640px */
+  --breakpoint-md: 48rem; /* 768px */
+  --breakpoint-lg: 64rem; /* 1024px */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-brand-charcoal);
+  background: #ffffff;
+}
+
+@layer components {
+  .wrapper {
+    @apply mx-auto w-full max-w-340 px-4 md:px-6 lg:px-8;
+  }
+
+  .section-spacing {
+    @apply mb-12 md:mb-16 lg:mb-24;
+  }
+
+  .heading-primary {
+    @apply text-brand-black text-xl leading-tight font-black md:text-3xl lg:text-5xl;
+  }
+
+  .heading-secondary {
+    @apply text-brand-black text-lg font-bold md:text-2xl lg:text-4xl;
+  }
+
+  .heading-tertiary {
+    @apply text-brand-black text-lg font-bold md:text-xl lg:text-2xl;
+  }
+
+  .heading-quaternary {
+    @apply text-brand-black text-base font-semibold md:text-lg lg:text-xl;
+  }
+
+  .paragraph-primary {
+    @apply text-brand-charcoal/90 text-sm font-medium md:text-base lg:text-lg;
+  }
+
+  .paragraph-secondary {
+    @apply text-brand-charcoal/70 text-xs font-medium md:text-sm lg:text-base;
+  }
+
+  .paragraph-tertiary {
+    @apply text-brand-charcoal/70 text-xs font-medium lg:text-sm;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
