@@ -1,0 +1,68 @@
+{
+  "sectionOne": {
+    "heading": ["Road Transportation", "You Can Rely On,", "Across Pakistan"],
+    "description": "Transportation built around your cargo, route and operations, with the right equipment, trained people and an assured fleet network ready exactly when required.",
+    "actions": [
+      {
+        "label": "Explore Our Services",
+        "path": "/services",
+        "variant": "primary",
+        "showArrow": true
+      },
+      {
+        "label": "Get a Quote",
+        "path": "/contact-us",
+        "variant": "secondary",
+        "showArrow": false
+      }
+    ],
+    "photoCaption": "[Photo: LMI truck on a Pakistani highway]"
+  },
+  "sectionTwo": {
+    "heading": "Trusted by industry leaders",
+    "placeholderLabel": "[logo]",
+    "logos": [
+      {
+        "name": "Shell Pakistan",
+        "src": null
+      },
+      {
+        "name": "PSO",
+        "src": null
+      },
+      {
+        "name": "Caltex",
+        "src": null
+      },
+      {
+        "name": "Engro",
+        "src": null
+      },
+      {
+        "name": "NLC",
+        "src": null
+      }
+    ]
+  },
+  "sectionThree": {
+    "label": "Why choose LMI",
+    "items": [
+      {
+        "icon": "legacy",
+        "text": "Legacy since 1954"
+      },
+      {
+        "icon": "coverage",
+        "text": "Nationwide coverage"
+      },
+      {
+        "icon": "safety",
+        "text": "Safety-first operations"
+      },
+      {
+        "icon": "team",
+        "text": "Experienced team"
+      }
+    ]
+  }
+}
