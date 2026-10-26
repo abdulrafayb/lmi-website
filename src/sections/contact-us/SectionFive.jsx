@@ -23,7 +23,7 @@ export default function SectionFive() {
           </h2>
         </Reveal>
         <Reveal className="mt-7">
-          <Accordion items={items} defaultOpenIndex={0} columns={2} />
+          <Accordion items={items} defaultOpenIndex={0} />
         </Reveal>
       </div>
     </section>

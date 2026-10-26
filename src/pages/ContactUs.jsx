@@ -1,10 +1,10 @@
-import SectionOne from "../sections/contact/SectionOne";
-import SectionTwo from "../sections/contact/SectionTwo";
-import SectionThree from "../sections/contact/SectionThree";
-import SectionFour from "../sections/contact/SectionFour";
-import SectionFive from "../sections/contact/SectionFive";
+import SectionOne from "../sections/contact-us/SectionOne";
+import SectionTwo from "../sections/contact-us/SectionTwo";
+import SectionThree from "../sections/contact-us/SectionThree";
+import SectionFour from "../sections/contact-us/SectionFour";
+import SectionFive from "../sections/contact-us/SectionFive";
 
-import SectionSix from "../sections/contact/SectionSix";
+import SectionSix from "../sections/contact-us/SectionSix";
 
 export default function ContactUs() {
   return (
