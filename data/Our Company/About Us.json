@@ -10,5 +10,142 @@
     "image": null,
     "imageAlt": "LMI trucks on the road",
     "imagePlaceholder": "[Photo: LMI trucks on the road]"
+  },
+  "sectionTwo": {
+    "eyebrow": "Who we are",
+    "heading": "A Legacy That Began With One Truck",
+    "paragraphs": [
+      "Our legacy traces back to 1954 and the vision of Mr. Abdul Rahim, who started with a single truck and went on to establish Taj Transport Company. That modest beginning grew into Mehran Tankers, a name synonymous with reliability in Pakistan’s transport industry.",
+      "Building on this foundation, Mr. Abdul Wahab established Logistics Management International (LMI) in July 2005, structuring the company around fresh thinking, innovative ideas and modern logistics techniques."
+    ],
+    "milestones": [
+      {
+        "year": "1954",
+        "description": "Taj Transport Company starts with one truck and grows into Mehran Tankers."
+      },
+      {
+        "year": "1983",
+        "description": "Cartage contractor to Pakistan State Oil (PSO)."
+      },
+      {
+        "year": "1984",
+        "description": "Cartage and bridging licensee for Caltex Oil (Pakistan)."
+      },
+      {
+        "year": "2002",
+        "description": "Certified as Shell Pakistan general cartage contractor."
+      },
+      {
+        "year": "2005",
+        "description": "Logistics Management International (LMI) is established in July."
+      },
+      {
+        "year": "Today",
+        "description": "Nationwide third-party logistics, built on assured fleet availability."
+      }
+    ]
+  },
+  "sectionThree": {
+    "label": "Our vision and mission",
+    "cards": [
+      {
+        "icon": "vision",
+        "eyebrow": "Our vision",
+        "heading": "Pakistan’s Most Professional 3PL",
+        "description": "To be Pakistan’s most professional 3PL organization, built on core values, professional excellence and continuous growth. We strive to deliver superior logistics services and innovative solutions that create lasting value for our clients."
+      },
+      {
+        "icon": "mission",
+        "eyebrow": "Our mission",
+        "heading": "Customized Logistics, Built to Grow",
+        "description": "To expand our business frontiers by discovering new markets, building a performance-driven culture rooted in sustainability, and ensuring our clients receive customized logistics solutions, with a focus on dry cargo, oil and liquid, containerized or otherwise."
+      }
+    ]
+  },
+  "sectionFour": {
+    "eyebrow": "Our approach",
+    "heading": "Built on Six Core Values",
+    "description": "The principles that shape how we plan, drive, maintain and serve, on every movement.",
+    "values": [
+      {
+        "number": "01",
+        "icon": "planning",
+        "heading": "Thorough planning",
+        "description": "Every operation backed by careful, forward-looking planning."
+      },
+      {
+        "number": "02",
+        "icon": "innovation",
+        "heading": "Innovation",
+        "description": "Modern ideas and techniques to stay ahead of industry change."
+      },
+      {
+        "number": "03",
+        "icon": "performance",
+        "heading": "Performance-driven culture",
+        "description": "Accountability and results at every level."
+      },
+      {
+        "number": "04",
+        "icon": "safety",
+        "heading": "Health, safety & environment",
+        "description": "An uncompromising focus on safe operations."
+      },
+      {
+        "number": "05",
+        "icon": "customers",
+        "heading": "Customer satisfaction",
+        "description": "Reliability and service excellence in every delivery."
+      },
+      {
+        "number": "06",
+        "icon": "progress",
+        "heading": "Sustained progression",
+        "description": "Committed to long-term growth and continuous improvement."
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Our base",
+    "heading": "A Karachi Base Built for Fleet Readiness",
+    "description": "Our facility keeps the fleet maintained, inspected and ready, so vehicles are available exactly when required.",
+    "facilities": [
+      {
+        "icon": "maintenance",
+        "label": "Engine overhauling & maintenance"
+      },
+      {
+        "icon": "team",
+        "label": "Skilled technical team"
+      },
+      {
+        "icon": "repair",
+        "label": "Weighbridge, body-making & repair"
+      },
+      {
+        "icon": "parts",
+        "label": "Genuine spare parts stocked"
+      },
+      {
+        "icon": "fuel",
+        "label": "On-site petrol & service stations"
+      },
+      {
+        "icon": "inspection",
+        "label": "Vehicle inspection stations"
+      },
+      {
+        "icon": "accommodation",
+        "label": "Driver & staff accommodation"
+      },
+      {
+        "icon": "site",
+        "label": "[10-acre Karachi site]",
+        "note": "[Confirm]"
+      }
+    ],
+    "image": null,
+    "imageAlt": "LMI base facility, Karachi",
+    "imagePlaceholder": "[Photo: LMI base facility, Karachi]"
   }
 }
