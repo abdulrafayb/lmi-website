@@ -64,5 +64,73 @@
         "text": "Experienced team"
       }
     ]
+  },
+  "sectionFour": {
+    "eyebrow": "What we move",
+    "heading": "Transportation Services for Every Cargo",
+    "description": "Road transportation solutions matched to your cargo, with the right equipment for safe, reliable delivery across Pakistan.",
+    "exploreLabel": "Explore",
+    "action": {
+      "label": "View all services",
+      "path": "/services"
+    },
+    "services": [
+      {
+        "title": "Petroleum Transportation",
+        "description": "Crude, refined products, furnace oil and bitumen by our tanker fleet.",
+        "path": "/services/petroleum-transportation",
+        "image": null,
+        "imagePlaceholder": "[Photo: Petroleum Transportation]"
+      },
+      {
+        "title": "Chemical & Liquid Cargo",
+        "description": "Chemicals, fertilizers and liquid cargo matched to the right equipment.",
+        "path": "/services/chemical-liquid-cargo-transportation",
+        "image": null,
+        "imagePlaceholder": "[Photo: Chemical & Liquid Cargo]"
+      },
+      {
+        "title": "Road Freight",
+        "description": "Commercial, industrial and specialised cargo by road across Pakistan.",
+        "path": "/services/road-freight-transportation",
+        "image": null,
+        "imagePlaceholder": "[Photo: Road Freight]"
+      },
+      {
+        "title": "Dry Cargo",
+        "description": "Packaged, palletized and bulk dry goods, protected to delivery.",
+        "path": "/services/dry-cargo-transportation",
+        "image": null,
+        "imagePlaceholder": "[Photo: Dry Cargo]"
+      },
+      {
+        "title": "Containerized",
+        "description": "Container movements between ports, plants and warehouses.",
+        "path": "/services/containerized-transportation",
+        "image": null,
+        "imagePlaceholder": "[Photo: Containerized]"
+      },
+      {
+        "title": "Full Truckload (FTL)",
+        "description": "A dedicated truck for your shipment, pickup to delivery.",
+        "path": "/services/full-truckload-ftl",
+        "image": null,
+        "imagePlaceholder": "[Photo: Full Truckload (FTL)]"
+      },
+      {
+        "title": "Flatbed",
+        "description": "Open-deck transport for machinery, steel and construction materials.",
+        "path": "/services/flatbed-transportation",
+        "image": null,
+        "imagePlaceholder": "[Photo: Flatbed]"
+      },
+      {
+        "title": "Heavy & Project Cargo",
+        "description": "Planned movement of oversized and project-based cargo.",
+        "path": "/services/heavy-project-cargo",
+        "image": null,
+        "imagePlaceholder": "[Photo: Heavy & Project Cargo]"
+      }
+    ]
   }
 }
