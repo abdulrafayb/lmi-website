@@ -25,7 +25,7 @@ export default function SectionTwo() {
       aria-labelledby="automotive-cargo-heading"
     >
       <div className="wrapper max-w-320">
-        <Reveal>
+        <Reveal className="text-center">
           <Eyebrow className="mb-4">{eyebrow}</Eyebrow>
           <h2
             id="automotive-cargo-heading"

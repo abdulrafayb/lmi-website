@@ -12,7 +12,7 @@ export default function SectionSix() {
       aria-labelledby="automotive-faq-heading"
     >
       <div className="wrapper max-w-320">
-        <Reveal>
+        <Reveal className="text-center">
           <Eyebrow className="mb-4">{eyebrow}</Eyebrow>
           <h2
             id="automotive-faq-heading"

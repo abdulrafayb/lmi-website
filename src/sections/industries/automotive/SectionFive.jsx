@@ -19,7 +19,7 @@ export default function SectionFive() {
       aria-labelledby="automotive-clients-heading"
     >
       <div className="wrapper max-w-320">
-        <Reveal className="mx-auto max-w-4xl lg:mx-0">
+        <Reveal className="mx-auto max-w-4xl text-center">
           <Eyebrow className="mb-4">{eyebrow}</Eyebrow>
           <h2
             id="automotive-clients-heading"

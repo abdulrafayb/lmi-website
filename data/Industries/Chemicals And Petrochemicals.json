@@ -18,5 +18,200 @@
       "label": "Contact Us Today",
       "path": "/contact-us"
     }
+  },
+  "sectionTwo": {
+    "eyebrow": "What we move",
+    "heading": "Controlled cargo, handled with care",
+    "cargo": [
+      {
+        "icon": "chemicals",
+        "heading": "Industrial Chemicals",
+        "description": "Bulk and packaged chemicals moved to plants and facilities."
+      },
+      {
+        "icon": "fertilizers",
+        "heading": "Fertilizers",
+        "description": "Urea and other fertilizers lifted from seaports to destinations across Pakistan."
+      },
+      {
+        "icon": "liquids",
+        "heading": "Liquid Cargo",
+        "description": "Liquids transported in suitable tankers matched to the product."
+      },
+      {
+        "icon": "packaged",
+        "heading": "Packaged & Containerized Goods",
+        "description": "Enclosed transport where cargo needs greater protection."
+      },
+      {
+        "icon": "recurring",
+        "heading": "Recurring Routes",
+        "description": "Scheduled movements planned around your plant’s needs."
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "How we work",
+    "heading": "Built Around Controlled Chemical Operations",
+    "paragraphs": [
+      "Chemical cargo depends on the details: the nature of the product, whether it is liquid or packaged, how it is loaded and unloaded, and what the receiving site requires. We review these before a vehicle is assigned, so the equipment and the people fit the cargo.",
+      "Drivers and operational teams are trained for careful handling, with protective equipment and emergency preparedness part of the routine. Our assured fleet network of verified trucks and drivers is ready exactly when required, so scheduled supply to your plant stays on track.",
+      "Vehicles are inspected before dispatch, and every movement follows our HSE policy and ISO 9001 certification standards."
+    ],
+    "action": {
+      "label": "Learn more about our HSSE standards",
+      "path": "/hsse"
+    },
+    "panelHeading": "Controlled handling, step by step",
+    "steps": [
+      {
+        "number": "01",
+        "heading": "Cargo characteristics",
+        "description": "Understand the product, whether liquid, packaged or industrial cargo."
+      },
+      {
+        "number": "02",
+        "heading": "Suitable equipment",
+        "description": "Match the tanker, truck or container configuration to the cargo."
+      },
+      {
+        "number": "03",
+        "heading": "Trained people",
+        "description": "Drivers equipped with protective gear and emergency awareness."
+      },
+      {
+        "number": "04",
+        "heading": "Controlled loading & unloading",
+        "description": "Coordinated with the facility at both ends of the journey."
+      }
+    ]
+  },
+  "sectionFour": {
+    "eyebrow": "Services we use",
+    "heading": "Transportation Solutions for Chemical Operations",
+    "services": [
+      {
+        "title": "Chemical & Liquid Cargo",
+        "description": "Secure handling and transport of chemicals and liquid cargo.",
+        "image": null,
+        "imageAlt": "chemical tanker",
+        "imagePlaceholder": "[Photo: chemical tanker]",
+        "action": {
+          "label": "Explore Chemical & Liquid Cargo",
+          "path": "/services/chemical-liquid-cargo-transportation"
+        }
+      },
+      {
+        "title": "Petroleum Transportation",
+        "description": "Petroleum-based products moved by tanker where your operation requires it.",
+        "image": null,
+        "imageAlt": "petroleum tanker",
+        "imagePlaceholder": "[Photo: petroleum tanker]",
+        "action": {
+          "label": "Explore Petroleum Transportation",
+          "path": "/services/petroleum-transportation"
+        }
+      },
+      {
+        "title": "Dry & Packaged Cargo",
+        "description": "Packaged and palletized goods for industrial and commercial supply chains.",
+        "image": null,
+        "imageAlt": "dry cargo",
+        "imagePlaceholder": "[Photo: dry cargo]",
+        "action": {
+          "label": "Explore Dry Cargo",
+          "path": "/services/dry-cargo-transportation"
+        }
+      },
+      {
+        "title": "Road Freight",
+        "description": "Flexible full truckload and containerized movements nationwide.",
+        "image": null,
+        "imageAlt": "road freight",
+        "imagePlaceholder": "[Photo: road freight]",
+        "action": {
+          "label": "Explore Road Freight",
+          "path": "/services/road-freight-transportation"
+        }
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Trusted by",
+    "heading": "Leading Industrial Names",
+    "description": "LMI supports fertilizer, chemical and manufacturing businesses that depend on safe, on-time transportation. Our operations follow ISO 9001 certification standards.",
+    "logoPlaceholder": "[logo]",
+    "clients": [
+      {
+        "id": "engro",
+        "name": "Engro",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "nfml",
+        "name": "NFML",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "novatex",
+        "name": "Novatex",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "cnergyico",
+        "name": "Cnergyico",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "apag",
+        "name": "APAG",
+        "image": null,
+        "placeholder": false
+      }
+    ],
+    "highlights": [
+      {
+        "heading": "Fertilizer logistics",
+        "description": "Urea lifted from seaports and delivered to destinations across Pakistan for NFML and Engro."
+      },
+      {
+        "heading": "Safety record",
+        "description": "Recognized for safety performance by BP Pakistan (2001) and awarded for road safety participation."
+      }
+    ],
+    "testimonial": {
+      "quote": "[Client testimonial: two to three sentences about working with LMI]",
+      "attribution": "[Name], [Job Title], [Company]"
+    }
+  },
+  "sectionSix": {
+    "eyebrow": "FAQ",
+    "heading": "Chemical Transportation Questions",
+    "items": [
+      {
+        "question": "What chemical cargo do you transport?",
+        "answer": "Chemicals, fertilizers and liquid cargo, in bulk or packaged form, subject to the cargo’s characteristics and your site requirements."
+      },
+      {
+        "question": "How do you match equipment to the cargo?",
+        "answer": "We review the product, quantity, loading environment and destination before assigning a tanker, truck or container configuration."
+      },
+      {
+        "question": "Can you move fertilizers from the port?",
+        "answer": "Yes. We lift fertilizers such as urea from seaports and deliver them to destinations across Pakistan."
+      },
+      {
+        "question": "How is safety managed?",
+        "answer": "Through a strict HSE policy: trained drivers, vehicle inspection, protective equipment, emergency response procedures and incident reporting, in line with ISO 9001 standards."
+      },
+      {
+        "question": "How do I request a quote?",
+        "answer": "Tell us the cargo, quantity, pickup point, destination and timeline, and our team will recommend a transportation approach."
+      }
+    ]
   }
 }

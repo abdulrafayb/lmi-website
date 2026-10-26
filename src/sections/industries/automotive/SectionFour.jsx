@@ -13,7 +13,7 @@ export default function SectionFour() {
       aria-labelledby="automotive-services-heading"
     >
       <div className="wrapper max-w-320">
-        <Reveal>
+        <Reveal className="text-center">
           <Eyebrow className="mb-4">{eyebrow}</Eyebrow>
           <h2
             id="automotive-services-heading"
