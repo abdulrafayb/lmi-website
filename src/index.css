@@ -29,6 +29,7 @@
   --color-proof-divider: #e9e5dd;
 
   --color-editorial-border: #d6cdbf;
+  --color-process-number: #ffe0b2;
   --color-equipment-badge: #fff2da;
 
   /* Continuous logo motion, consumed by Tailwind's animate-logo-scroll utility. */
@@ -62,7 +63,7 @@ body {
 @layer components {
   /* Shared button variant; section layouts use Tailwind utilities in JSX. */
   .secondary {
-    @apply border-brand-red bg-transparent text-brand-red hover:bg-brand-red hover:text-surface;
+    @apply border-brand-red text-brand-red hover:bg-brand-red hover:text-surface bg-transparent;
   }
 
   .tertiary {
