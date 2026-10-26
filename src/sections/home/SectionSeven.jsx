@@ -1,3 +1,4 @@
+import Eyebrow from "../../ui/Eyebrow";
 import { ArrowRight } from "@phosphor-icons/react";
 import { Link } from "react-router-dom";
 import Reveal from "../../components/Reveal";
@@ -18,9 +19,7 @@ export default function SectionSeven() {
     >
       <div className="wrapper max-w-280">
         <Reveal className="text-center">
-          <p className="text-brand-red mb-4 text-xs font-semibold tracking-[0.16em] uppercase">
-            {eyebrow}
-          </p>
+          <Eyebrow className="mb-4">{eyebrow}</Eyebrow>
           <h2
             id="home-safety-heading"
             className="text-hero-heading text-2xl leading-snug font-bold tracking-tight md:text-3xl lg:text-4xl"
@@ -36,9 +35,7 @@ export default function SectionSeven() {
               delay={index * 0.06}
               className={`border-t-4 px-5 pt-6 ${accents[accent]}`}
             >
-              <h3 className="text-brand-red text-xs font-semibold tracking-[0.12em] uppercase">
-                {category}
-              </h3>
+              <Eyebrow as="h3">{category}</Eyebrow>
               <p className="text-hero-heading mt-3 text-xl leading-snug font-bold lg:text-2xl">
                 {heading}
               </p>

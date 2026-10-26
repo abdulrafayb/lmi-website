@@ -1,3 +1,4 @@
+import Eyebrow from "../../ui/Eyebrow";
 import Reveal from "../../components/Reveal";
 import { ArrowRight } from "@phosphor-icons/react";
 import { Link } from "react-router-dom";
@@ -14,9 +15,7 @@ export default function SectionFour() {
     >
       <div className="wrapper">
         <Reveal className="mx-auto max-w-3xl text-center">
-          <p className="text-brand-red mb-3 text-xs font-semibold tracking-[0.16em] uppercase">
-            {eyebrow}
-          </p>
+          <Eyebrow className="mb-3">{eyebrow}</Eyebrow>
           <h2
             id="home-services-heading"
             className="text-hero-heading text-2xl leading-tight font-bold tracking-tight md:text-3xl lg:text-4xl"

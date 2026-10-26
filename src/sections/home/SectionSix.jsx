@@ -1,3 +1,4 @@
+import Eyebrow from "../../ui/Eyebrow";
 import { ArrowRight, Check, MapPin } from "@phosphor-icons/react";
 import { Link } from "react-router-dom";
 import Reveal from "../../components/Reveal";
@@ -22,9 +23,7 @@ export default function SectionSix() {
     >
       <div className="wrapper grid max-w-280 items-center gap-10 lg:grid-cols-2 lg:gap-16">
         <Reveal>
-          <p className="text-brand-red mb-4 text-xs font-semibold tracking-[0.16em] uppercase">
-            {eyebrow}
-          </p>
+          <Eyebrow className="mb-4">{eyebrow}</Eyebrow>
           <h2
             id="home-reach-heading"
             className="text-hero-heading mx-auto max-w-lg text-2xl leading-snug font-bold tracking-tight md:text-3xl lg:mx-0 lg:text-4xl"

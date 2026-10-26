@@ -1,3 +1,4 @@
+import Eyebrow from "../../ui/Eyebrow";
 import { Envelope, Users, ClipboardText, Truck } from "@phosphor-icons/react";
 import Reveal from "../../components/Reveal";
 import contactData from "../../../data/Contact Us.json";
@@ -18,9 +19,7 @@ export default function SectionThree() {
     >
       <div className="wrapper max-w-280">
         <Reveal className="text-center">
-          <p className="text-brand-red mb-4 text-xs font-semibold tracking-[0.16em] uppercase">
-            {eyebrow}
-          </p>
+          <Eyebrow className="mb-4">{eyebrow}</Eyebrow>
           <h2
             id="contact-process-heading"
             className="text-hero-heading text-2xl leading-snug font-bold tracking-tight md:text-3xl lg:text-4xl"

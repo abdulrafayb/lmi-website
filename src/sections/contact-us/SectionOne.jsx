@@ -1,3 +1,4 @@
+import Eyebrow from "../../ui/Eyebrow";
 import { ArrowRight } from "@phosphor-icons/react";
 import Reveal from "../../components/Reveal";
 import contactData from "../../../data/Contact Us.json";
@@ -20,9 +21,7 @@ export default function SectionOne() {
     >
       <div className="wrapper grid max-w-320 items-center gap-10 lg:grid-cols-2 lg:gap-12">
         <Reveal>
-          <p className="text-brand-red mb-5 text-xs font-semibold tracking-[0.16em] uppercase">
-            {eyebrow}
-          </p>
+          <Eyebrow className="mb-5">{eyebrow}</Eyebrow>
           <h1
             id="contact-heading"
             className="text-hero-heading text-3xl leading-[1.12] font-extrabold tracking-tight sm:text-4xl lg:text-5xl xl:text-[3.25rem]"

@@ -1,3 +1,4 @@
+import Eyebrow from "../../ui/Eyebrow";
 import { ArrowRight } from "@phosphor-icons/react";
 import { Link } from "react-router-dom";
 import Reveal from "../../components/Reveal";
@@ -13,9 +14,7 @@ export default function SectionNine() {
     >
       <div className="wrapper grid max-w-280 items-start gap-10 lg:grid-cols-2 lg:gap-14">
         <Reveal>
-          <p className="text-brand-red mb-4 text-xs font-semibold tracking-[0.16em] uppercase">
-            {insights.eyebrow}
-          </p>
+          <Eyebrow className="mb-4">{insights.eyebrow}</Eyebrow>
           <h2
             id="home-insights-heading"
             className="text-hero-heading text-2xl leading-snug font-bold tracking-tight md:text-3xl lg:text-4xl"
@@ -26,9 +25,7 @@ export default function SectionNine() {
             {insights.items.map(({ id, category, title }) => (
               <li key={id}>
                 <article className="border-editorial-border bg-surface rounded-md border-2 border-dashed px-4 py-4">
-                  <p className="text-brand-red text-xs font-semibold tracking-[0.12em] uppercase">
-                    {category}
-                  </p>
+                  <Eyebrow>{category}</Eyebrow>
                   <h3 className="text-hero-heading mt-2 text-sm font-semibold md:text-base">
                     {title}
                   </h3>
@@ -45,9 +42,7 @@ export default function SectionNine() {
           </Link>
         </Reveal>
         <Reveal delay={0.1}>
-          <p className="text-brand-red mb-4 text-xs font-semibold tracking-[0.16em] uppercase">
-            {caseStudies.eyebrow}
-          </p>
+          <Eyebrow className="mb-4">{caseStudies.eyebrow}</Eyebrow>
           <h2
             id="home-cases-heading"
             className="text-hero-heading text-2xl leading-snug font-bold tracking-tight md:text-3xl lg:text-4xl"

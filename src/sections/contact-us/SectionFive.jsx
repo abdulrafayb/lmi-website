@@ -1,3 +1,4 @@
+import Eyebrow from "../../ui/Eyebrow";
 import Accordion from "../../ui/Accordion";
 import Reveal from "../../components/Reveal";
 import contactData from "../../../data/Contact Us.json";
@@ -11,10 +12,8 @@ export default function SectionFive() {
       aria-labelledby="contact-faq-heading"
     >
       <div className="wrapper max-w-280">
-        <Reveal className="text-center lg:text-left">
-          <p className="text-brand-red mb-4 text-xs font-semibold tracking-[0.16em] uppercase">
-            {eyebrow}
-          </p>
+        <Reveal className="text-center">
+          <Eyebrow className="mb-4">{eyebrow}</Eyebrow>
           <h2
             id="contact-faq-heading"
             className="text-hero-heading text-2xl leading-snug font-bold tracking-tight md:text-3xl lg:text-4xl"

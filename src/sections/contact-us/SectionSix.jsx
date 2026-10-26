@@ -1,3 +1,4 @@
+import Eyebrow from "../../ui/Eyebrow";
 import { Users } from "@phosphor-icons/react";
 import Reveal from "../../components/Reveal";
 import contactData from "../../../data/Contact Us.json";
@@ -20,9 +21,7 @@ export default function SectionSix() {
             <Users size={26} />
           </span>
           <div className="min-w-0 flex-1">
-            <p className="text-brand-red mb-3 text-xs font-semibold tracking-[0.16em] uppercase">
-              {eyebrow}
-            </p>
+            <Eyebrow className="mb-3">{eyebrow}</Eyebrow>
             <h2
               id="contact-careers-heading"
               className="text-hero-heading text-xl leading-snug font-bold tracking-tight md:text-2xl"

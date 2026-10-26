@@ -1,3 +1,4 @@
+import Eyebrow from "../../ui/Eyebrow";
 import { useState } from "react";
 import { useForm } from "react-hook-form";
 import {
@@ -60,9 +61,7 @@ export default function SectionTwo() {
             aria-labelledby="contact-quote-heading"
             aria-describedby="quote-note"
           >
-            <p className="text-brand-red mb-3 text-xs font-semibold tracking-[0.16em] uppercase">
-              {eyebrow}
-            </p>
+            <Eyebrow className="mb-3">{eyebrow}</Eyebrow>
             <h2
               id="contact-quote-heading"
               className="text-hero-heading text-2xl leading-snug font-bold tracking-tight"
@@ -209,9 +208,7 @@ export default function SectionTwo() {
           </form>
         </Reveal>
         <Reveal delay={0.1} className="min-w-0 lg:pt-7">
-          <p className="text-brand-red mb-3 text-xs font-semibold tracking-[0.16em] uppercase">
-            {contact.eyebrow}
-          </p>
+          <Eyebrow className="mb-3">{contact.eyebrow}</Eyebrow>
           <h2 className="text-hero-heading text-2xl leading-snug font-bold tracking-tight">
             {contact.heading}
           </h2>
