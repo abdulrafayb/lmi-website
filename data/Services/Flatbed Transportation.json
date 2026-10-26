@@ -1,0 +1,22 @@
+{
+  "sectionOne": {
+    "eyebrow": "OPEN-DECK CARGO",
+    "heading": ["Flatbed", "Transportation in", "Pakistan"],
+    "description": "Open-deck transport for machinery, steel and construction materials, with careful load securing and site-aware planning from our assured fleet network.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI flatbed carrying steel or machinery",
+    "imagePlaceholder": "[Photo: LMI flatbed carrying steel or machinery]"
+  },
+  "sectionEight": {
+    "heading": "Need open-deck transportation?",
+    "description": "Share your cargo, dimensions and site location.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}

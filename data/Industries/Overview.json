@@ -1,0 +1,22 @@
+{
+  "sectionOne": {
+    "eyebrow": "SECTOR EXPERTISE",
+    "heading": ["Transportation Built", "Around the Industries", "We Serve"],
+    "description": "Every industry places different demands on transportation. LMI aligns equipment, safety practices and coordination with the requirements of each sector, across Pakistan.",
+    "action": {
+      "label": "Explore Industries",
+      "path": "#industries"
+    },
+    "image": null,
+    "imageAlt": "LMI trucks across industrial settings",
+    "imagePlaceholder": "[Photo: LMI trucks across industrial settings]"
+  },
+  "sectionSix": {
+    "heading": "How Can We Move Your Operation Forward?",
+    "description": "Tell us about your cargo, pickup point, destination and operating requirements.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}

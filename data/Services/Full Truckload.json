@@ -1,0 +1,22 @@
+{
+  "sectionOne": {
+    "eyebrow": "DEDICATED CAPACITY",
+    "heading": ["Full Truckload (FTL)", "Transportation in", "Pakistan"],
+    "description": "A dedicated truck for your shipment, planned from pickup to delivery, with vehicles from our assured fleet network ready exactly when required.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI truck loaded for a full-truckload shipment",
+    "imagePlaceholder": "[Photo: LMI truck loaded for a full-truckload shipment]"
+  },
+  "sectionEight": {
+    "heading": "Need dedicated truck capacity?",
+    "description": "Share your cargo, pickup point and destination.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}

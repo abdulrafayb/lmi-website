@@ -1,0 +1,22 @@
+{
+  "sectionOne": {
+    "eyebrow": "SPECIALIZED HANDLING",
+    "heading": ["Chemical &", "Petrochemical", "Transportation in", "Pakistan"],
+    "description": "LMI provides secure transportation of chemicals, fertilizers and liquid cargo across Pakistan, with suitable equipment, trained drivers and safety-focused handling at every stage of the journey.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI chemical tanker at an industrial site",
+    "imagePlaceholder": "[Photo: LMI chemical tanker at an industrial site]"
+  },
+  "sectionSeven": {
+    "heading": "How Can We Move Your Chemical Cargo Safely?",
+    "description": "Tell us about the cargo, facility, pickup point, destination and operating requirements.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}

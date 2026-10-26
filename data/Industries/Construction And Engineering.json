@@ -1,0 +1,27 @@
+{
+  "sectionOne": {
+    "eyebrow": "PROJECT SITES",
+    "heading": [
+      "Construction &",
+      "Engineering",
+      "Transportation in",
+      "Pakistan"
+    ],
+    "description": "From bitumen for highway projects to machinery, steel and building materials, LMI supports project sites across Pakistan with planned, site-aware road transportation.",
+    "action": {
+      "label": "Discuss Your Project",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI truck delivering to a construction site",
+    "imagePlaceholder": "[Photo: LMI truck delivering to a construction site]"
+  },
+  "sectionSeven": {
+    "heading": "What Does Your Project Site Need Delivered?",
+    "description": "Tell us about the cargo, pickup point, project location and delivery requirements.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}

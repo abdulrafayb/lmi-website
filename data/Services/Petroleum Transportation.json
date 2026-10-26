@@ -1,0 +1,22 @@
+{
+  "sectionOne": {
+    "eyebrow": "OUR TANKER FLEET",
+    "heading": ["Petroleum", "Transportation in", "Pakistan"],
+    "description": "Crude oil, condensate and refined petroleum products moved by our tanker fleet for oil marketing companies, refineries and energy operators, with safety-focused practices from the filling point to delivery.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI petroleum tanker on the road",
+    "imagePlaceholder": "[Photo: LMI petroleum tanker on the road]"
+  },
+  "sectionEight": {
+    "heading": "Planning a petroleum movement?",
+    "description": "Tell us the product, quantity, pickup point, destination and timeline.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}

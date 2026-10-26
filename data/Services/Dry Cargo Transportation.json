@@ -1,0 +1,22 @@
+{
+  "sectionOne": {
+    "eyebrow": "PACKAGED & PALLETIZED",
+    "heading": ["Dry Cargo", "Transportation in", "Pakistan"],
+    "description": "Packaged, palletized and bulk dry goods moved safely from factory and warehouse to the receiving site, on enclosed and covered vehicles from our assured fleet network.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI dry cargo truck at a loading dock",
+    "imagePlaceholder": "[Photo: LMI dry cargo truck at a loading dock]"
+  },
+  "sectionEight": {
+    "heading": "Ready to move your dry cargo?",
+    "description": "Tell us about your cargo, pickup point and destination.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}

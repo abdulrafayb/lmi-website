@@ -1,0 +1,27 @@
+{
+  "sectionOne": {
+    "eyebrow": "PLANTS TO CUSTOMERS",
+    "heading": [
+      "Manufacturing &",
+      "Industrial",
+      "Transportation in",
+      "Pakistan"
+    ],
+    "description": "From raw materials to finished goods, LMI keeps your production and delivery schedules moving with dependable road freight, full truckload and containerized transport across Pakistan.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI truck at a manufacturing plant",
+    "imagePlaceholder": "[Photo: LMI truck at a manufacturing plant]"
+  },
+  "sectionSeven": {
+    "heading": "How Can We Keep Your Production Moving?",
+    "description": "Tell us about your cargo, pickup point, destination and operating requirements.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}

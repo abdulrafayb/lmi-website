@@ -1,0 +1,22 @@
+{
+  "sectionOne": {
+    "eyebrow": "VEHICLES & PARTS",
+    "heading": ["Vehicle & Automotive", "Transportation in", "Pakistan"],
+    "description": "LMI moves vehicles, parts and equipment across Pakistan with purpose-built car carriers, careful loading and coordinated delivery from pickup to handover.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "Car carrier loaded with vehicles",
+    "imagePlaceholder": "[Photo: car carrier loaded with vehicles]"
+  },
+  "sectionSeven": {
+    "heading": "How Can We Move Your Vehicles Safely?",
+    "description": "Tell us about your vehicles, parts or equipment, the pickup point and the destination.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}

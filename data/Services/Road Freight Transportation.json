@@ -1,0 +1,22 @@
+{
+  "sectionOne": {
+    "eyebrow": "NATIONWIDE FREIGHT",
+    "heading": ["Road Freight", "Transportation in", "Pakistan"],
+    "description": "Commercial, industrial and specialised cargo moved by road across Pakistan, with trucks and drivers from our assured fleet network ready exactly when required.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI truck on a Pakistani highway",
+    "imagePlaceholder": "[Photo: LMI truck on a Pakistani highway]"
+  },
+  "sectionEight": {
+    "heading": "Planning a road freight movement?",
+    "description": "Tell us what you need to move, where it needs to go and when.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sectionOne": {
+    "eyebrow": "OUR RANGE",
+    "heading": ["Transportation", "Services Built Around", "Your Cargo"],
+    "description": "From routine road freight to petroleum, chemical and project cargo, LMI matches the vehicle, the people and the plan to what you are moving, across Pakistan.",
+    "action": {
+      "label": "Explore Our Services",
+      "path": "#services"
+    },
+    "image": null,
+    "imageAlt": "LMI trucks, tanker and flatbed together",
+    "imagePlaceholder": "[Photo: LMI trucks, tanker and flatbed together]"
+  },
+  "sectionSix": {
+    "heading": "What do you need to move?",
+    "description": "Tell us about your cargo, pickup point and destination, and we will recommend the right service.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sectionOne": {
+    "eyebrow": "CONTROLLED LIQUID CARGO",
+    "heading": ["Chemical & Liquid", "Cargo Transportation", "in Pakistan"],
+    "description": "Chemicals, fertilizers and liquid cargo moved by our tankers and trucks, matched to the product and handled by trained drivers with safety-focused practices.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI chemical tanker at an industrial site",
+    "imagePlaceholder": "[Photo: LMI chemical tanker at an industrial site]"
+  },
+  "sectionEight": {
+    "heading": "Planning a chemical or liquid movement?",
+    "description": "Tell us the product, quantity, pickup point, destination and timeline.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}

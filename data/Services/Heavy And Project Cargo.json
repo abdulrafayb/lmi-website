@@ -1,0 +1,22 @@
+{
+  "sectionOne": {
+    "eyebrow": "BEYOND STANDARD LOADS",
+    "heading": ["Heavy & Project", "Cargo Transportation", "in Pakistan"],
+    "description": "Planned road transportation for oversized, heavy and project-based cargo, with route and site coordination from our assured fleet network.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI heavy-haul trailer carrying industrial equipment",
+    "imagePlaceholder": "[Photo: LMI heavy-haul trailer carrying industrial equipment]"
+  },
+  "sectionEight": {
+    "heading": "Planning a complex cargo movement?",
+    "description": "Share the cargo details, dimensions, pickup and site location.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}

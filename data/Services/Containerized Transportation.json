@@ -1,0 +1,22 @@
+{
+  "sectionOne": {
+    "eyebrow": "PORT TO PLANT",
+    "heading": ["Containerized", "Transportation in", "Pakistan"],
+    "description": "Enclosed container movements between ports, plants and warehouses across Pakistan, with suitable vehicles and coordinated loading from our assured fleet network.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI truck carrying a container",
+    "imagePlaceholder": "[Photo: LMI truck carrying a container]"
+  },
+  "sectionEight": {
+    "heading": "Need containers moved?",
+    "description": "Share the container size, weight, pickup point and destination.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}
