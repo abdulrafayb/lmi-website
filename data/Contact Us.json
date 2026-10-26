@@ -178,5 +178,38 @@
         "path": "/hsse"
       }
     ]
+  },
+  "sectionFive": {
+    "eyebrow": "FAQ",
+    "heading": "Contact Questions",
+    "items": [
+      {
+        "question": "What should I include in my requirement?",
+        "answer": "The type of cargo, quantity, pickup and delivery locations, and any timing or equipment needs."
+      },
+      {
+        "question": "How quickly will you respond?",
+        "answer": "Our team reviews each requirement and contacts you using the details provided."
+      },
+      {
+        "question": "Can I request a quote for recurring routes?",
+        "answer": "Yes. Tell us the route and frequency and we will plan around it."
+      },
+      {
+        "question": "Can I visit your office?",
+        "answer": "Yes. Our office is in Clifton, Karachi. Please contact us to arrange your visit."
+      }
+    ]
+  },
+  "sectionSix": {
+    "eyebrow": "Careers",
+    "heading": "Interested in Being Part of Our Team?",
+    "description": "Send your CV or reach out to us at",
+    "email": "careers@lmipk.com",
+    "emailHref": "mailto:careers@lmipk.com",
+    "action": {
+      "label": "Send Your CV",
+      "href": "mailto:careers@lmipk.com?subject=Career%20enquiry"
+    }
   }
 }
