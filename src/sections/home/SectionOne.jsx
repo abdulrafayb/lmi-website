@@ -3,7 +3,7 @@ import { ArrowRight } from "@phosphor-icons/react";
 import { Link } from "react-router-dom";
 import homeData from "../../../data/Home.json";
 
-const { heading, description, actions, photoCaption } = homeData.sectionOne;
+const { heading, description, actions } = homeData.sectionOne;
 
 export default function SectionOne() {
   return (
@@ -44,9 +44,6 @@ export default function SectionOne() {
           </div>
         </Reveal>
       </div>
-      <p className="text-hero-copy absolute right-6 bottom-5 left-6 text-center text-[0.6875rem] lg:right-[clamp(1.5rem,10vw,8.5rem)] lg:text-right">
-        {photoCaption}
-      </p>
     </section>
   );
 }

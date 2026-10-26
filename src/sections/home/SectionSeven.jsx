@@ -45,7 +45,7 @@ export default function SectionSeven() {
             </Reveal>
           ))}
         </ul>
-        <div className="mt-9 flex justify-center lg:mt-14 lg:justify-start">
+        <div className="mt-9 flex justify-center lg:mt-14">
           <Link
             to={action.path}
             className="secondary outline-brand-red inline-flex min-h-10 items-center justify-center gap-2 rounded-sm border px-5 py-2 text-sm font-semibold transition-colors focus-visible:outline-2 focus-visible:outline-offset-4"
