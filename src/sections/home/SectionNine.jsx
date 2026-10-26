@@ -38,7 +38,7 @@ export default function SectionNine() {
           </ul>
           <Link
             to={insights.action.path}
-            className="text-brand-red outline-brand-red mt-4 inline-flex min-h-11 items-center justify-center gap-1 text-sm font-medium underline-offset-4 hover:underline focus-visible:outline-2 focus-visible:outline-offset-4"
+            className="secondary outline-brand-red mt-4 inline-flex min-h-10 items-center justify-center gap-2 rounded-sm border px-5 py-2 text-sm font-semibold transition-colors focus-visible:outline-2 focus-visible:outline-offset-4"
           >
             {insights.action.label}
             <ArrowRight size={16} aria-hidden="true" />
@@ -69,7 +69,7 @@ export default function SectionNine() {
           </ol>
           <Link
             to={caseStudies.action.path}
-            className="text-brand-red outline-brand-red mt-3 inline-flex min-h-11 items-center justify-center gap-1 text-sm font-medium underline-offset-4 hover:underline focus-visible:outline-2 focus-visible:outline-offset-4"
+            className="secondary outline-brand-red mt-3 inline-flex min-h-10 items-center justify-center gap-2 rounded-sm border px-5 py-2 text-sm font-semibold transition-colors focus-visible:outline-2 focus-visible:outline-offset-4"
           >
             {caseStudies.action.label}
             <ArrowRight size={16} aria-hidden="true" />

@@ -62,7 +62,7 @@ body {
 @layer components {
   /* Shared button variant; section layouts use Tailwind utilities in JSX. */
   .secondary {
-    @apply border-brand-red bg-surface text-brand-red hover:bg-brand-red hover:text-surface;
+    @apply border-brand-red bg-transparent text-brand-red hover:bg-brand-red hover:text-surface;
   }
 
   .tertiary {

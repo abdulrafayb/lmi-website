@@ -17,7 +17,7 @@ export default function SectionSeven() {
       aria-labelledby="home-safety-heading"
     >
       <div className="wrapper max-w-280">
-        <Reveal>
+        <Reveal className="text-center">
           <p className="text-brand-red mb-4 text-xs font-semibold tracking-[0.16em] uppercase">
             {eyebrow}
           </p>
