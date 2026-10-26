@@ -19,7 +19,6 @@ const {
   executiveHeading,
   executiveRole,
   functions,
-  note,
   action,
 } = leadershipData.sectionFive;
 const icons = {
@@ -61,13 +60,13 @@ export default function SectionFive() {
             className="text-proof-accent mx-auto mt-4 lg:hidden"
             aria-hidden="true"
           />
-          <ul className="lg:before:bg-proof-accent relative mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:mt-10 lg:grid-cols-5 lg:before:absolute lg:before:-top-5 lg:before:right-[10%] lg:before:left-[10%] lg:before:h-0.5 lg:before:content-['']">
+          <ul className="lg:before:bg-proof-accent relative mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:mt-10 lg:grid-cols-5 lg:before:absolute lg:before:-top-5 lg:before:right-[calc(10%-0.4rem)] lg:before:left-[calc(10%-0.4rem)] lg:before:h-0.5 lg:before:content-['']">
             {functions.map(({ icon, label }) => {
               const Icon = icons[icon];
               return (
                 <li
                   key={icon}
-                  className="border-trust-border bg-surface lg:before:bg-proof-accent relative rounded-md border px-4 py-5 lg:before:absolute lg:before:-top-5 lg:before:left-1/2 lg:before:h-5 lg:before:w-0.5 lg:before:-translate-x-1/2 lg:before:content-['']"
+                  className="border-trust-border bg-surface lg:before:bg-proof-accent relative rounded-md border px-4 py-5 lg:before:absolute lg:before:-top-[calc(1.25rem+1px)] lg:before:left-1/2 lg:before:h-[calc(1.25rem+1px)] lg:before:w-0.5 lg:before:-translate-x-1/2 lg:before:content-['']"
                 >
                   <span
                     className="bg-proof-accent text-hero-heading mx-auto grid size-12 place-items-center rounded-md"
@@ -83,8 +82,7 @@ export default function SectionFive() {
             })}
           </ul>
         </Reveal>
-        <p className="text-hero-copy mt-7 text-sm leading-relaxed">{note}</p>
-        <div className="mt-5 flex justify-center">
+        <div className="mt-7 flex justify-center">
           <Button to={action.path} variant="secondary">
             {action.label}
             <ArrowRight size={17} aria-hidden="true" />

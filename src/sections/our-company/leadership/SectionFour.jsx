@@ -2,8 +2,7 @@ import Eyebrow from "../../../ui/Eyebrow";
 import Reveal from "../../../components/Reveal";
 import leadershipData from "../../../../data/Our Company/Leadership.json";
 
-const { eyebrow, heading, placeholderLabel, members } =
-  leadershipData.sectionFour;
+const { eyebrow, heading, members } = leadershipData.sectionFour;
 
 export default function SectionFour() {
   return (
@@ -48,11 +47,6 @@ export default function SectionFour() {
                 <p className="text-brand-red mt-2 text-sm leading-relaxed font-semibold">
                   {role}
                 </p>
-                {!image && (
-                  <p className="text-hero-copy mt-3 text-xs leading-relaxed">
-                    {placeholderLabel}
-                  </p>
-                )}
               </article>
             </Reveal>
           ))}

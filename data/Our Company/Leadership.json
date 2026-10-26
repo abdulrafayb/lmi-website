@@ -56,7 +56,6 @@
   "sectionFour": {
     "eyebrow": "Our team",
     "heading": "Meet the People Behind Every Movement",
-    "placeholderLabel": "[Photo and bio]",
     "members": [
       {
         "name": "Insaf Ahmed",
@@ -118,7 +117,6 @@
         "label": "Fleet & Maintenance"
       }
     ],
-    "note": "[Confirm: structure shown is indicative]",
     "action": {
       "label": "Learn more about LMI",
       "path": "/company/about-us"
