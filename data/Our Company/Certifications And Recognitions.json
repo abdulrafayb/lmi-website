@@ -10,5 +10,187 @@
     "image": null,
     "imageAlt": "LMI tanker at a terminal",
     "imagePlaceholder": "[Photo: LMI tanker at a terminal]"
+  },
+  "sectionTwo": {
+    "eyebrow": "Why it matters",
+    "heading": "Built Around Professional Operating Standards",
+    "paragraphs": [
+      "Our certifications and approvals reflect process discipline, trained people and a culture focused on safety, reliability and continuous improvement.",
+      "Partner with LMI for consistent standards, and the confidence that your cargo is in capable hands."
+    ],
+    "action": {
+      "label": "Explore our services",
+      "path": "/#home-services-heading"
+    },
+    "standardsHeading": "What our standards rest on",
+    "standards": [
+      {
+        "icon": "process",
+        "heading": "Process discipline",
+        "description": "Clear workflows and daily checks"
+      },
+      {
+        "icon": "people",
+        "heading": "Trained people",
+        "description": "Ongoing training and safety orientation"
+      },
+      {
+        "icon": "safety",
+        "heading": "Safety culture",
+        "description": "HSSE built into every movement"
+      },
+      {
+        "icon": "improvement",
+        "heading": "Continuous improvement",
+        "description": "Standards reviewed and raised"
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "Our credentials",
+    "heading": "Recognition Built Through Performance",
+    "imagePlaceholder": "[Certificate or award image]",
+    "credentials": [
+      {
+        "title": "ISO 9001",
+        "description": "Operations follow ISO 9001 certification standards. [Confirm certificate holder and year]",
+        "image": null
+      },
+      {
+        "title": "Shell Pakistan",
+        "description": "General cartage contractor for 18+ years, certified in 2002.",
+        "image": null
+      },
+      {
+        "title": "Pakistan State Oil",
+        "description": "Cartage contractor since 1983.",
+        "image": null
+      },
+      {
+        "title": "Caltex Oil (Pakistan)",
+        "description": "Cartage and bridging licensee since 1984.",
+        "image": null
+      },
+      {
+        "title": "BP Pakistan E&P",
+        "description": "Recognised for outstanding safety performance (2001).",
+        "image": null
+      },
+      {
+        "title": "Road safety award",
+        "description": "Awarded for road safety participation. [Add year and awarding body]",
+        "image": null
+      },
+      {
+        "title": "DynCorp (UN programs)",
+        "description": "Petroleum and aviation fuel supply in Afghanistan (2003).",
+        "image": null
+      },
+      {
+        "title": "Chamber of Commerce & Industry",
+        "description": "Registered member. [Add membership details]",
+        "image": null
+      }
+    ]
+  },
+  "sectionFour": {
+    "eyebrow": "Our commitments",
+    "heading": "Confidence at Every Stage of Transportation",
+    "commitments": [
+      {
+        "icon": "safety",
+        "label": "Safe execution"
+      },
+      {
+        "icon": "fleet",
+        "label": "Fleet readiness"
+      },
+      {
+        "icon": "discipline",
+        "label": "Operational discipline"
+      },
+      {
+        "icon": "customers",
+        "label": "Customer confidence"
+      }
+    ],
+    "description": "Strict safety standards protect our people, our cargo and the environment. Our vehicles and drivers are prepared to perform with discipline, and our systems keep every move consistent. Daily checks, clear workflows and routine training keep that standard in practice.",
+    "action": {
+      "label": "See our HSSE approach",
+      "path": "/hsse"
+    },
+    "policy": {
+      "eyebrow": "Want to know more?",
+      "heading": "Download Our HSSE Policy",
+      "description": "Read the policy behind how we run drivers, vehicles, cargo and operations.",
+      "coverBrand": "LMI",
+      "coverTitle": "HSSE Policy",
+      "fileNote": "LMI-HSSE-Policy.pdf · Placeholder link",
+      "action": {
+        "label": "Download PDF",
+        "href": "#hsse-policy-pdf",
+        "isPlaceholder": true
+      }
+    }
+  },
+  "sectionFive": {
+    "eyebrow": "Continuous assurance",
+    "heading": "Standards Are Not a One-Time Achievement",
+    "description": "Certification is the starting point. We keep training our people, maintaining our fleet, listening to customers and reviewing our processes, so the standard keeps rising.",
+    "points": [
+      "We invest in training so our people stay capable",
+      "Preventive maintenance keeps the fleet safe and efficient",
+      "We listen and improve based on real-world feedback",
+      "We review and enhance processes to raise the standard"
+    ],
+    "cycleHeading": "The assurance cycle",
+    "steps": [
+      {
+        "heading": "Training & competence",
+        "description": "people kept capable"
+      },
+      {
+        "heading": "Fleet maintenance",
+        "description": "vehicles kept ready"
+      },
+      {
+        "heading": "Customer feedback",
+        "description": "lessons learned"
+      },
+      {
+        "heading": "Process improvement",
+        "description": "standards raised"
+      }
+    ]
+  },
+  "sectionSix": {
+    "eyebrow": "FAQ",
+    "heading": "Certification Questions",
+    "items": [
+      {
+        "question": "Is LMI ISO 9001 certified?",
+        "answer": "Our operations follow ISO 9001 certification standards. [Confirm certificate holder, scope and year]"
+      },
+      {
+        "question": "Can I see your certificates?",
+        "answer": "Yes. Contact us and we will share certificates and safety documentation on request."
+      },
+      {
+        "question": "Which oil companies have approved LMI?",
+        "answer": "LMI has served Shell Pakistan, PSO and Caltex for decades and has been recognised by BP Pakistan for safety performance."
+      },
+      {
+        "question": "What is your HSE policy?",
+        "answer": "A strict policy covering trained drivers, vehicle inspection, protective equipment, emergency response and incident reporting."
+      }
+    ]
+  },
+  "sectionSeven": {
+    "heading": "Professional Standards. Reliable Execution.",
+    "description": "Road freight and specialized transportation built around safety, reliability and operational discipline.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
   }
 }
