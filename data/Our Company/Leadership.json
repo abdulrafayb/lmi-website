@@ -89,5 +89,47 @@
         "image": null
       }
     ]
+  },
+  "sectionFive": {
+    "eyebrow": "One operating model",
+    "heading": "Leadership Across the Organization",
+    "description": "Executive leadership connects directly to the functions that run every movement: operations, commercial, finance and controls, HSSE, and fleet and maintenance.",
+    "executiveHeading": "Executive Leadership",
+    "executiveRole": "Chief Executive Officer",
+    "functions": [
+      {
+        "icon": "operations",
+        "label": "Operations"
+      },
+      {
+        "icon": "commercial",
+        "label": "Commercial"
+      },
+      {
+        "icon": "finance",
+        "label": "Finance & Controls"
+      },
+      {
+        "icon": "safety",
+        "label": "HSSE"
+      },
+      {
+        "icon": "maintenance",
+        "label": "Fleet & Maintenance"
+      }
+    ],
+    "note": "[Confirm: structure shown is indicative]",
+    "action": {
+      "label": "Learn more about LMI",
+      "path": "/company/about-us"
+    }
+  },
+  "sectionSix": {
+    "heading": "Work With a Team Focused on Reliable Transportation",
+    "description": "Whether you want to discuss a requirement, company capability or a business opportunity, connect with LMI.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
   }
 }
