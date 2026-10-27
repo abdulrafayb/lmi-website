@@ -86,5 +86,121 @@
         "description": "Coordinated unloading with the receiving site’s requirements."
       }
     ]
+  },
+  "sectionFour": {
+    "eyebrow": "Services we use",
+    "heading": "Transportation Solutions for Energy Operations",
+    "services": [
+      {
+        "title": "Petroleum Transportation",
+        "description": "Crude oil, condensate and refined products by tanker.",
+        "image": null,
+        "imageAlt": "petroleum tanker",
+        "imagePlaceholder": "[Photo: petroleum tanker]",
+        "action": {
+          "label": "Explore Petroleum Transportation",
+          "path": "/services/petroleum-transportation"
+        }
+      },
+      {
+        "title": "Bitumen Transportation",
+        "description": "Bitumen to refineries, plants and road project sites.",
+        "image": null,
+        "imageAlt": "bitumen tanker",
+        "imagePlaceholder": "[Photo: bitumen tanker]",
+        "action": {
+          "label": "Explore Bitumen Transportation",
+          "path": "/services/petroleum-transportation"
+        }
+      },
+      {
+        "title": "Chemical & Liquid Cargo",
+        "description": "Specialized liquid cargo transport where your operation needs it.",
+        "image": null,
+        "imageAlt": "chemical tanker",
+        "imagePlaceholder": "[Photo: chemical tanker]",
+        "action": {
+          "label": "Explore Chemical & Liquid Cargo",
+          "path": "/services/chemical-liquid-cargo-transportation"
+        }
+      },
+      {
+        "title": "Road Freight",
+        "description": "General and containerized cargo supporting energy-sector operations.",
+        "image": null,
+        "imageAlt": "road freight",
+        "imagePlaceholder": "[Photo: road freight]",
+        "action": {
+          "label": "Explore Road Freight",
+          "path": "/services/road-freight-transportation"
+        }
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Trusted by",
+    "heading": "Pakistan's Energy Leaders",
+    "description": "Decades of petroleum transportation experience, recognized by oil marketing companies and exploration operators. Our operations follow ISO 9001 certification standards.",
+    "logoPlaceholder": "[logo]",
+    "clients": [
+      {
+        "id": "shell",
+        "name": "Shell",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "pso",
+        "name": "PSO",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "caltex",
+        "name": "Caltex",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "bp-pakistan",
+        "name": "BP Pakistan",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "cnergyico",
+        "name": "Cnergyico",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "oilco",
+        "name": "Oilco",
+        "image": null,
+        "placeholder": false
+      }
+    ],
+    "highlights": [
+      {
+        "heading": "Shell Pakistan",
+        "description": "General cartage contractor for 18+ years (certified 2002)."
+      },
+      {
+        "heading": "Pakistan State Oil",
+        "description": "Cartage contractor since 1983."
+      },
+      {
+        "heading": "Caltex Oil (Pakistan)",
+        "description": "Cartage and Bridging Licensee since 1984."
+      },
+      {
+        "heading": "BP Pakistan E&P",
+        "description": "Crude oil and condensate transportation for over a decade; recognized for safety performance (2001)."
+      }
+    ],
+    "testimonial": {
+      "quote": "[Client testimonial: two to three sentences about working with LMI]",
+      "attribution": "[Name], [Job Title], [Company]"
+    }
   }
 }
