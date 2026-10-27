@@ -83,12 +83,12 @@ export default function Footer() {
 
         {/* BAND 2: contact (centered) */}
         <div className={DIVIDER}>
-          <div className="wrapper py-8 text-center">
+          <div className="wrapper max-w-440 py-8 text-center">
             {/* <h2 className="text-base font-semibold text-white">
               {contact.title}
             </h2> */}
 
-            <ul className="flex flex-col items-center gap-7 lg:grid lg:w-full lg:grid-cols-[auto_auto_minmax(0,1fr)] lg:items-center lg:gap-6 lg:divide-x lg:divide-white/18">
+            <ul className="flex flex-col items-center gap-7 lg:grid lg:w-full lg:grid-cols-[minmax(0,1fr)_minmax(0,1fr)_minmax(0,1.7fr)] lg:items-center lg:gap-0 lg:divide-x lg:divide-white/18">
               <li className="max-w-full min-w-0 lg:flex-1 lg:px-4">
                 <a
                   href={contact.phone.href}
@@ -124,7 +124,7 @@ export default function Footer() {
                     size={22}
                     className="shrink-0 text-white"
                   />
-                  <span className="min-w-0 xl:whitespace-nowrap">{contact.address}</span>
+                  <span className="min-w-0 2xl:whitespace-nowrap">{contact.address}</span>
                 </address>
               </li>
             </ul>
