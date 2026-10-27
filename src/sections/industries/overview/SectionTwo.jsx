@@ -15,7 +15,7 @@ export default function SectionTwo() {
       aria-labelledby="industries-explore-heading"
     >
       <div className="wrapper max-w-320">
-        <Reveal>
+        <Reveal className="text-center">
           <Eyebrow className="mb-4">{eyebrow}</Eyebrow>
           <h2
             id="industries-explore-heading"
