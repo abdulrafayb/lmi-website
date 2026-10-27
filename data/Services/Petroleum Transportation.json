@@ -1,7 +1,11 @@
 {
   "sectionOne": {
     "eyebrow": "OUR TANKER FLEET",
-    "heading": ["Petroleum", "Transportation in", "Pakistan"],
+    "heading": [
+      "Petroleum",
+      "Transportation in",
+      "Pakistan"
+    ],
     "description": "Crude oil, condensate and refined petroleum products moved by our tanker fleet for oil marketing companies, refineries and energy operators, with safety-focused practices from the filling point to delivery.",
     "action": {
       "label": "Discuss Your Requirement",
@@ -18,5 +22,196 @@
       "label": "Contact Us Today",
       "path": "/contact-us"
     }
+  },
+  "sectionTwo": {
+    "eyebrow": "How LMI does it",
+    "heading": "LMI\u2019s Petroleum Transportation",
+    "description": "Petroleum has been LMI\u2019s core business for decades. This is what that looks like in practice.",
+    "cards": [
+      {
+        "eyebrow": "What we run",
+        "heading": "Our tanker fleet",
+        "paragraphs": [
+          "Tankers for crude oil and condensate, white oil products (HOBC, HSD, MS, gasoline, Jet A-1), furnace oil and LDO, and bitumen.",
+          "Every vehicle is inspected before dispatch, fitted with fire-safety equipment, and driven by trained, screened drivers. [Confirm: tanker capacities / types]"
+        ]
+      },
+      {
+        "eyebrow": "Who we run it for",
+        "heading": "Oil majors and operators",
+        "paragraphs": [
+          "Cartage contractor to Shell Pakistan (certified 2002), Pakistan State Oil (since 1983) and Caltex (since 1984). Crude and condensate transport for BP Pakistan E&P.",
+          "Also supporting refineries and energy companies such as Cnergyico. [Confirm: which clients can be named]"
+        ]
+      },
+      {
+        "eyebrow": "Where we run it",
+        "heading": "From Karachi, nationwide",
+        "paragraphs": [
+          "Loaded from Karachi terminals and refineries to depots, plants and customers across Pakistan, with our 10-acre base facility in Karachi supporting operations.",
+          "[Confirm: main lanes, e.g. Karachi to Lahore, Multan, Peshawar, Quetta]"
+        ]
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "What we move",
+    "heading": "Petroleum Products We Transport",
+    "cargo": [
+      {
+        "icon": "chemical",
+        "heading": "Crude Oil & Condensate",
+        "description": "From source points to refineries and storage."
+      },
+      {
+        "icon": "fertilizer",
+        "heading": "Refined Products",
+        "description": "HOBC, HSD, MS, gasoline and Jet A-1 to depots and customers."
+      },
+      {
+        "icon": "liquid",
+        "heading": "Furnace Oil & LDO",
+        "description": "Bulk liquid fuels for power plants and industrial users."
+      },
+      {
+        "icon": "packaged",
+        "heading": "Bitumen",
+        "description": "To refineries, plants and road project sites."
+      }
+    ]
+  },
+  "sectionFour": {
+    "eyebrow": "Built around the movement",
+    "heading": "From Filling Point to Delivery",
+    "description": "Terminals, filling points and receiving sites each have their own loading and safety requirements. An assured fleet network is ready exactly when required, so recurring supply runs keep to schedule.",
+    "action": {
+      "label": "See our HSSE standards",
+      "path": "/hsse"
+    },
+    "panelHeading": "Prepared before it leaves",
+    "image": null,
+    "imageAlt": "LMI petroleum tanker ready for dispatch",
+    "imagePlaceholder": "[Photo: LMI petroleum tanker]",
+    "features": [
+      "Tanker inspected and safety-checked before dispatch",
+      "Fire-safety and protective equipment on board",
+      "Tanker-certified safety supervisors guide the work",
+      "Trained driver, briefed on the route"
+    ],
+    "steps": [
+      {
+        "number": "1",
+        "heading": "Review",
+        "description": "Product, quantity, route, pickup and delivery points."
+      },
+      {
+        "number": "2",
+        "heading": "Prepare",
+        "description": "Tanker assigned, inspected and safety-checked before dispatch."
+      },
+      {
+        "number": "3",
+        "heading": "Load",
+        "description": "Safe filling-point operations, with seal and valve checks."
+      },
+      {
+        "number": "4",
+        "heading": "Transport",
+        "description": "Defensive driving and coordination throughout the journey."
+      },
+      {
+        "number": "5",
+        "heading": "Deliver",
+        "description": "Controlled decanting to the receiving site\u2019s requirements."
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Trusted by",
+    "heading": "Pakistan\u2019s Energy Leaders",
+    "logoPlaceholder": "[logo]",
+    "clients": [
+      {
+        "id": "0",
+        "name": "Shell",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "1",
+        "name": "PSO",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "name": "Caltex",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "name": "BP Pakistan",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "name": "Cnergyico",
+        "image": null,
+        "placeholder": false
+      }
+    ],
+    "testimonial": {
+      "quote": "[Client testimonial: two to three sentences about working with LMI on petroleum transport]",
+      "attribution": "[Name], [Job Title], [Company]"
+    }
+  },
+  "sectionSix": {
+    "eyebrow": "FAQ",
+    "heading": "Petroleum Transportation Questions",
+    "items": [
+      {
+        "question": "Which petroleum products do you transport?",
+        "answer": "Crude oil and condensate, HOBC, HSD, MS, gasoline, furnace oil, Jet A-1, LDO and bitumen."
+      },
+      {
+        "question": "Can you handle regular scheduled supply runs?",
+        "answer": "Yes. We plan recurring lifting around your supply schedule, backed by an assured fleet ready exactly when required."
+      },
+      {
+        "question": "Do you move petroleum from Karachi to other cities?",
+        "answer": "Yes. We transport petroleum products from Karachi to destinations across Pakistan."
+      },
+      {
+        "question": "How is safety managed?",
+        "answer": "Through a strict HSE policy: trained drivers, pre-dispatch vehicle inspection, protective equipment and emergency response procedures, in line with ISO 9001 standards."
+      }
+    ]
+  },
+  "sectionSeven": {
+    "heading": "Related Services",
+    "services": [
+      {
+        "heading": "Chemical & Liquid Cargo",
+        "path": "/services/chemical-liquid-cargo-transportation",
+        "label": "Explore"
+      },
+      {
+        "heading": "Road Freight",
+        "path": "/services/road-freight-transportation",
+        "label": "Explore"
+      },
+      {
+        "heading": "Full Truckload (FTL)",
+        "path": "/services/full-truckload-ftl",
+        "label": "Explore"
+      },
+      {
+        "heading": "Oil, Gas & Energy",
+        "path": "/industries/oil-gas-energy",
+        "label": "Industry page"
+      }
+    ]
   }
 }
