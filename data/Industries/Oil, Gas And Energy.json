@@ -18,5 +18,73 @@
       "label": "Contact Us Today",
       "path": "/contact-us"
     }
+  },
+  "sectionTwo": {
+    "eyebrow": "What we move",
+    "heading": "Petroleum cargo, moved with care",
+    "cargo": [
+      {
+        "icon": "crude",
+        "heading": "Crude Oil & Condensate",
+        "description": "Transported from source points to refineries and storage."
+      },
+      {
+        "icon": "refined",
+        "heading": "Refined Products",
+        "description": "HOBC, HSD, MS, gasoline and Jet A-1 to depots and customers."
+      },
+      {
+        "icon": "furnace",
+        "heading": "Furnace Oil & LDO",
+        "description": "Bulk liquid fuels for power plants and industrial users."
+      },
+      {
+        "icon": "bitumen",
+        "heading": "Bitumen",
+        "description": "Moved to refineries, plants and road project sites."
+      },
+      {
+        "icon": "supply",
+        "heading": "Scheduled Supply Runs",
+        "description": "Recurring lifting planned around your supply schedule."
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "How we work",
+    "heading": "Built Around Energy-Sector Requirements",
+    "paragraphs": [
+      "Petroleum transportation is not like other freight. Terminals, filling points and receiving sites each bring their own loading arrangements and safety requirements, so we start by understanding the product, the quantities, the pickup and delivery points, and the schedule you need to meet.",
+      "LMI has carried petroleum products for oil marketing companies, refineries and exploration operations in Pakistan for decades. Drivers are trained for the work, vehicles are inspected before dispatch, and an assured fleet network of verified trucks and drivers is ready exactly when required.",
+      "Safety is part of every movement, including pre-trip checks, protective equipment and emergency response procedures."
+    ],
+    "action": {
+      "label": "Learn more about our HSSE standards",
+      "path": "/hsse"
+    },
+    "panelHeading": "From filling point to delivery",
+    "stages": ["Filling point", "Handling", "On the road", "Delivery"],
+    "steps": [
+      {
+        "number": "1",
+        "heading": "Filling-point readiness",
+        "description": "Suitable equipment and safe loading practices at the terminal or filling point."
+      },
+      {
+        "number": "2",
+        "heading": "Product handling",
+        "description": "Careful handling of sensitive material, with fire-hazard awareness and protective equipment."
+      },
+      {
+        "number": "3",
+        "heading": "Journey discipline",
+        "description": "Defensive driving, route awareness and compliance with road rules across all terrains."
+      },
+      {
+        "number": "4",
+        "heading": "Controlled delivery",
+        "description": "Coordinated unloading with the receiving site’s requirements."
+      }
+    ]
   }
 }
