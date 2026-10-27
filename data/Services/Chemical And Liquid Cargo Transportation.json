@@ -1,7 +1,11 @@
 {
   "sectionOne": {
     "eyebrow": "CONTROLLED LIQUID CARGO",
-    "heading": ["Chemical & Liquid", "Cargo Transportation", "in Pakistan"],
+    "heading": [
+      "Chemical & Liquid",
+      "Cargo Transportation",
+      "in Pakistan"
+    ],
     "description": "Chemicals, fertilizers and liquid cargo moved by our tankers and trucks, matched to the product and handled by trained drivers with safety-focused practices.",
     "action": {
       "label": "Discuss Your Requirement",
@@ -18,5 +22,206 @@
       "label": "Contact Us Today",
       "path": "/contact-us"
     }
+  },
+  "sectionTwo": {
+    "eyebrow": "How LMI does it",
+    "heading": "LMI\u2019s Chemical & Liquid Cargo Transportation",
+    "description": "We carry liquid and chemical cargo for industrial and fertilizer clients. This is how we run it.",
+    "cards": [
+      {
+        "eyebrow": "What we run",
+        "heading": "Our tankers, matched to the product",
+        "paragraphs": [
+          "Tankers and trucks selected for the nature of the cargo, liquid or packaged, and inspected before every dispatch, with protective and emergency equipment on board.",
+          "[Confirm: tanker types and the chemical classes LMI handles]"
+        ]
+      },
+      {
+        "eyebrow": "Who we run it for",
+        "heading": "Fertilizer and industrial clients",
+        "paragraphs": [
+          "Urea lifted from seaports and delivered across Pakistan for NFML and Engro, plus chemical and industrial cargo for clients including Novatex, Cnergyico and APAG.",
+          "Safety performance recognized by BP Pakistan (2001)."
+        ]
+      },
+      {
+        "eyebrow": "Where we run it",
+        "heading": "Seaports to plants",
+        "paragraphs": [
+          "Cargo moved from Karachi\u2019s ports and terminals to plants, depots and facilities across Pakistan.",
+          "[Confirm: main lanes and receiving sites]"
+        ]
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "What we move",
+    "heading": "Chemical and Liquid Cargo We Move",
+    "cargo": [
+      {
+        "icon": "chemical",
+        "heading": "Industrial Chemicals",
+        "description": "Bulk and packaged chemicals moved to plants and facilities."
+      },
+      {
+        "icon": "fertilizer",
+        "heading": "Fertilizers",
+        "description": "Urea and other fertilizers lifted from seaports."
+      },
+      {
+        "icon": "liquid",
+        "heading": "Liquid Cargo",
+        "description": "Liquids carried in tankers suited to the product."
+      },
+      {
+        "icon": "packaged",
+        "heading": "Packaged & Containerized Goods",
+        "description": "Enclosed transport where cargo needs more protection."
+      }
+    ]
+  },
+  "sectionFour": {
+    "eyebrow": "Built around the movement",
+    "heading": "From Pickup to Unloading",
+    "description": "Chemical cargo depends on the details. We review them before a vehicle is assigned.",
+    "action": {
+      "label": "See our HSSE standards",
+      "path": "/hsse"
+    },
+    "steps": [
+      {
+        "number": "01",
+        "heading": "Review",
+        "description": "Product, quantity, loading and receiving site requirements."
+      },
+      {
+        "number": "02",
+        "heading": "Match equipment",
+        "description": "Tanker, truck or container suited to the cargo."
+      },
+      {
+        "number": "03",
+        "heading": "Prepare",
+        "description": "Vehicle inspected, drivers briefed, safety kit checked."
+      },
+      {
+        "number": "04",
+        "heading": "Transport",
+        "description": "Careful driving and coordination throughout."
+      },
+      {
+        "number": "05",
+        "heading": "Unload",
+        "description": "Controlled unloading to the receiving site\u2019s requirements."
+      }
+    ],
+    "panelHeading": "Matched to the product",
+    "image": null,
+    "imageAlt": "Chemical tanker matched to the cargo",
+    "imagePlaceholder": "[Photo: chemical tanker]",
+    "features": [
+      "Tanker or equipment suited to the product",
+      "Hazard awareness and protective equipment for the crew",
+      "Trained driver and safe route discipline",
+      "Controlled loading and decanting at each end"
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Trusted by",
+    "heading": "Fertilizer and Industrial Leaders",
+    "logoPlaceholder": "[logo]",
+    "clients": [
+      {
+        "id": "engro",
+        "name": "Engro",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "nfml",
+        "name": "NFML",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "novatex",
+        "name": "Novatex",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "cnergyico",
+        "name": "Cnergyico",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "apag",
+        "name": "APAG",
+        "image": null,
+        "placeholder": false
+      }
+    ],
+    "highlights": [
+      {
+        "heading": "Fertilizer logistics",
+        "description": "Urea lifted from seaports and delivered to destinations across Pakistan for NFML and Engro."
+      },
+      {
+        "heading": "Safety record",
+        "description": "Recognized for safety performance by BP Pakistan (2001) and awarded for road safety participation."
+      }
+    ],
+    "testimonial": {
+      "quote": "[Client testimonial: two to three sentences about working with LMI]",
+      "attribution": "[Name], [Job Title], [Company]"
+    }
+  },
+  "sectionSix": {
+    "eyebrow": "FAQ",
+    "heading": "Chemical and Liquid Cargo Questions",
+    "items": [
+      {
+        "question": "What chemical and liquid cargo do you transport?",
+        "answer": "Chemicals, fertilizers and liquid cargo, in bulk or packaged form, subject to the cargo\u2019s characteristics and your site requirements."
+      },
+      {
+        "question": "How do you match equipment to the cargo?",
+        "answer": "We review the product, quantity, loading environment and destination before assigning a tanker, truck or container."
+      },
+      {
+        "question": "Can you move fertilizers from the port?",
+        "answer": "Yes. We lift fertilizers such as urea from seaports and deliver them across Pakistan."
+      },
+      {
+        "question": "How is safety managed?",
+        "answer": "Through a strict HSE policy: trained drivers, pre-dispatch inspection, protective equipment and emergency response procedures, in line with ISO 9001 standards."
+      }
+    ]
+  },
+  "sectionSeven": {
+    "heading": "Related Services",
+    "services": [
+      {
+        "heading": "Petroleum Transportation",
+        "path": "/services/petroleum-transportation",
+        "label": "Explore"
+      },
+      {
+        "heading": "Dry Cargo",
+        "path": "/services/dry-cargo-transportation",
+        "label": "Explore"
+      },
+      {
+        "heading": "Containerized",
+        "path": "/services/containerized-transportation",
+        "label": "Explore"
+      },
+      {
+        "heading": "Chemicals & Petrochemicals",
+        "path": "/industries/chemicals-petrochemicals",
+        "label": "Explore"
+      }
+    ]
   }
 }

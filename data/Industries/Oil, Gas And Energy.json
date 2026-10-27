@@ -1,7 +1,11 @@
 {
   "sectionOne": {
     "eyebrow": "TERMINAL TO SITE",
-    "heading": ["Oil, Gas & Energy", "Transportation in", "Pakistan"],
+    "heading": [
+      "Oil, Gas & Energy",
+      "Transportation in",
+      "Pakistan"
+    ],
     "description": "LMI moves crude oil, condensate and refined petroleum products for oil marketing companies, refineries and energy-sector operations across Pakistan, with safety-focused practices from the filling point to delivery.",
     "action": {
       "label": "Discuss Your Requirement",
@@ -63,7 +67,12 @@
       "path": "/hsse"
     },
     "panelHeading": "From filling point to delivery",
-    "stages": ["Filling point", "Handling", "On the road", "Delivery"],
+    "stages": [
+      "Filling point",
+      "Handling",
+      "On the road",
+      "Delivery"
+    ],
     "steps": [
       {
         "number": "1",
@@ -83,7 +92,33 @@
       {
         "number": "4",
         "heading": "Controlled delivery",
-        "description": "Coordinated unloading with the receiving site’s requirements."
+        "description": "Coordinated unloading with the receiving site\u2019s requirements."
+      }
+    ]
+  },
+  "sectionSix": {
+    "eyebrow": "FAQ",
+    "heading": "Energy Transportation Questions",
+    "items": [
+      {
+        "question": "Which petroleum products do you transport?",
+        "answer": "Crude oil and condensate, HOBC, HSD, MS, gasoline, furnace oil, Jet A-1, LDO and bitumen."
+      },
+      {
+        "question": "Can you handle regular, scheduled supply runs?",
+        "answer": "Yes. We plan recurring lifting around your supply schedule, backed by an assured fleet network ready exactly when required."
+      },
+      {
+        "question": "Do you move cargo from Karachi to other cities?",
+        "answer": "Yes. We transport petroleum products from Karachi to destinations across Pakistan."
+      },
+      {
+        "question": "How is safety managed on petroleum transport?",
+        "answer": "Through a strict HSE policy: trained drivers, vehicle inspection and pre-trip checks, protective equipment, emergency response procedures and incident reporting, in line with ISO 9001 standards."
+      },
+      {
+        "question": "How do I request a quote?",
+        "answer": "Tell us the product, quantity, pickup point, destination and timeline, and our team will recommend a transportation approach."
       }
     ]
   },
