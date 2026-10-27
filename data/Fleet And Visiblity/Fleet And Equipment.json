@@ -1,0 +1,230 @@
+{
+  "sectionOne": {
+    "eyebrow": "Ready when required",
+    "heading": [
+      "Road Transport Fleet",
+      "& Equipment in",
+      "Pakistan"
+    ],
+    "description": "An assured fleet network and our tanker fleet, with the right vehicle matched to your cargo and ready exactly when required.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI tankers, trucks and flatbed lined up",
+    "imagePlaceholder": "[Photo: LMI tankers, trucks and flatbed lined up]"
+  },
+  "sectionTwo": {
+    "eyebrow": "How LMI does it",
+    "heading": "LMI\u2019s Assured Fleet Network",
+    "description": "Fleet availability is where reliable transportation starts. This is how we run it.",
+    "cards": [
+      {
+        "eyebrow": "What we run",
+        "heading": "Our tanker fleet",
+        "paragraphs": [
+          "Tankers for petroleum and chemical cargo, inspected before every dispatch and equipped with fire-safety and protective equipment on board.",
+          "[Confirm: number, types and capacities of tankers]"
+        ]
+      },
+      {
+        "eyebrow": "What we call on",
+        "heading": "Verified trucks and drivers",
+        "paragraphs": [
+          "A network of verified trucks and drivers for dry, containerized, flatbed and project cargo, available exactly when required.",
+          "[Confirm: how vehicles and drivers are verified]"
+        ]
+      },
+      {
+        "eyebrow": "How it is run",
+        "heading": "Coordinated from Karachi",
+        "paragraphs": [
+          "Vehicles are assigned, dispatched and coordinated from our Karachi base, where our 10-acre facility supports operations.",
+          "[Confirm: base facility details to mention]"
+        ]
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "Our equipment",
+    "heading": "Specialized Equipment for Every Cargo",
+    "services": [
+      {
+        "heading": "Petroleum Tankers",
+        "image": null,
+        "imageAlt": "Petroleum Tankers",
+        "imagePlaceholder": "[Photo: Petroleum Tankers]",
+        "label": "Explore",
+        "path": "/services/petroleum-transportation"
+      },
+      {
+        "heading": "Chemical & Liquid Tankers",
+        "image": null,
+        "imageAlt": "Chemical & Liquid Tankers",
+        "imagePlaceholder": "[Photo: Chemical & Liquid Tankers]",
+        "label": "Explore",
+        "path": "/services/chemical-liquid-cargo-transportation"
+      },
+      {
+        "heading": "Cargo Trucks & Trailers",
+        "image": null,
+        "imageAlt": "Cargo Trucks & Trailers",
+        "imagePlaceholder": "[Photo: Cargo Trucks & Trailers]",
+        "label": "Explore",
+        "path": "/services/dry-cargo-transportation"
+      },
+      {
+        "heading": "Containerized Vehicles",
+        "image": null,
+        "imageAlt": "Containerized Vehicles",
+        "imagePlaceholder": "[Photo: Containerized Vehicles]",
+        "label": "Explore",
+        "path": "/services/containerized-transportation"
+      },
+      {
+        "heading": "Flatbed Equipment",
+        "image": null,
+        "imageAlt": "Flatbed Equipment",
+        "imagePlaceholder": "[Photo: Flatbed Equipment]",
+        "label": "Explore",
+        "path": "/services/flatbed-transportation"
+      },
+      {
+        "heading": "Heavy & Project Equipment",
+        "image": null,
+        "imageAlt": "Heavy & Project Equipment",
+        "imagePlaceholder": "[Photo: Heavy & Project Equipment]",
+        "label": "Explore",
+        "path": "/services/heavy-project-cargo"
+      }
+    ]
+  },
+  "sectionFour": {
+    "eyebrow": "Matched to the cargo",
+    "heading": "Right Vehicle, Every Time",
+    "description": "We do not send whichever truck happens to be free. The cargo decides the equipment, so what you ship arrives in a vehicle built to carry it.",
+    "action": {
+      "label": "Explore our services",
+      "path": "/services"
+    },
+    "cargoLabel": "Your cargo",
+    "equipmentLabel": "Our equipment",
+    "matches": [
+      {
+        "cargo": "Petroleum products",
+        "equipment": "Petroleum tanker"
+      },
+      {
+        "cargo": "Chemicals & liquids",
+        "equipment": "Chemical & liquid tanker"
+      },
+      {
+        "cargo": "Dry goods & palletized cargo",
+        "equipment": "Cargo truck & trailer"
+      },
+      {
+        "cargo": "Containers",
+        "equipment": "Containerized vehicle"
+      },
+      {
+        "cargo": "Long, heavy or oversized loads",
+        "equipment": "Flatbed & heavy equipment"
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Our process",
+    "heading": "From Cargo Details to Dispatch",
+    "description": "Every movement starts with the cargo, not the truck. We gather the details that decide the equipment, then check the vehicle and driver before anything leaves, so the cargo arrives safely and on schedule.",
+    "action": {
+      "label": "See our HSSE standards",
+      "path": "/hsse"
+    },
+    "steps": [
+      {
+        "heading": "Review the cargo",
+        "description": "We confirm the product, weight, dimensions and how it is loaded and unloaded."
+      },
+      {
+        "heading": "Select equipment",
+        "description": "The vehicle type is matched to the cargo, route and any site requirements."
+      },
+      {
+        "heading": "Confirm readiness",
+        "description": "Vehicle, driver and safety equipment are inspected before dispatch."
+      },
+      {
+        "heading": "Dispatch",
+        "description": "Cargo is loaded, secured and sent on its way, with the driver briefed on the route."
+      },
+      {
+        "heading": "Deliver",
+        "description": "Arrival and unloading are coordinated with the receiving site."
+      }
+    ],
+    "readiness": {
+      "heading": "Vehicle readiness.",
+      "description": "Every vehicle is inspected and safety-checked before dispatch.",
+      "action": {
+        "label": "See fleet readiness in HSSE",
+        "path": "/hsse/fleet-safety-maintenance"
+      }
+    }
+  },
+  "sectionSix": {
+    "eyebrow": "FAQ",
+    "heading": "Fleet & Equipment Questions",
+    "items": [
+      {
+        "question": "What is an assured fleet network?",
+        "answer": "A network of verified trucks and drivers that LMI coordinates so a suitable vehicle is available exactly when required."
+      },
+      {
+        "question": "How do you choose the right vehicle?",
+        "answer": "We review the cargo type, weight, dimensions, loading method and route before assigning equipment."
+      },
+      {
+        "question": "Are vehicles checked before dispatch?",
+        "answer": "Yes. Every vehicle is inspected and safety-checked before it leaves."
+      },
+      {
+        "question": "Can you supply tankers for petroleum and chemicals?",
+        "answer": "Yes. Our tanker fleet handles petroleum products and, with suitable equipment, chemical and liquid cargo."
+      }
+    ]
+  },
+  "sectionSeven": {
+    "heading": "Related Pages",
+    "services": [
+      {
+        "heading": "Nationwide Network",
+        "path": "/fleet-visibility/nationwide-network",
+        "label": "Explore"
+      },
+      {
+        "heading": "Shipment Tracking",
+        "path": "/fleet-visibility/shipment-tracking-operational-visibility",
+        "label": "Explore"
+      },
+      {
+        "heading": "HSSE",
+        "path": "/hsse",
+        "label": "Explore"
+      },
+      {
+        "heading": "Services",
+        "path": "/services",
+        "label": "Explore"
+      }
+    ]
+  },
+  "sectionEight": {
+    "heading": "What does your cargo need?",
+    "description": "Tell us about your cargo, pickup point and destination.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}

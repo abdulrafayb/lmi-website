@@ -23,6 +23,8 @@ import FullTruckload from "./pages/services/FullTruckload";
 import FlatbedTransportation from "./pages/services/FlatbedTransportation";
 import HeavyAndProjectCargo from "./pages/services/HeavyAndProjectCargo";
 
+import FleetAndEquipment from "./pages/fleet-and-visiblity/FleetAndEquipment";
+
 export default function App() {
   return (
     <>
@@ -30,6 +32,10 @@ export default function App() {
       <Header />
       <main>
         <Routes>
+          <Route
+            path="/fleet-visibility/fleet-equipment"
+            element={<FleetAndEquipment />}
+          />
           <Route path="/" element={<Home />} />
           <Route path="/contact-us" element={<ContactUs />} />
           <Route path="/company/about-us" element={<AboutUs />} />
