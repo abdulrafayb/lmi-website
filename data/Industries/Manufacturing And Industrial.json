@@ -23,5 +23,220 @@
       "label": "Contact Us Today",
       "path": "/contact-us"
     }
+  },
+  "sectionTwo": {
+    "eyebrow": "What we move",
+    "heading": "Cargo that keeps production running",
+    "cargo": [
+      {
+        "icon": "materials",
+        "heading": "Raw Materials & Inputs",
+        "description": "Delivered to your plant to keep production running."
+      },
+      {
+        "icon": "parts",
+        "heading": "Components & Parts",
+        "description": "Moved between suppliers, plants and warehouses."
+      },
+      {
+        "icon": "goods",
+        "heading": "Finished Goods",
+        "description": "From your facility to distribution centres and customers."
+      },
+      {
+        "icon": "machinery",
+        "heading": "Machinery & Equipment",
+        "description": "Planned and secured for safe movement."
+      },
+      {
+        "icon": "recurring",
+        "heading": "Recurring Routes",
+        "description": "Scheduled transportation for ongoing needs."
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "How we work",
+    "heading": "Built Around Your Production Flow",
+    "paragraphs": [
+      "Manufacturing doesn’t pause, so your transportation shouldn’t either. Whether cargo is coming in from suppliers or the port, moving between plant and warehouse, or heading out to customers, we start by understanding the details: cargo type, volumes, loading environment, origin and destination, and your delivery schedule.",
+      "We then match the right equipment to the job, whether enclosed trucks, containers or flatbeds. With an assured fleet network of verified trucks and drivers ready exactly when required, recurring and time-sensitive runs stay on schedule.",
+      "Safety is part of every movement. Our vehicles and drivers follow our HSE protocols, including pre-trip checks and inspection procedures."
+    ],
+    "action": {
+      "label": "Learn more about our HSSE standards",
+      "path": "/hsse"
+    },
+    "panelHeading": "From supplier to customer",
+    "flow": [
+      {
+        "heading": "Suppliers",
+        "description": "raw materials"
+      },
+      {
+        "heading": "Manufacturing plant",
+        "description": "production"
+      },
+      {
+        "heading": "Warehouse / DC",
+        "description": "storage"
+      },
+      {
+        "heading": "Customers",
+        "description": "finished goods"
+      }
+    ],
+    "steps": [
+      {
+        "number": "1",
+        "heading": "Inbound to plant",
+        "description": "Raw materials, components and inputs delivered to keep production running."
+      },
+      {
+        "number": "2",
+        "heading": "Within operations",
+        "description": "Parts, materials and equipment moved where they are needed."
+      },
+      {
+        "number": "3",
+        "heading": "Outbound to market",
+        "description": "Finished goods moved to warehouses, distribution centres and customers."
+      }
+    ]
+  },
+  "sectionFour": {
+    "eyebrow": "Services we use",
+    "heading": "Transportation Solutions for Manufacturers",
+    "services": [
+      {
+        "title": "Dry Cargo Transportation",
+        "description": "Packaged, palletized and finished goods.",
+        "image": null,
+        "imageAlt": "dry cargo",
+        "imagePlaceholder": "[Photo: dry cargo]",
+        "action": {
+          "label": "Explore Dry Cargo",
+          "path": "/services/dry-cargo-transportation"
+        }
+      },
+      {
+        "title": "Full Truckload (FTL)",
+        "description": "Dedicated capacity for production-linked and recurring deliveries.",
+        "image": null,
+        "imageAlt": "full truckload",
+        "imagePlaceholder": "[Photo: full truckload]",
+        "action": {
+          "label": "Explore Full Truckload",
+          "path": "/services/full-truckload-ftl"
+        }
+      },
+      {
+        "title": "Containerized Transportation",
+        "description": "Enclosed, structured loading for greater cargo protection.",
+        "image": null,
+        "imageAlt": "containerized",
+        "imagePlaceholder": "[Photo: containerized]",
+        "action": {
+          "label": "Explore Containerized",
+          "path": "/services/containerized-transportation"
+        }
+      },
+      {
+        "title": "Road Freight",
+        "description": "Flexible inbound and outbound movements nationwide.",
+        "image": null,
+        "imageAlt": "road freight",
+        "imagePlaceholder": "[Photo: road freight]",
+        "action": {
+          "label": "Explore Road Freight",
+          "path": "/services/road-freight-transportation"
+        }
+      },
+      {
+        "title": "Flatbed & Project Cargo",
+        "description": "Industrial machinery and fabricated materials.",
+        "image": null,
+        "imageAlt": "flatbed machinery",
+        "imagePlaceholder": "[Photo: flatbed machinery]",
+        "action": {
+          "label": "Explore Flatbed & Project",
+          "path": "/services/heavy-project-cargo"
+        }
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Trusted by",
+    "heading": "Manufacturers and Industry Leaders",
+    "description": "With decades of experience in Pakistan’s transport and logistics industry, LMI supports manufacturers who can’t afford delays. Our operations follow ISO 9001 certification standards.",
+    "logoPlaceholder": "[logo]",
+    "clients": [
+      {
+        "id": "novatex",
+        "name": "Novatex",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "roshan-packages",
+        "name": "Roshan Packages",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "bsp",
+        "name": "BSP",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "interloop",
+        "name": "Interloop",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "soya-supreme",
+        "name": "Soya Supreme",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "apag",
+        "name": "APAG",
+        "image": null,
+        "placeholder": false
+      }
+    ],
+    "testimonial": {
+      "quote": "[Client testimonial: two to three sentences about working with LMI]",
+      "attribution": "[Name], [Job Title], [Company]"
+    }
+  },
+  "sectionSix": {
+    "eyebrow": "FAQ",
+    "heading": "Manufacturing Transportation Questions",
+    "items": [
+      {
+        "question": "What cargo do you transport for manufacturers?",
+        "answer": "Raw materials, components, packaged and palletized goods, finished products, and industrial machinery."
+      },
+      {
+        "question": "Do you handle both inbound and outbound movements?",
+        "answer": "Yes. We transport inputs to your plant and finished goods to warehouses, distribution centres and customers."
+      },
+      {
+        "question": "Can you support recurring or scheduled deliveries?",
+        "answer": "Yes. We plan regular routes around your production and delivery schedule."
+      },
+      {
+        "question": "Do you offer containerized transport?",
+        "answer": "Yes. Containerized transportation is available where your cargo needs greater protection or structured loading."
+      },
+      {
+        "question": "How do I request a quote?",
+        "answer": "Tell us what you’re moving, the pickup point, the destination and your timeline, and our team will recommend a transportation approach."
+      }
+    ]
   }
 }
