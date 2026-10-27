@@ -88,7 +88,7 @@ export default function Footer() {
               {contact.title}
             </h2> */}
 
-            <ul className="flex flex-col items-center gap-7 lg:flex lg:w-full lg:flex-row lg:items-center lg:justify-between lg:gap-6 lg:divide-x lg:divide-white/18">
+            <ul className="flex flex-col items-center gap-7 lg:grid lg:w-full lg:grid-cols-[auto_auto_minmax(0,1fr)] lg:items-center lg:gap-6 lg:divide-x lg:divide-white/18">
               <li className="max-w-full min-w-0 lg:flex-1 lg:px-4">
                 <a
                   href={contact.phone.href}
@@ -124,7 +124,7 @@ export default function Footer() {
                     size={22}
                     className="shrink-0 text-white"
                   />
-                  <span className="min-w-0">{contact.address}</span>
+                  <span className="min-w-0 xl:whitespace-nowrap">{contact.address}</span>
                 </address>
               </li>
             </ul>
