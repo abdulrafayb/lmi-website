@@ -61,15 +61,6 @@ body {
 }
 
 @layer components {
-  /* Shared button variant; section layouts use Tailwind utilities in JSX. */
-  .secondary {
-    @apply border-brand-red text-brand-red hover:bg-brand-red hover:text-surface bg-transparent;
-  }
-
-  .tertiary {
-    @apply border-proof-accent bg-proof-accent text-brand-black hover:border-action-amber-hover hover:bg-action-amber-hover;
-  }
-
   .wrapper {
     @apply mx-auto w-full max-w-340 px-4 md:px-6 lg:px-8;
   }

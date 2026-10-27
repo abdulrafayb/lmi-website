@@ -5,8 +5,8 @@ const base =
 
 const variants = {
   primary: `${base} border-brand-red bg-brand-red text-surface outline-brand-red hover:border-brand-red-dark hover:bg-brand-red-dark`,
-  secondary: `${base} secondary outline-brand-red`,
-  tertiary: `${base} tertiary outline-surface`,
+  secondary: `${base} border-brand-red bg-transparent text-brand-red outline-brand-red hover:bg-brand-red hover:text-surface`,
+  tertiary: `${base} border-proof-accent bg-proof-accent text-brand-black outline-surface hover:border-action-amber-hover hover:bg-action-amber-hover`,
   link: "inline-flex min-h-11 items-center justify-center gap-1 text-sm font-medium text-brand-red underline-offset-4 outline-brand-red hover:underline focus-visible:outline-2 focus-visible:outline-offset-4 aria-disabled:cursor-not-allowed aria-disabled:opacity-50",
 };
 
