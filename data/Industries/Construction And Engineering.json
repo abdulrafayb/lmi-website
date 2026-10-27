@@ -23,5 +23,204 @@
       "label": "Contact Us Today",
       "path": "/contact-us"
     }
+  },
+  "sectionTwo": {
+    "eyebrow": "What we move",
+    "heading": "Everything a project site depends on",
+    "cargo": [
+      {
+        "icon": "bitumen",
+        "heading": "Bitumen",
+        "description": "Delivered to road and highway project sites."
+      },
+      {
+        "icon": "materials",
+        "heading": "Construction Materials",
+        "description": "Loose and containerized materials for ongoing site work."
+      },
+      {
+        "icon": "machinery",
+        "heading": "Machinery & Equipment",
+        "description": "Moved between yards, facilities and project sites."
+      },
+      {
+        "icon": "steel",
+        "heading": "Steel & Fabricated Components",
+        "description": "Structural and manufactured items moved on suitable equipment."
+      },
+      {
+        "icon": "recurring",
+        "heading": "Recurring Site Deliveries",
+        "description": "Repeat transportation supporting ongoing project needs."
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "How we work",
+    "heading": "Built Around the Demands of the Project",
+    "paragraphs": [
+      "Every project site is different. Access roads, delivery windows, unloading arrangements and cargo dimensions all shape how a movement should be planned, so we start with the cargo and the site before we assign a vehicle.",
+      "LMI has supported highway and infrastructure projects in Pakistan for decades, moving bitumen and petroleum products to project sites on routes across Sindh, Punjab, Khyber Pakhtunkhwa and Balochistan. An assured fleet network of verified trucks and drivers is ready exactly when required, so site schedules are not left waiting.",
+      "Drivers follow our HSE protocols on the road and on site, from pre-trip checks to safe loading and unloading."
+    ],
+    "action": {
+      "label": "Learn more about our HSSE standards",
+      "path": "/hsse"
+    },
+    "panelHeading": "Building up to the site gate",
+    "startLabel": "Dispatch",
+    "endLabel": "Site gate",
+    "steps": [
+      {
+        "number": "1",
+        "heading": "Assess cargo and site access",
+        "description": "Review weight, dimensions, loading method and how the vehicle reaches the site."
+      },
+      {
+        "number": "2",
+        "heading": "Select suitable equipment",
+        "description": "Match tankers, flatbeds or trucks to the cargo and the conditions."
+      },
+      {
+        "number": "3",
+        "heading": "Plan route and delivery window",
+        "description": "Account for road conditions, terrain and your project schedule."
+      },
+      {
+        "number": "4",
+        "heading": "Coordinate arrival and unloading",
+        "description": "Align with site teams so the cargo is received and unloaded safely."
+      }
+    ]
+  },
+  "sectionFour": {
+    "eyebrow": "Services we use",
+    "heading": "Transportation Solutions for Project Sites",
+    "services": [
+      {
+        "title": "Bitumen Transportation",
+        "description": "Bitumen to refineries, plants and road project sites.",
+        "image": null,
+        "imageAlt": "bitumen tanker",
+        "imagePlaceholder": "[Photo: bitumen tanker]",
+        "action": {
+          "label": "Explore Bitumen Transportation",
+          "path": "/services/petroleum-transportation"
+        }
+      },
+      {
+        "title": "Flatbed Transportation",
+        "description": "Open-deck transport for machinery, steel and fabricated materials.",
+        "image": null,
+        "imageAlt": "flatbed with machinery",
+        "imagePlaceholder": "[Photo: flatbed with machinery]",
+        "action": {
+          "label": "Explore Flatbed Transportation",
+          "path": "/services/flatbed-transportation"
+        }
+      },
+      {
+        "title": "Heavy & Project Cargo",
+        "description": "Planned movement of larger or more complex project loads.",
+        "image": null,
+        "imageAlt": "heavy equipment",
+        "imagePlaceholder": "[Photo: heavy equipment]",
+        "action": {
+          "label": "Explore Heavy & Project Cargo",
+          "path": "/services/heavy-project-cargo"
+        }
+      },
+      {
+        "title": "Full Truckload (FTL)",
+        "description": "Dedicated vehicle capacity for materials and recurring site deliveries.",
+        "image": null,
+        "imageAlt": "full truckload",
+        "imagePlaceholder": "[Photo: full truckload]",
+        "action": {
+          "label": "Explore Full Truckload",
+          "path": "/services/full-truckload-ftl"
+        }
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Trusted by",
+    "heading": "Major Infrastructure Projects",
+    "description": "Contractors on some of Pakistan’s largest highway and infrastructure projects have relied on LMI’s heritage of dependable transportation, backed by written commendations.",
+    "logoPlaceholder": "[logo]",
+    "clients": [
+      {
+        "id": "0",
+        "name": "CPECC",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "1",
+        "name": "China Road & Bridge",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "name": "Joannou & Paraskevaides",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "name": "China Liaoning",
+        "image": null,
+        "placeholder": false
+      }
+    ],
+    "highlights": [
+      {
+        "heading": "Indus Highway Project",
+        "description": "Transport contractor to China Petroleum Engineering Construction Corporation, Contract No. 10, D.I. Khan (1999)."
+      },
+      {
+        "heading": "Badin–Sujawal Road",
+        "description": "Bitumen and petroleum products to the site for China Road & Bridge Corporation."
+      },
+      {
+        "heading": "Provincial highway project",
+        "description": "Bitumen transported for China Liaoning International (Mirpurkhas to Mirwah), 1998."
+      },
+      {
+        "heading": "Karachi to Jhelum and Kuzdar",
+        "description": "Bitumen from National Refinery for Joannou & Paraskevaides (1992)."
+      }
+    ],
+    "testimonial": {
+      "quote": "[Client testimonial: two to three sentences about working with LMI]",
+      "attribution": "[Name], [Job Title], [Company]"
+    }
+  },
+  "sectionSix": {
+    "eyebrow": "FAQ",
+    "heading": "Construction Transportation Questions",
+    "items": [
+      {
+        "question": "Do you transport bitumen to road project sites?",
+        "answer": "Yes. Bitumen transportation to refineries, plants and highway project sites is one of our longest-standing services."
+      },
+      {
+        "question": "Can you move machinery and fabricated steel?",
+        "answer": "Yes. We use flatbed and project cargo configurations suited to the size and weight of the load."
+      },
+      {
+        "question": "Do you serve remote project locations?",
+        "answer": "Yes. Our drivers are trained for national highways, motorways, link roads, mountain passes and difficult terrain in remote areas."
+      },
+      {
+        "question": "Can you support recurring site deliveries?",
+        "answer": "Yes. We plan repeat deliveries around your project schedule, backed by an assured fleet network ready exactly when required."
+      },
+      {
+        "question": "How do I request a quote?",
+        "answer": "Tell us the cargo, weight and dimensions, pickup point, site location and timeline, and our team will recommend a transportation approach."
+      }
+    ]
   }
 }
