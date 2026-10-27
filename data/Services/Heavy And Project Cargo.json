@@ -1,7 +1,11 @@
 {
   "sectionOne": {
     "eyebrow": "BEYOND STANDARD LOADS",
-    "heading": ["Heavy & Project", "Cargo Transportation", "in Pakistan"],
+    "heading": [
+      "Heavy & Project",
+      "Cargo Transportation",
+      "in Pakistan"
+    ],
     "description": "Planned road transportation for oversized, heavy and project-based cargo, with route and site coordination from our assured fleet network.",
     "action": {
       "label": "Discuss Your Requirement",
@@ -18,5 +22,199 @@
       "label": "Contact Us Today",
       "path": "/contact-us"
     }
+  },
+  "sectionTwo": {
+    "eyebrow": "How LMI does it",
+    "heading": "LMI\u2019s Heavy & Project Cargo Transportation",
+    "description": "Complex loads are planned around the whole movement, not just the vehicle. This is how we run it.",
+    "cards": [
+      {
+        "eyebrow": "What we run",
+        "heading": "Project-specific equipment",
+        "paragraphs": [
+          "Vehicles and trailer configurations selected for the cargo\u2019s weight, dimensions and handling needs, with securing planned for the load.",
+          "[Confirm: heavy-haul and low-bed capability, maximum payload and dimensions]"
+        ]
+      },
+      {
+        "eyebrow": "Who we run it for",
+        "heading": "Contractors and project teams",
+        "paragraphs": [
+          "Decades of support for highway and infrastructure contractors, including CPECC and China Road & Bridge Corporation.",
+          "[Confirm: heavy and project cargo examples that can be named]"
+        ]
+      },
+      {
+        "eyebrow": "Where we run it",
+        "heading": "Across remote and difficult terrain",
+        "paragraphs": [
+          "Drivers trained for national highways, link roads, mountain passes and remote areas, with route and site access reviewed in advance.",
+          "[Confirm: permits and escort arrangements LMI manages]"
+        ]
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "What we move",
+    "heading": "Heavy and Project Cargo We Move",
+    "cargo": [
+      {
+        "icon": "chemical",
+        "heading": "Machinery & Plant Equipment",
+        "description": "Heavy industrial and construction machinery."
+      },
+      {
+        "icon": "fertilizer",
+        "heading": "Industrial Components",
+        "description": "Large manufactured or fabricated items."
+      },
+      {
+        "icon": "liquid",
+        "heading": "Steel & Structural Materials",
+        "description": "Structural items for project work."
+      },
+      {
+        "icon": "packaged",
+        "heading": "Project Equipment",
+        "description": "Equipment tied to project schedules and sites."
+      }
+    ]
+  },
+  "sectionFour": {
+    "eyebrow": "Built around the movement",
+    "heading": "Planned Step by Step",
+    "description": "Heavy and project cargo succeeds on planning. Our sequence puts it first.",
+    "action": {
+      "label": "See our HSSE standards",
+      "path": "/hsse"
+    },
+    "panelHeading": "Planned before it moves",
+    "image": null,
+    "imageAlt": "LMI truck transporting heavy project cargo",
+    "imagePlaceholder": "[Photo: LMI heavy and project cargo truck]",
+    "features": [
+      "Cargo dimensions and weight checked against the route",
+      "Route and site access reviewed before dispatch",
+      "Oversize movement coordination [Confirm permits and escorts offered]"
+    ],
+    "steps": [
+      {
+        "number": "01",
+        "heading": "Assess",
+        "description": "Cargo dimensions, weight and handling method."
+      },
+      {
+        "number": "02",
+        "heading": "Plan route",
+        "description": "Roads, site access and delivery window."
+      },
+      {
+        "number": "03",
+        "heading": "Prepare & load",
+        "description": "Equipment, securing and loading arranged."
+      },
+      {
+        "number": "04",
+        "heading": "Transport",
+        "description": "Movement coordinated along the route."
+      },
+      {
+        "number": "05",
+        "heading": "Deliver",
+        "description": "Arrival and unloading coordinated with site teams."
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Trusted by",
+    "heading": "Contractors on Major Projects",
+    "logoPlaceholder": "[logo]",
+    "clients": [
+      {
+        "id": "0",
+        "name": "CPECC",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "1",
+        "name": "China Road & Bridge",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "name": "Joannou & Paraskevaides",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "name": "China Liaoning",
+        "image": null,
+        "placeholder": false
+      }
+    ],
+    "highlights": [
+      {
+        "heading": "Indus Highway Project",
+        "description": "Transport contractor to CPECC, Contract No. 10, D.I. Khan (1999)."
+      },
+      {
+        "heading": "Badin\u2013Sujawal Road",
+        "description": "Bitumen and petroleum products to site for China Road & Bridge Corporation."
+      }
+    ],
+    "testimonial": {
+      "quote": "[Client testimonial: two to three sentences about working with LMI]",
+      "attribution": "[Name], [Job Title], [Company]"
+    }
+  },
+  "sectionSix": {
+    "eyebrow": "FAQ",
+    "heading": "Heavy and Project Cargo Questions",
+    "items": [
+      {
+        "question": "What counts as heavy or project cargo?",
+        "answer": "Oversized or heavy loads, and cargo moved around a specific project schedule and site, such as machinery and industrial components."
+      },
+      {
+        "question": "How is it different from flatbed?",
+        "answer": "Flatbed is an equipment type for open-deck cargo. Heavy and project cargo adds route, site and schedule planning around the whole movement."
+      },
+      {
+        "question": "Do you serve remote project sites?",
+        "answer": "Yes. Our drivers are trained for highways, link roads, mountain passes and difficult terrain."
+      },
+      {
+        "question": "How do I request a quote?",
+        "answer": "Share the cargo weight and dimensions, pickup point, site location and project timeline, and our team will recommend a transportation approach."
+      }
+    ]
+  },
+  "sectionSeven": {
+    "heading": "Related Services",
+    "services": [
+      {
+        "heading": "Flatbed",
+        "path": "/services/flatbed-transportation",
+        "label": "Explore"
+      },
+      {
+        "heading": "Full Truckload (FTL)",
+        "path": "/services/full-truckload-ftl",
+        "label": "Explore"
+      },
+      {
+        "heading": "Road Freight",
+        "path": "/services/road-freight-transportation",
+        "label": "Explore"
+      },
+      {
+        "heading": "Construction & Engineering",
+        "path": "/industries/construction-engineering",
+        "label": "Explore"
+      }
+    ]
   }
 }

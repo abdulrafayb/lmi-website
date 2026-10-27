@@ -1,7 +1,11 @@
 {
   "sectionOne": {
     "eyebrow": "DEDICATED CAPACITY",
-    "heading": ["Full Truckload (FTL)", "Transportation in", "Pakistan"],
+    "heading": [
+      "Full Truckload (FTL)",
+      "Transportation in",
+      "Pakistan"
+    ],
     "description": "A dedicated truck for your shipment, planned from pickup to delivery, with vehicles from our assured fleet network ready exactly when required.",
     "action": {
       "label": "Discuss Your Requirement",
@@ -18,5 +22,181 @@
       "label": "Contact Us Today",
       "path": "/contact-us"
     }
+  },
+  "sectionTwo": {
+    "eyebrow": "How LMI does it",
+    "heading": "LMI\u2019s Full Truckload Transportation",
+    "description": "When one shipment needs one truck, this is how we run it.",
+    "cards": [
+      {
+        "eyebrow": "What we run",
+        "heading": "A truck that is yours alone",
+        "paragraphs": [
+          "A dedicated vehicle for each shipment, selected for the cargo: covered, containerized, flatbed or tanker.",
+          "Less handling, a direct route, and one point of accountability. [Confirm: truck sizes and payload ranges]"
+        ]
+      },
+      {
+        "eyebrow": "Who we run it for",
+        "heading": "Shippers with larger or recurring loads",
+        "paragraphs": [
+          "Manufacturers, distributors and project teams moving full loads between plants, warehouses, ports and sites on a regular basis.",
+          "[Confirm: which clients use FTL and can be named]"
+        ]
+      },
+      {
+        "eyebrow": "Where we run it",
+        "heading": "Point to point, nationwide",
+        "paragraphs": [
+          "Direct movements from Karachi to cities and sites across Pakistan, and between inland locations.",
+          "[Confirm: main FTL lanes]"
+        ]
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "What we move",
+    "heading": "When FTL Makes Sense",
+    "cargo": [
+      {
+        "icon": "chemical",
+        "heading": "Larger Shipment Volumes",
+        "description": "Cargo that fills or nearly fills a vehicle."
+      },
+      {
+        "icon": "fertilizer",
+        "heading": "Time-Sensitive Loads",
+        "description": "Pickup and delivery tied to your schedule."
+      },
+      {
+        "icon": "liquid",
+        "heading": "Recurring Full Loads",
+        "description": "Regular movements between the same sites."
+      },
+      {
+        "icon": "packaged",
+        "heading": "Project Requirements",
+        "description": "Full loads timed to project schedules."
+      }
+    ]
+  },
+  "sectionFour": {
+    "eyebrow": "Built around the movement",
+    "heading": "A Dedicated Movement, End to End",
+    "description": "One shipment, one truck. Our sequence keeps it direct and accountable.",
+    "action": {
+      "label": "See our HSSE standards",
+      "path": "/hsse"
+    },
+    "panelHeading": "Dedicated capacity",
+    "panelDescription": "One truck. One load. One destination.",
+    "image": null,
+    "imageAlt": "Dedicated LMI truck transporting a full load",
+    "imagePlaceholder": "[Photo: LMI full truckload vehicle]",
+    "features": [
+      "No shared load",
+      "Direct route",
+      "Your schedule"
+    ],
+    "steps": [
+      {
+        "number": "01",
+        "heading": "Define",
+        "description": "Cargo, weight, volume, pickup and destination."
+      },
+      {
+        "number": "02",
+        "heading": "Assign",
+        "description": "Dedicated vehicle and driver allocated."
+      },
+      {
+        "number": "03",
+        "heading": "Load",
+        "description": "Loaded at the agreed origin and secured."
+      },
+      {
+        "number": "04",
+        "heading": "Move",
+        "description": "Direct journey, coordinated throughout."
+      },
+      {
+        "number": "05",
+        "heading": "Deliver",
+        "description": "Delivered to the destination as planned."
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Trusted by",
+    "heading": "Businesses With Full-Load Needs",
+    "clients": [
+      {
+        "id": "1",
+        "placeholder": "[Client logo: confirm clients for this service]"
+      },
+      {
+        "id": "2",
+        "placeholder": "[Client logo: confirm clients for this service]"
+      },
+      {
+        "id": "3",
+        "placeholder": "[Client logo: confirm clients for this service]"
+      },
+      {
+        "id": "4",
+        "placeholder": "[Client logo: confirm clients for this service]"
+      }
+    ],
+    "testimonial": {
+      "quote": "[Client testimonial: two to three sentences about working with LMI]",
+      "attribution": "[Name], [Job Title], [Company]"
+    }
+  },
+  "sectionSix": {
+    "eyebrow": "FAQ",
+    "heading": "Full Truckload Questions",
+    "items": [
+      {
+        "question": "What is the difference between FTL and other road freight?",
+        "answer": "With FTL the whole vehicle is dedicated to your shipment. Other road freight services cover smaller, mixed or specialised movements."
+      },
+      {
+        "question": "Can you arrange FTL on a recurring basis?",
+        "answer": "Yes. We plan regular full-load movements around your schedule, with a vehicle ready exactly when required."
+      },
+      {
+        "question": "What cargo can go FTL?",
+        "answer": "Dry, containerized, flatbed or tanker cargo, depending on the vehicle suited to your load."
+      },
+      {
+        "question": "How do I request a quote?",
+        "answer": "Tell us the cargo, weight, pickup point, destination and timeline, and our team will recommend a transportation approach."
+      }
+    ]
+  },
+  "sectionSeven": {
+    "heading": "Related Services",
+    "services": [
+      {
+        "heading": "Road Freight",
+        "path": "/services/road-freight-transportation",
+        "label": "Explore"
+      },
+      {
+        "heading": "Dry Cargo",
+        "path": "/services/dry-cargo-transportation",
+        "label": "Explore"
+      },
+      {
+        "heading": "Containerized",
+        "path": "/services/containerized-transportation",
+        "label": "Explore"
+      },
+      {
+        "heading": "Flatbed",
+        "path": "/services/flatbed-transportation",
+        "label": "Explore"
+      }
+    ]
   }
 }
