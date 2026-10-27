@@ -18,5 +18,192 @@
       "label": "Contact Us Today",
       "path": "/contact-us"
     }
+  },
+  "sectionTwo": {
+    "eyebrow": "Explore industries",
+    "heading": "Transportation Across Demanding Operating Environments",
+    "industries": [
+      {
+        "title": "Manufacturing & Industrial",
+        "description": "Raw materials, components, machinery and finished goods moved between suppliers, plants, warehouses and customers.",
+        "image": null,
+        "imageAlt": "manufacturing plant delivery",
+        "imagePlaceholder": "[Photo: manufacturing plant delivery]",
+        "action": {
+          "label": "Explore Manufacturing & Industrial",
+          "path": "/industries/manufacturing-industrial"
+        }
+      },
+      {
+        "title": "Construction & Engineering",
+        "description": "Bitumen, machinery, steel and construction materials delivered to project sites across Pakistan.",
+        "image": null,
+        "imageAlt": "construction site delivery",
+        "imagePlaceholder": "[Photo: construction site delivery]",
+        "action": {
+          "label": "Explore Construction & Engineering",
+          "path": "/industries/construction-engineering"
+        }
+      },
+      {
+        "title": "Automotive",
+        "description": "Vehicles, parts and equipment moved on purpose-built car carriers and road freight.",
+        "image": null,
+        "imageAlt": "car carrier",
+        "imagePlaceholder": "[Photo: car carrier]",
+        "action": {
+          "label": "Explore Automotive",
+          "path": "/industries/automotive"
+        }
+      },
+      {
+        "title": "Chemicals & Petrochemicals",
+        "description": "Chemicals, fertilizers and liquid cargo handled with suitable equipment and trained drivers.",
+        "image": null,
+        "imageAlt": "chemical tanker",
+        "imagePlaceholder": "[Photo: chemical tanker]",
+        "action": {
+          "label": "Explore Chemicals & Petrochemicals",
+          "path": "/industries/chemicals-petrochemicals"
+        }
+      },
+      {
+        "title": "Oil, Gas & Energy",
+        "description": "Crude oil, condensate and refined petroleum products moved with safety-focused practices.",
+        "image": null,
+        "imageAlt": "petroleum tanker",
+        "imagePlaceholder": "[Photo: petroleum tanker]",
+        "action": {
+          "label": "Explore Oil, Gas & Energy",
+          "path": "/industries/oil-gas-energy"
+        }
+      }
+    ],
+    "futureIndustry": {
+      "heading": "[Possible next page: Food, Agri & FMCG]",
+      "description": "Wheat, sugar, edible oil and other bulk commodities. Not built yet."
+    }
+  },
+  "sectionThree": {
+    "eyebrow": "Built around the operation",
+    "heading": "The Industry Changes How the Cargo Needs to Move",
+    "principles": [
+      {
+        "heading": "Cargo characteristics",
+        "description": "Liquid, dry, packaged, machinery or vehicles: what is moving decides how it is loaded and carried."
+      },
+      {
+        "heading": "Operating environment",
+        "description": "Plants, terminals, project sites and dealerships each have their own access and loading conditions."
+      },
+      {
+        "heading": "Equipment selection",
+        "description": "Tankers, enclosed trucks, flatbeds and car carriers are matched to the cargo, not the other way around."
+      },
+      {
+        "heading": "Safety and coordination",
+        "description": "Our HSE policy and an assured fleet network, ready exactly when required, apply to every sector."
+      }
+    ],
+    "action": {
+      "label": "Learn more about our HSSE standards",
+      "path": "/hsse"
+    }
+  },
+  "sectionFour": {
+    "eyebrow": "Services by cargo type",
+    "heading": "Find the Right Service for Your Cargo",
+    "services": [
+      {
+        "heading": "For packaged or industrial goods",
+        "action": {
+          "label": "Explore Dry Cargo",
+          "path": "/services/dry-cargo-transportation"
+        }
+      },
+      {
+        "heading": "For petroleum and fuel",
+        "action": {
+          "label": "Explore Petroleum Transportation",
+          "path": "/services/petroleum-transportation"
+        }
+      },
+      {
+        "heading": "For chemical or liquid cargo",
+        "action": {
+          "label": "Explore Chemical & Liquid Cargo",
+          "path": "/services/chemical-liquid-cargo-transportation"
+        }
+      },
+      {
+        "heading": "For machinery or project cargo",
+        "action": {
+          "label": "Explore Flatbed & Project Cargo",
+          "path": "/services/heavy-project-cargo"
+        }
+      },
+      {
+        "heading": "For vehicle movements",
+        "action": {
+          "label": "Explore Car Carrier Services",
+          "path": "/industries/automotive"
+        }
+      },
+      {
+        "heading": "For dedicated truck capacity",
+        "action": {
+          "label": "Explore Full Truckload",
+          "path": "/services/full-truckload-ftl"
+        }
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "At a glance",
+    "heading": "Services Each Industry Relies On",
+    "industryLabel": "Industry",
+    "services": [
+      "Dry cargo",
+      "Containerized",
+      "Full truckload",
+      "Petroleum",
+      "Chemical & liquid",
+      "Flatbed & project"
+    ],
+    "statusLabels": {
+      "main": "Main service",
+      "additional": "Also used",
+      "none": "Not indicated"
+    },
+    "rows": [
+      {
+        "industry": "Manufacturing & Industrial",
+        "usage": ["main", "main", "main", "none", "additional", "additional"]
+      },
+      {
+        "industry": "Construction & Engineering",
+        "usage": ["additional", "none", "additional", "main", "none", "main"]
+      },
+      {
+        "industry": "Automotive",
+        "usage": ["additional", "additional", "main", "none", "none", "main"]
+      },
+      {
+        "industry": "Chemicals & Petrochemicals",
+        "usage": [
+          "additional",
+          "additional",
+          "additional",
+          "additional",
+          "main",
+          "none"
+        ]
+      },
+      {
+        "industry": "Oil, Gas & Energy",
+        "usage": ["none", "none", "none", "main", "additional", "none"]
+      }
+    ],
+    "note": "[Confirm which services each industry uses most]"
   }
 }
