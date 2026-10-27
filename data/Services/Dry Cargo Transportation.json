@@ -1,7 +1,11 @@
 {
   "sectionOne": {
     "eyebrow": "PACKAGED & PALLETIZED",
-    "heading": ["Dry Cargo", "Transportation in", "Pakistan"],
+    "heading": [
+      "Dry Cargo",
+      "Transportation in",
+      "Pakistan"
+    ],
     "description": "Packaged, palletized and bulk dry goods moved safely from factory and warehouse to the receiving site, on enclosed and covered vehicles from our assured fleet network.",
     "action": {
       "label": "Discuss Your Requirement",
@@ -18,5 +22,206 @@
       "label": "Contact Us Today",
       "path": "/contact-us"
     }
+  },
+  "sectionTwo": {
+    "eyebrow": "How LMI does it",
+    "heading": "LMI\u2019s Dry Cargo Transportation",
+    "description": "Dry cargo is where much of our work with manufacturers sits today. This is how we run it.",
+    "cards": [
+      {
+        "eyebrow": "What we run",
+        "heading": "Enclosed and covered vehicles",
+        "paragraphs": [
+          "Trucks and trailers suited to packaged, palletized and cartoned goods, with load securing and cargo protection planned before dispatch.",
+          "[Confirm: trailer types and capacities, e.g. 20 ft / 40 ft trailers, covered trucks]"
+        ]
+      },
+      {
+        "eyebrow": "Who we run it for",
+        "heading": "Industrial and consumer brands",
+        "paragraphs": [
+          "Manufacturers and industrial businesses, including Novatex, Roshan Packages, BSP, Interloop, Soya Supreme and APAG.",
+          "[Confirm: which clients can be named]"
+        ]
+      },
+      {
+        "eyebrow": "Where we run it",
+        "heading": "Plants, warehouses and ports",
+        "paragraphs": [
+          "Loads picked up from factories, warehouses and ports and delivered to distribution centres and customer sites across Pakistan.",
+          "[Confirm: main lanes and typical delivery points]"
+        ]
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "What we move",
+    "heading": "Dry Cargo We Move",
+    "cargo": [
+      {
+        "icon": "chemical",
+        "heading": "Packaged & Palletized Goods",
+        "description": "Boxed, bagged and palletized products for commercial supply."
+      },
+      {
+        "icon": "fertilizer",
+        "heading": "Raw Materials & Inputs",
+        "description": "Materials moved to plants on a regular basis."
+      },
+      {
+        "icon": "liquid",
+        "heading": "Finished Goods",
+        "description": "Products from the factory to warehouses and customers."
+      },
+      {
+        "icon": "packaged",
+        "heading": "Construction Materials",
+        "description": "Dry materials for building and project work."
+      },
+      {
+        "icon": "recurring",
+        "heading": "Export- and Import-Linked Cargo",
+        "description": "Goods moving to or from ports and terminals."
+      }
+    ]
+  },
+  "sectionFour": {
+    "eyebrow": "Built around the movement",
+    "heading": "From Loading Dock to Delivery",
+    "description": "Dry cargo depends on how it is loaded and protected. We plan that before the truck arrives.",
+    "action": {
+      "label": "See our HSSE standards",
+      "path": "/hsse"
+    },
+    "panelHeading": "Protected from loading to delivery",
+    "image": null,
+    "imageAlt": "LMI truck carrying protected dry cargo",
+    "imagePlaceholder": "[Photo: LMI dry cargo truck]",
+    "features": [
+      "Packaged and palletized goods loaded and secured",
+      "Enclosed body protects cargo from weather and dust",
+      "Delivered to your dock or warehouse as scheduled"
+    ],
+    "steps": [
+      {
+        "number": "01",
+        "heading": "Review",
+        "description": "Cargo type, quantity, weight and packing."
+      },
+      {
+        "number": "02",
+        "heading": "Plan loading",
+        "description": "Vehicle choice, load distribution and loading method."
+      },
+      {
+        "number": "03",
+        "heading": "Secure",
+        "description": "Cargo placed, secured and protected."
+      },
+      {
+        "number": "04",
+        "heading": "Transport",
+        "description": "Journey coordinated to the delivery window."
+      },
+      {
+        "number": "05",
+        "heading": "Deliver",
+        "description": "Handover coordinated at the receiving site."
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Trusted by",
+    "heading": "Pakistan\u2019s Manufacturers",
+    "logoPlaceholder": "[logo]",
+    "clients": [
+      {
+        "id": "novatex",
+        "name": "Novatex",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "roshan-packages",
+        "name": "Roshan Packages",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "bsp",
+        "name": "BSP",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "interloop",
+        "name": "Interloop",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "soya-supreme",
+        "name": "Soya Supreme",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "apag",
+        "name": "APAG",
+        "image": null,
+        "placeholder": false
+      }
+    ],
+    "testimonial": {
+      "quote": "[Client testimonial: two to three sentences about working with LMI]",
+      "attribution": "[Name], [Job Title], [Company]"
+    }
+  },
+  "sectionSix": {
+    "eyebrow": "FAQ",
+    "heading": "Dry Cargo Questions",
+    "items": [
+      {
+        "question": "What counts as dry cargo?",
+        "answer": "Non-liquid cargo such as packaged, palletized, bagged and cartoned goods, raw materials and finished products."
+      },
+      {
+        "question": "Is my cargo protected during transport?",
+        "answer": "We plan loading and securing around the cargo, and use enclosed or covered vehicles where the cargo needs protection."
+      },
+      {
+        "question": "Can you handle recurring dry cargo runs?",
+        "answer": "Yes. We schedule regular movements between your plant, warehouses and customers, with an assured fleet ready exactly when required."
+      },
+      {
+        "question": "How do I request a quote?",
+        "answer": "Tell us the cargo, quantity, packing, pickup point, destination and timeline, and our team will recommend a transportation approach."
+      }
+    ]
+  },
+  "sectionSeven": {
+    "heading": "Related Services",
+    "services": [
+      {
+        "heading": "Full Truckload (FTL)",
+        "path": "/services/full-truckload-ftl",
+        "label": "Explore"
+      },
+      {
+        "heading": "Containerized",
+        "path": "/services/containerized-transportation",
+        "label": "Explore"
+      },
+      {
+        "heading": "Road Freight",
+        "path": "/services/road-freight-transportation",
+        "label": "Explore"
+      },
+      {
+        "heading": "Manufacturing & Industrial",
+        "path": "/industries/manufacturing-industrial",
+        "label": "Explore"
+      }
+    ]
   }
 }
