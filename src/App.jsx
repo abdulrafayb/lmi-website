@@ -25,6 +25,8 @@ import HeavyAndProjectCargo from "./pages/services/HeavyAndProjectCargo";
 
 import FleetAndEquipment from "./pages/fleet-and-visiblity/FleetAndEquipment";
 
+import NationwideNetwork from "./pages/fleet-and-visiblity/NationwideNetwork";
+
 export default function App() {
   return (
     <>
@@ -32,6 +34,10 @@ export default function App() {
       <Header />
       <main>
         <Routes>
+          <Route
+            path="/fleet-visibility/nationwide-network"
+            element={<NationwideNetwork />}
+          />
           <Route
             path="/fleet-visibility/fleet-equipment"
             element={<FleetAndEquipment />}

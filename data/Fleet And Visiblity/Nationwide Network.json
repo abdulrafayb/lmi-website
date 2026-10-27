@@ -1,0 +1,265 @@
+{
+  "sectionOne": {
+    "eyebrow": "Coverage",
+    "heading": [
+      "Nationwide Road",
+      "Transportation From",
+      "Karachi"
+    ],
+    "description": "LMI moves cargo from Karachi\u2019s ports, plants and terminals to destinations across Pakistan, with a suitable vehicle ready exactly when required.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI truck on a highway",
+    "imagePlaceholder": "[Photo: LMI truck on a highway]"
+  },
+  "sectionTwo": {
+    "eyebrow": "Route planning",
+    "heading": "Every Journey Is Different",
+    "cargo": [
+      {
+        "icon": "chemical",
+        "heading": "Origin & destination",
+        "description": "Pickup and delivery points, and the roads between them."
+      },
+      {
+        "icon": "fertilizer",
+        "heading": "Cargo type",
+        "description": "What is being moved decides the vehicle and precautions."
+      },
+      {
+        "icon": "liquid",
+        "heading": "Route conditions",
+        "description": "Highways, link roads, mountain passes, weather and terrain."
+      },
+      {
+        "icon": "packaged",
+        "heading": "Delivery window",
+        "description": "When the receiving site needs the cargo, and how loading fits."
+      },
+      {
+        "icon": "safety",
+        "heading": "Safety considerations",
+        "description": "Driver briefing, vehicle checks and site safety rules."
+      },
+      {
+        "icon": "visibility",
+        "heading": "Visibility needs",
+        "description": "How and when you want to be updated along the way."
+      }
+    ],
+    "action": {
+      "label": "Discuss your route requirement",
+      "path": "/contact-us"
+    }
+  },
+  "sectionThree": {
+    "eyebrow": "Nationwide transportation",
+    "heading": "Built Around Your Routes",
+    "description": "LMI offers nationwide road transportation from Karachi to every major region of Pakistan. Whether it is a one-off load or a recurring route between your plant, warehouse and customers, we plan the movement and have a suitable vehicle ready exactly when required.",
+    "hub": "Karachi",
+    "destinations": [
+      {
+        "name": "Quetta",
+        "x": 23,
+        "y": 38
+      },
+      {
+        "name": "Peshawar",
+        "x": 53,
+        "y": 12
+      },
+      {
+        "name": "Islamabad",
+        "x": 71,
+        "y": 18
+      },
+      {
+        "name": "Lahore",
+        "x": 79,
+        "y": 36
+      },
+      {
+        "name": "Multan",
+        "x": 61,
+        "y": 52
+      }
+    ],
+    "mapNote": "[Illustrative hub-and-spoke view. Confirm lanes before publishing.]",
+    "routesHeading": "Routes we run regularly",
+    "routes": [
+      {
+        "heading": "[Route 1: Karachi \u2192 destination]",
+        "details": [
+          "Cargo: [what we move on this route]",
+          "Frequency: [e.g. weekly, daily, as required]",
+          "Typical client or industry: [optional]"
+        ]
+      },
+      {
+        "heading": "[Route 2: Karachi \u2192 destination]",
+        "details": [
+          "Cargo: [what we move on this route]",
+          "Frequency: [e.g. weekly, daily, as required]",
+          "Typical client or industry: [optional]"
+        ]
+      },
+      {
+        "heading": "[Route 3: Karachi \u2192 destination]",
+        "details": [
+          "Cargo: [what we move on this route]",
+          "Frequency: [e.g. weekly, daily, as required]",
+          "Typical client or industry: [optional]"
+        ]
+      }
+    ]
+  },
+  "sectionFour": {
+    "eyebrow": "Our network",
+    "heading": "Locations We Connect",
+    "description": "From Karachi, we connect the places where cargo is made, stored, processed and used.",
+    "locations": [
+      {
+        "heading": "Ports & Terminals",
+        "description": "Cargo lifted from Karachi\u2019s ports and terminals.",
+        "image": null,
+        "imageAlt": "Ports & Terminals",
+        "imagePlaceholder": "[Photo: Ports & Terminals]"
+      },
+      {
+        "heading": "Refineries & Industrial Plants",
+        "description": "Petroleum, chemical and manufacturing sites.",
+        "image": null,
+        "imageAlt": "Refineries & Industrial Plants",
+        "imagePlaceholder": "[Photo: Refineries & Industrial Plants]"
+      },
+      {
+        "heading": "Warehouses & Distribution Points",
+        "description": "Movements between storage and customers.",
+        "image": null,
+        "imageAlt": "Warehouses & Distribution Points",
+        "imagePlaceholder": "[Photo: Warehouses & Distribution Points]"
+      },
+      {
+        "heading": "Construction & Project Sites",
+        "description": "Machinery and materials to remote sites.",
+        "image": null,
+        "imageAlt": "Construction & Project Sites",
+        "imagePlaceholder": "[Photo: Construction & Project Sites]"
+      },
+      {
+        "heading": "Customer Locations",
+        "description": "Commercial and industrial delivery points nationwide.",
+        "image": null,
+        "imageAlt": "Customer Locations",
+        "imagePlaceholder": "[Photo: Customer Locations]"
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Trusted by",
+    "heading": "Long-distance work, done for decades",
+    "proof": [
+      {
+        "heading": "Since 1983",
+        "description": "Supplying road transport to PSO"
+      },
+      {
+        "heading": "18+ years",
+        "description": "Shell Pakistan cartage contractor, certified 2002"
+      },
+      {
+        "heading": "Karachi \u2192 Jhelum & Kuzdar",
+        "description": "Bitumen from National Refinery, 1992"
+      }
+    ],
+    "note": "[Confirm: wording, and whether client logos may be shown. Full logo wall and testimonial live on the Services and Industries pages.]",
+    "industriesHeading": "Moving cargo nationwide for",
+    "industries": [
+      {
+        "label": "Oil, Gas & Energy",
+        "path": "/industries/oil-gas-energy"
+      },
+      {
+        "label": "Chemicals & Petrochemicals",
+        "path": "/industries/chemicals-petrochemicals"
+      },
+      {
+        "label": "Manufacturing & Industrial",
+        "path": "/industries/manufacturing-industrial"
+      },
+      {
+        "label": "Construction & Engineering",
+        "path": "/industries/construction-engineering"
+      },
+      {
+        "label": "Automotive",
+        "path": "/industries/automotive"
+      }
+    ],
+    "tracking": {
+      "description": "Want to know how updates work once the cargo is moving?",
+      "action": {
+        "label": "See shipment tracking",
+        "path": "/fleet-visibility/shipment-tracking-operational-visibility"
+      }
+    }
+  },
+  "sectionSix": {
+    "eyebrow": "FAQ",
+    "heading": "Nationwide Network Questions",
+    "items": [
+      {
+        "question": "Which parts of Pakistan do you cover?",
+        "answer": "[Confirm: list of regions and main lanes.] We move cargo from Karachi to destinations across Pakistan."
+      },
+      {
+        "question": "Can you serve remote project sites?",
+        "answer": "Yes. Our drivers are trained for national highways, motorways, link roads, mountain passes and difficult terrain."
+      },
+      {
+        "question": "Can you handle recurring routes?",
+        "answer": "Yes. We plan regular movements around your schedule, with a vehicle ready exactly when required."
+      },
+      {
+        "question": "How do I request a quote?",
+        "answer": "Tell us the cargo, pickup point, destination and timeline, and our team will recommend a transportation approach."
+      }
+    ]
+  },
+  "sectionSeven": {
+    "heading": "Related Pages",
+    "services": [
+      {
+        "heading": "Fleet & Equipment",
+        "path": "/fleet-visibility/fleet-equipment",
+        "label": "Explore"
+      },
+      {
+        "heading": "Shipment Tracking",
+        "path": "/fleet-visibility/shipment-tracking-operational-visibility",
+        "label": "Explore"
+      },
+      {
+        "heading": "HSSE",
+        "path": "/hsse",
+        "label": "Explore"
+      },
+      {
+        "heading": "Services",
+        "path": "/services",
+        "label": "Explore"
+      }
+    ]
+  },
+  "sectionEight": {
+    "heading": "Where does your cargo need to go?",
+    "description": "Tell us the pickup point, destination and timeline.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}
