@@ -1,7 +1,11 @@
 {
   "sectionOne": {
     "eyebrow": "NATIONWIDE FREIGHT",
-    "heading": ["Road Freight", "Transportation in", "Pakistan"],
+    "heading": [
+      "Road Freight",
+      "Transportation in",
+      "Pakistan"
+    ],
     "description": "Commercial, industrial and specialised cargo moved by road across Pakistan, with trucks and drivers from our assured fleet network ready exactly when required.",
     "action": {
       "label": "Discuss Your Requirement",
@@ -18,5 +22,232 @@
       "label": "Contact Us Today",
       "path": "/contact-us"
     }
+  },
+  "sectionTwo": {
+    "eyebrow": "How LMI does it",
+    "heading": "LMI\u2019s Road Freight Transportation",
+    "description": "One transport partner for varied and recurring road movements. This is how we run it.",
+    "cards": [
+      {
+        "eyebrow": "What we run",
+        "heading": "An assured fleet, on call",
+        "paragraphs": [
+          "A verified network of trucks and drivers covering dry, containerized, flatbed and tanker movements, available exactly when required.",
+          "Vehicles are inspected before dispatch and driven by trained drivers following our HSE policy. [Confirm: fleet mix and capacities]"
+        ]
+      },
+      {
+        "eyebrow": "Who we run it for",
+        "heading": "Manufacturers and industry",
+        "paragraphs": [
+          "Regular road freight for manufacturers and industrial businesses such as Novatex, Roshan Packages, BSP, Interloop, Soya Supreme and APAG.",
+          "Backed by decades of contract transport for oil and infrastructure clients. [Confirm: which clients can be named]"
+        ]
+      },
+      {
+        "eyebrow": "Where we run it",
+        "heading": "Karachi to the whole country",
+        "paragraphs": [
+          "Loads moved from Karachi\u2019s ports, factories and warehouses to cities, plants and distribution points across Pakistan, supported by our 10-acre base facility in Karachi.",
+          "[Confirm: main lanes, e.g. Karachi to Lahore, Faisalabad, Multan, Peshawar, Quetta]"
+        ]
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "What we move",
+    "heading": "Cargo We Move by Road",
+    "cargo": [
+      {
+        "icon": "chemical",
+        "heading": "Commercial & Packaged Goods",
+        "description": "Boxed, bagged and palletized goods for business supply chains."
+      },
+      {
+        "icon": "fertilizer",
+        "heading": "Industrial Materials",
+        "description": "Raw materials, components and finished goods for plants."
+      },
+      {
+        "icon": "liquid",
+        "heading": "Containerized Cargo",
+        "description": "Port and inland container movements. Details on our Containerized page."
+      },
+      {
+        "icon": "packaged",
+        "heading": "Machinery & Equipment",
+        "description": "Open-deck loads where the cargo calls for it. See Flatbed."
+      },
+      {
+        "icon": "recurring",
+        "heading": "Recurring Routes",
+        "description": "Scheduled movements between the same sites, week after week."
+      }
+    ]
+  },
+  "sectionFour": {
+    "eyebrow": "Built around the movement",
+    "heading": "From Booking to Delivery",
+    "description": "Whatever the cargo, every road movement follows the same disciplined sequence, backed by an assured fleet network ready exactly when required.",
+    "action": {
+      "label": "See our HSSE standards",
+      "path": "/hsse"
+    },
+    "panelHeading": "One partner for every load",
+    "cargoLabel": "What are you moving?",
+    "serviceLabel": "Our service",
+    "steps": [
+      {
+        "number": "1",
+        "heading": "Understand",
+        "description": "Cargo, quantity, pickup and delivery points."
+      },
+      {
+        "number": "2",
+        "heading": "Plan",
+        "description": "Route, vehicle type and timing agreed."
+      },
+      {
+        "number": "3",
+        "heading": "Assign",
+        "description": "Verified truck and driver allocated."
+      },
+      {
+        "number": "4",
+        "heading": "Dispatch",
+        "description": "Pre-trip checks and loading coordinated."
+      },
+      {
+        "number": "5",
+        "heading": "Deliver",
+        "description": "Arrival coordinated and delivery confirmed."
+      }
+    ],
+    "matches": [
+      {
+        "cargo": "Packaged or palletized goods",
+        "service": "Dry Cargo",
+        "path": "/services/dry-cargo-transportation"
+      },
+      {
+        "cargo": "Containers",
+        "service": "Containerized",
+        "path": "/services/containerized-transportation"
+      },
+      {
+        "cargo": "A full truck for one shipment",
+        "service": "Full Truckload",
+        "path": "/services/full-truckload-ftl"
+      },
+      {
+        "cargo": "Liquids and chemicals",
+        "service": "Chemical & Liquid",
+        "path": "/services/chemical-liquid-cargo-transportation"
+      },
+      {
+        "cargo": "Machinery and long loads",
+        "service": "Flatbed",
+        "path": "/services/flatbed-transportation"
+      },
+      {
+        "cargo": "Oversized or project cargo",
+        "service": "Heavy & Project",
+        "path": "/services/heavy-project-cargo"
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Trusted by",
+    "heading": "Pakistan\u2019s Manufacturers and Industry",
+    "logoPlaceholder": "[logo]",
+    "clients": [
+      {
+        "id": "novatex",
+        "name": "Novatex",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "roshan-packages",
+        "name": "Roshan Packages",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "bsp",
+        "name": "BSP",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "interloop",
+        "name": "Interloop",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "soya-supreme",
+        "name": "Soya Supreme",
+        "image": null,
+        "placeholder": false
+      },
+      {
+        "id": "apag",
+        "name": "APAG",
+        "image": null,
+        "placeholder": false
+      }
+    ],
+    "testimonial": {
+      "quote": "[Client testimonial: two to three sentences about working with LMI]",
+      "attribution": "[Name], [Job Title], [Company]"
+    }
+  },
+  "sectionSix": {
+    "eyebrow": "FAQ",
+    "heading": "Road Freight Questions",
+    "items": [
+      {
+        "question": "What types of cargo do you move by road?",
+        "answer": "Packaged and commercial goods, industrial materials, containerized cargo, machinery and recurring supply runs. For specialised loads we match the vehicle to the cargo."
+      },
+      {
+        "question": "Can you cover the whole of Pakistan?",
+        "answer": "Yes. We move cargo from Karachi to destinations across Pakistan, using our assured fleet network."
+      },
+      {
+        "question": "Can you handle regular, scheduled movements?",
+        "answer": "Yes. We plan recurring routes around your schedule so a suitable vehicle is ready exactly when required."
+      },
+      {
+        "question": "How do I request a quote?",
+        "answer": "Tell us the cargo, quantity, pickup point, destination and timeline, and our team will recommend a transportation approach."
+      }
+    ]
+  },
+  "sectionSeven": {
+    "heading": "Related Services",
+    "services": [
+      {
+        "heading": "Full Truckload (FTL)",
+        "path": "/services/full-truckload-ftl",
+        "label": "Explore"
+      },
+      {
+        "heading": "Dry Cargo",
+        "path": "/services/dry-cargo-transportation",
+        "label": "Explore"
+      },
+      {
+        "heading": "Containerized",
+        "path": "/services/containerized-transportation",
+        "label": "Explore"
+      },
+      {
+        "heading": "Flatbed",
+        "path": "/services/flatbed-transportation",
+        "label": "Explore"
+      }
+    ]
   }
 }
