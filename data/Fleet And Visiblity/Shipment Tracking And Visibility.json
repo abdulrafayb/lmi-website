@@ -1,0 +1,194 @@
+{
+  "sectionOne": {
+    "eyebrow": "Stay informed",
+    "heading": [
+      "Shipment Tracking &",
+      "Operational Visibility",
+      "in Pakistan"
+    ],
+    "description": "Stay informed from dispatch to delivery, so your team and the receiving site know where the cargo is and when it arrives.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI operations desk monitoring vehicles",
+    "imagePlaceholder": "[Photo: LMI operations desk monitoring vehicles]"
+  },
+  "sectionTwo": {
+    "eyebrow": "How LMI does it",
+    "heading": "LMI\u2019s Shipment Visibility",
+    "description": "Visibility is part of how we run every movement. This is what it looks like.",
+    "cards": [
+      {
+        "eyebrow": "What you see",
+        "heading": "Vehicle location and route progress",
+        "paragraphs": [
+          "Where the vehicle is and how far along the route it has travelled.",
+          "[Confirm: GPS-enabled vehicles, and which services and vehicles have tracking]"
+        ]
+      },
+      {
+        "eyebrow": "How you are updated",
+        "heading": "Updates at each milestone",
+        "paragraphs": [
+          "Dispatch, in transit, approaching and delivered, so nobody is surprised at the other end.",
+          "[Confirm: how updates are sent, e.g. phone, WhatsApp, email or a tracking link]"
+        ]
+      },
+      {
+        "eyebrow": "Who you speak to",
+        "heading": "Our operations team",
+        "paragraphs": [
+          "A dedicated team that coordinates the vehicle, driver and receiving site throughout the movement.",
+          "[Confirm: contact arrangement and hours]"
+        ]
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "Visibility in practice",
+    "heading": "More Than a Map Pin",
+    "benefits": [
+      "Receiving sites prepare before the cargo arrives",
+      "Customer teams are informed in time",
+      "Route awareness helps plan around delays",
+      "Project teams stay aligned with incoming cargo",
+      "Distribution and onward movements are planned with confidence"
+    ],
+    "panelHeading": "Shipment in transit",
+    "status": "In transit",
+    "mapPlaceholder": "[Map: route and vehicle position]",
+    "details": [
+      {
+        "label": "Shipment",
+        "value": "[Shipment ID]"
+      },
+      {
+        "label": "Route",
+        "value": "[Origin] \u2192 [Destination]"
+      },
+      {
+        "label": "Last update",
+        "value": "[Time and location]"
+      },
+      {
+        "label": "Expected arrival",
+        "value": "[Date and time]"
+      }
+    ],
+    "note": "[Illustrative layout only. Replace with the real tracking view LMI offers.]"
+  },
+  "sectionFour": {
+    "eyebrow": "How updates work",
+    "heading": "From Dispatch to Delivery",
+    "description": "Every shipment follows the same five checkpoints, so your team, the driver and the receiving site always know what has happened and what comes next. Each update gives you the time to prepare, plan onward movements and avoid surprises.",
+    "steps": [
+      {
+        "heading": "Dispatch confirmed",
+        "description": "You are told the journey has begun."
+      },
+      {
+        "heading": "In transit",
+        "description": "Progress and position monitored."
+      },
+      {
+        "heading": "Checkpoint updates",
+        "description": "Updates at agreed points on the route."
+      },
+      {
+        "heading": "Approaching",
+        "description": "Receiving site prepared for arrival."
+      },
+      {
+        "heading": "Delivered",
+        "description": "Delivery confirmed and closed out."
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Where it applies",
+    "heading": "Visibility Across Our Services",
+    "services": [
+      {
+        "label": "Petroleum Transportation",
+        "path": "/services/petroleum-transportation"
+      },
+      {
+        "label": "Chemical & Liquid Cargo",
+        "path": "/services/chemical-liquid-cargo-transportation"
+      },
+      {
+        "label": "Road Freight",
+        "path": "/services/road-freight-transportation"
+      },
+      {
+        "label": "Full Truckload (FTL)",
+        "path": "/services/full-truckload-ftl"
+      },
+      {
+        "label": "Flatbed",
+        "path": "/services/flatbed-transportation"
+      },
+      {
+        "label": "Heavy & Project Cargo",
+        "path": "/services/heavy-project-cargo"
+      }
+    ]
+  },
+  "sectionSix": {
+    "eyebrow": "FAQ",
+    "heading": "Shipment Tracking Questions",
+    "items": [
+      {
+        "question": "Can I track my shipment?",
+        "answer": "Yes. [Confirm: details of what the customer can see and how.]"
+      },
+      {
+        "question": "How will I be kept informed?",
+        "answer": "We update you at each milestone from dispatch to delivery. [Confirm: channel]"
+      },
+      {
+        "question": "Does tracking apply to every service?",
+        "answer": "[Confirm: services and vehicles covered.]"
+      },
+      {
+        "question": "Who do I contact about a shipment in transit?",
+        "answer": "Our operations team. [Confirm: contact details]"
+      }
+    ]
+  },
+  "sectionSeven": {
+    "heading": "Related Pages",
+    "services": [
+      {
+        "heading": "Fleet & Equipment",
+        "path": "/fleet-visibility/fleet-equipment",
+        "label": "Explore"
+      },
+      {
+        "heading": "Nationwide Network",
+        "path": "/fleet-visibility/nationwide-network",
+        "label": "Explore"
+      },
+      {
+        "heading": "HSSE",
+        "path": "/hsse",
+        "label": "Explore"
+      },
+      {
+        "heading": "Services",
+        "path": "/services",
+        "label": "Explore"
+      }
+    ]
+  },
+  "sectionEight": {
+    "heading": "Need visibility on your movement?",
+    "description": "Tell us what you need to move and how you want to be kept informed.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}

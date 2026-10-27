@@ -27,6 +27,8 @@ import FleetAndEquipment from "./pages/fleet-and-visiblity/FleetAndEquipment";
 
 import NationwideNetwork from "./pages/fleet-and-visiblity/NationwideNetwork";
 
+import ShipmentTrackingAndVisibility from "./pages/fleet-and-visiblity/Shipment TrackingAndVisibility";
+
 export default function App() {
   return (
     <>
@@ -34,6 +36,10 @@ export default function App() {
       <Header />
       <main>
         <Routes>
+          <Route
+            path="/fleet-visibility/shipment-tracking-operational-visibility"
+            element={<ShipmentTrackingAndVisibility />}
+          />
           <Route
             path="/fleet-visibility/nationwide-network"
             element={<NationwideNetwork />}
