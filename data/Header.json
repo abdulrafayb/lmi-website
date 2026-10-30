@@ -107,10 +107,6 @@
         {
           "label": "Fleet & Equipment",
           "path": "/fleet-visibility/fleet-equipment"
-        },
-        {
-          "label": "Overview",
-          "path": "/fleet-visibility"
         }
       ]
     },

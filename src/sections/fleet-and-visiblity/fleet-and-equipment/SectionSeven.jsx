@@ -8,7 +8,7 @@ export default function SectionSeven() {
   return (
     <section
       aria-labelledby="fleet-related-heading"
-      className="bg-surface section-spacing text-center lg:text-left"
+      className="bg-proof-surface section-spacing text-center lg:text-left"
     >
       <div className="wrapper max-w-320">
         <Reveal className="text-center">
