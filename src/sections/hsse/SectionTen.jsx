@@ -8,7 +8,7 @@ export default function SectionTen() {
   return (
     <section
       aria-labelledby="hsse-related-heading"
-      className="bg-surface section-spacing text-center lg:text-left"
+      className="bg-surface py-12 text-center md:py-16 lg:py-20 lg:text-left"
     >
       <div className="wrapper max-w-320">
         <Reveal className="text-center">

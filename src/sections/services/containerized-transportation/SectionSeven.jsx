@@ -8,7 +8,7 @@ export default function SectionSeven() {
   return (
     <section
       aria-labelledby="container-related-heading"
-      className="bg-proof-surface section-spacing text-center lg:text-left"
+      className="bg-proof-surface py-12 text-center md:py-16 lg:py-20 lg:text-left"
     >
       <div className="wrapper max-w-320">
         <Reveal className="text-center">
