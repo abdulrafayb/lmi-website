@@ -54,25 +54,27 @@ export default function SectionEight() {
             </Reveal>
           ))}
         </ul>
-        <Reveal className="border-trust-border mt-7 rounded-xl border p-6">
-          <span className="bg-brand-red text-surface mx-auto flex h-14 w-12 items-center justify-center rounded-md text-xs font-bold">
+        <Reveal className="border-trust-border mt-7 flex flex-col items-center gap-6 rounded-xl border p-6 lg:flex-row lg:text-left">
+          <span className="bg-brand-red text-surface flex h-16 w-14 shrink-0 items-center justify-center rounded-md text-xs font-bold">
             {section.policy.badge}
           </span>
-          <h3 className="text-hero-heading mt-4 text-xl font-bold">
-            {section.policy.heading}
-          </h3>
-          <p className="text-hero-copy mt-2 leading-relaxed">
-            {section.policy.description}
-          </p>
-          <p className="text-hero-copy mt-2 text-xs">
-            {section.policy.metadata}
-          </p>
+          <div className="min-w-0 flex-1">
+            <h3 className="text-hero-heading text-xl font-bold">
+              {section.policy.heading}
+            </h3>
+            <p className="text-hero-copy mt-2 leading-relaxed">
+              {section.policy.description}
+            </p>
+            <p className="text-hero-copy mt-2 text-xs">
+              {section.policy.metadata}
+            </p>
+          </div>
           <Button
-            variant="secondary"
+            variant="primary"
             href={section.policy.path ?? undefined}
             disabled={!section.policy.path}
             download
-            className="mt-5"
+            className="shrink-0 disabled:opacity-100!"
           >
             {section.policy.label}
           </Button>
