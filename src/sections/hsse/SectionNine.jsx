@@ -8,7 +8,7 @@ const { eyebrow, heading, items } = data.sectionNine;
 export default function SectionNine() {
   return (
     <section
-      className="bg-surface py-12 text-center md:py-16 lg:py-20 lg:text-left"
+      className="bg-proof-surface py-12 text-center md:py-16 lg:py-20 lg:text-left"
       aria-labelledby="hsse-faq-heading"
     >
       <div className="wrapper max-w-320">
