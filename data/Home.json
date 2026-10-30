@@ -324,7 +324,7 @@
       "stages": ["Challenge", "Approach", "Delivery", "Result"],
       "action": {
         "label": "View case studies",
-        "path": "/insights/case-studies"
+        "path": "/insights#case-studies"
       }
     }
   },

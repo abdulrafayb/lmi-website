@@ -120,16 +120,7 @@
     },
     {
       "label": "Insights",
-      "children": [
-        {
-          "label": "Case Studies",
-          "path": "/insights/case-studies"
-        },
-        {
-          "label": "Overview",
-          "path": "/insights"
-        }
-      ]
+      "path": "/insights"
     },
     {
       "label": "Contact Us",

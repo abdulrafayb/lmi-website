@@ -31,6 +31,8 @@ import ShipmentTrackingAndVisibility from "./pages/fleet-and-visiblity/Shipment 
 
 import HSSE from "./pages/HSSE";
 
+import Insights from "./pages/Insights";
+
 export default function App() {
   return (
     <>
@@ -38,6 +40,7 @@ export default function App() {
       <Header />
       <main>
         <Routes>
+          <Route path="/insights" element={<Insights />} />
           <Route path="/hsse" element={<HSSE />} />
           <Route
             path="/fleet-visibility/shipment-tracking-operational-visibility"

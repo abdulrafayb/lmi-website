@@ -1,0 +1,193 @@
+{
+  "sectionOne": {
+    "eyebrow": "From the road",
+    "heading": [
+      "Insights & Case",
+      "Studies on Road",
+      "Transportation in",
+      "Pakistan"
+    ],
+    "description": "Real movements and practical guidance from LMI\u2019s decades of road transportation in Pakistan.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI trucks at a terminal",
+    "imagePlaceholder": "[Photo: LMI trucks at a terminal]"
+  },
+  "sectionTwo": {
+    "eyebrow": "Case studies",
+    "heading": "Transportation in Practice",
+    "cards": [
+      {
+        "eyebrow": "Case study 01",
+        "heading": "Fertilizer lifted from Karachi\u2019s ports",
+        "industry": "Industry: Chemicals & Fertilizer",
+        "service": "Service: Road Freight",
+        "description": "Urea moved from seaports to destinations across Pakistan for a major fertilizer producer.",
+        "note": "[Confirm: challenge, approach and verified result]",
+        "image": null,
+        "imagePlaceholder": "[Photo: case study 1]",
+        "label": "Read case study",
+        "path": "#case-study-approach"
+      },
+      {
+        "eyebrow": "Case study 02",
+        "heading": "Supporting a national highway project (1999)",
+        "industry": "Industry: Construction & Engineering",
+        "service": "Service: Project transport",
+        "description": "Transport contractor to an international engineering contractor on a highway contract in D.I. Khan.",
+        "note": "[Confirm: challenge, approach and verified result]",
+        "image": null,
+        "imagePlaceholder": "[Photo: case study 2]",
+        "label": "Read case study",
+        "path": "#case-study-approach"
+      },
+      {
+        "eyebrow": "Case study 03",
+        "heading": "Bitumen from Karachi to Jhelum and Kuzdar (1992)",
+        "industry": "Industry: Construction & Engineering",
+        "service": "Service: Petroleum Transportation",
+        "description": "Bitumen moved from a Karachi refinery to road-construction sites for an international contractor.",
+        "note": "[Confirm: challenge, approach and verified result]",
+        "image": null,
+        "imagePlaceholder": "[Photo: case study 3]",
+        "label": "Read case study",
+        "path": "#case-study-approach"
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "From our leadership",
+    "quote": "\u201cOur customers trust us with cargo that cannot afford to be late or unsafe. That is why every journey starts with the right vehicle, a trained driver and safety as a first priority. It is how we have built long relationships, and how we intend to keep them.\u201d",
+    "name": "Brig. (R) Shahid Mahmood",
+    "role": "CEO, Logistics Management International",
+    "image": null,
+    "imagePlaceholder": "[Portrait: Brig. (R) Shahid Mahmood]"
+  },
+  "sectionFour": {
+    "eyebrow": "Our approach",
+    "heading": "What Every Case Study Covers",
+    "description": "Each case study is written the same way, so you can see the problem, what we did and what came of it, without wading through detail that does not matter.",
+    "panelEyebrow": "Case study",
+    "panelHeading": "[Case study title]",
+    "rows": [
+      {
+        "label": "Challenge",
+        "description": "What the client needed to move, and what made it difficult."
+      },
+      {
+        "label": "Approach",
+        "description": "The equipment, drivers and planning LMI put in place."
+      },
+      {
+        "label": "Delivery",
+        "description": "How the movement was run, from dispatch to arrival."
+      },
+      {
+        "label": "Result",
+        "description": "The verified outcome for the client."
+      }
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Articles",
+    "heading": "Practical Guidance From the Road",
+    "cards": [
+      {
+        "eyebrow": "Road freight",
+        "heading": "[Suggested article: Choosing between FTL and containerized transport in Pakistan]",
+        "description": "[Article to be written by LMI]"
+      },
+      {
+        "eyebrow": "HSSE",
+        "heading": "[Suggested article: Pre-dispatch checks for petroleum tankers]",
+        "description": "[Article to be written by LMI]"
+      },
+      {
+        "eyebrow": "Industry",
+        "heading": "[Suggested article: Moving fertilizer from Karachi\u2019s ports: what shippers should know]",
+        "description": "[Article to be written by LMI]"
+      }
+    ]
+  },
+  "sectionSix": {
+    "eyebrow": "Explore",
+    "heading": "Browse by Service and Industry",
+    "groups": [
+      {
+        "heading": "Services",
+        "links": [
+          {
+            "label": "Petroleum Transportation",
+            "path": "/services/petroleum-transportation"
+          },
+          {
+            "label": "Chemical & Liquid Cargo",
+            "path": "/services/chemical-liquid-cargo-transportation"
+          },
+          {
+            "label": "Road Freight",
+            "path": "/services/road-freight-transportation"
+          },
+          {
+            "label": "Full Truckload (FTL)",
+            "path": "/services/full-truckload-ftl"
+          },
+          {
+            "label": "Flatbed",
+            "path": "/services/flatbed-transportation"
+          },
+          {
+            "label": "Heavy & Project Cargo",
+            "path": "/services/heavy-project-cargo"
+          }
+        ]
+      },
+      {
+        "heading": "Industries",
+        "links": [
+          {
+            "label": "Oil, Gas & Energy",
+            "path": "/industries/oil-gas-energy"
+          },
+          {
+            "label": "Chemicals & Petrochemicals",
+            "path": "/industries/chemicals-petrochemicals"
+          },
+          {
+            "label": "Manufacturing & Industrial",
+            "path": "/industries/manufacturing-industrial"
+          },
+          {
+            "label": "Construction & Engineering",
+            "path": "/industries/construction-engineering"
+          },
+          {
+            "label": "Automotive",
+            "path": "/industries/automotive"
+          }
+        ]
+      }
+    ]
+  },
+  "sectionSeven": {
+    "heading": "Want to Know More About LMI?",
+    "description": "Read our company profile to see our history, services, fleet and the industries we serve, and share it with your team.",
+    "metadata": "[LMI-Company-Profile.pdf \u00b7 file size \u00b7 year/version]",
+    "badge": "PDF",
+    "action": {
+      "label": "Download Company Profile",
+      "path": "/documents/LMI-Company-Profile.pdf"
+    }
+  },
+  "sectionEight": {
+    "heading": "Have a transportation requirement of your own?",
+    "description": "Tell us what you need to move, where it needs to go and when.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}
