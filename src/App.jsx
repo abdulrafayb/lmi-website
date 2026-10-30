@@ -29,6 +29,8 @@ import NationwideNetwork from "./pages/fleet-and-visiblity/NationwideNetwork";
 
 import ShipmentTrackingAndVisibility from "./pages/fleet-and-visiblity/Shipment TrackingAndVisibility";
 
+import HSSE from "./pages/HSSE";
+
 export default function App() {
   return (
     <>
@@ -36,6 +38,7 @@ export default function App() {
       <Header />
       <main>
         <Routes>
+          <Route path="/hsse" element={<HSSE />} />
           <Route
             path="/fleet-visibility/shipment-tracking-operational-visibility"
             element={<ShipmentTrackingAndVisibility />}

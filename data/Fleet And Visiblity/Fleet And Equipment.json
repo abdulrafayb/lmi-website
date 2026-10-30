@@ -168,7 +168,7 @@
       "description": "Every vehicle is inspected and safety-checked before dispatch.",
       "action": {
         "label": "See fleet readiness in HSSE",
-        "path": "/hsse/fleet-safety-maintenance"
+        "path": "/hsse#fleet-safety-maintenance"
       }
     }
   },

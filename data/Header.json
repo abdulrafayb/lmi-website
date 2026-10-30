@@ -1,7 +1,7 @@
 {
   "logo": {
     "src": "/logo.png",
-    "alt": "LMI – Logistics Management International",
+    "alt": "LMI \u2013 Logistics Management International",
     "wordmark": "LMi",
     "tagline": "Logistics Management International"
   },
@@ -116,24 +116,7 @@
     },
     {
       "label": "HSSE",
-      "children": [
-        {
-          "label": "Fleet Safety & Maintenance",
-          "path": "/hsse/fleet-safety-maintenance"
-        },
-        {
-          "label": "Training & Operational Safety",
-          "path": "/hsse/training-operational-safety"
-        },
-        {
-          "label": "Driver & Road Safety",
-          "path": "/hsse/driver-road-safety"
-        },
-        {
-          "label": "Overview",
-          "path": "/hsse"
-        }
-      ]
+      "path": "/hsse"
     },
     {
       "label": "Insights",

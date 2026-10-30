@@ -1,0 +1,248 @@
+{
+  "sectionOne": {
+    "eyebrow": "Our commitment",
+    "heading": [
+      "HSSE & Road",
+      "Transport Safety in",
+      "Pakistan"
+    ],
+    "description": "A clear HSSE policy guides how LMI plans every journey, covering our drivers, vehicles, cargo and operations, from the first check to the final delivery.",
+    "action": {
+      "label": "Discuss Your Requirement",
+      "path": "/contact-us"
+    },
+    "image": null,
+    "imageAlt": "LMI driver beside a tanker",
+    "imagePlaceholder": "[Photo: LMI driver beside a tanker]"
+  },
+  "sectionTwo": {
+    "eyebrow": "Our approach",
+    "heading": "Four Pillars of Every Journey",
+    "centerLabel": "HSSE",
+    "centerCaption": "Safe movement",
+    "pillars": [
+      {
+        "heading": "People",
+        "description": "Trained drivers and staff who understand the risks of the work.",
+        "icon": "people"
+      },
+      {
+        "heading": "Vehicles",
+        "description": "Inspected, maintained and equipped for the journey.",
+        "icon": "vehicles"
+      },
+      {
+        "heading": "Cargo",
+        "description": "Handled with the care each product requires.",
+        "icon": "cargo"
+      },
+      {
+        "heading": "Operations",
+        "description": "Disciplined practices at filling points, on the road and at delivery.",
+        "icon": "operations"
+      }
+    ]
+  },
+  "sectionThree": {
+    "eyebrow": "Behind the wheel",
+    "heading": "Driver & Road Safety",
+    "items": [
+      "Defensive driving and hazard awareness",
+      "Road, weather and terrain awareness, including mountain passes",
+      "Journey discipline and responsible speed",
+      "Cargo responsibility: knowing what the vehicle carries"
+    ],
+    "panelHeading": "A driver\u2019s journey",
+    "steps": [
+      {
+        "heading": "Before dispatch",
+        "description": "Briefing, rest and a vehicle walk-around"
+      },
+      {
+        "heading": "On the road",
+        "description": "Defensive driving, with attention to highways, mountain passes and weather"
+      },
+      {
+        "heading": "After delivery",
+        "description": "Reporting and handover of the vehicle"
+      }
+    ]
+  },
+  "sectionFour": {
+    "eyebrow": "Before dispatch",
+    "heading": "Vehicle Readiness & Maintenance",
+    "image": null,
+    "imageAlt": "Vehicle inspection in progress",
+    "imagePlaceholder": "[Photo: vehicle inspection in progress]",
+    "items": [
+      "Planned vehicle inspections",
+      "Preventive maintenance",
+      "Pre-dispatch readiness checks",
+      "Fire-safety and protective equipment on board",
+      "Tyres, brakes and mechanical condition"
+    ]
+  },
+  "sectionFive": {
+    "eyebrow": "Our people",
+    "heading": "Training & Operational Safety",
+    "cargo": [
+      {
+        "icon": "chemical",
+        "heading": "EHS orientation",
+        "description": "Introduced to environment, health and safety before work, with sessions held quarterly."
+      },
+      {
+        "icon": "fertilizer",
+        "heading": "Tanker-certified safety supervisors",
+        "description": "Safety supervisors certified in tanker operations guide the teams."
+      },
+      {
+        "icon": "liquid",
+        "heading": "Filling & decanting safety",
+        "description": "Safe practices at loading and unloading, with fire-hazard awareness."
+      },
+      {
+        "icon": "packaged",
+        "heading": "PPE & firefighting",
+        "description": "Protective equipment and firefighting equipment, with training in correct use."
+      }
+    ]
+  },
+  "sectionSix": {
+    "eyebrow": "Checkpoints",
+    "heading": "Safety at Every Stage",
+    "description": "Safety checks run through the whole movement, from the yard to the receiving site.",
+    "steps": [
+      {
+        "heading": "Pre-dispatch check",
+        "description": "Vehicle, driver and safety equipment confirmed."
+      },
+      {
+        "heading": "Safe loading",
+        "description": "Filling or loading with hazard awareness and PPE."
+      },
+      {
+        "heading": "On the road",
+        "description": "Defensive driving and journey discipline."
+      },
+      {
+        "heading": "Delivery & decanting",
+        "description": "Controlled unloading to the site\u2019s requirements."
+      },
+      {
+        "heading": "Reporting",
+        "description": "Incidents and concerns reported and followed up."
+      }
+    ]
+  },
+  "sectionSeven": {
+    "eyebrow": "People first",
+    "heading": "Employee Support After Incidents",
+    "description": "Our drivers and staff work in demanding conditions, and LMI stands behind them. If an incident happens, support for the people involved starts immediately and does not depend on whose fault it was.",
+    "items": [
+      "Medical support: prompt access to medical care and follow-up for the employee involved",
+      "Financial assistance: help with costs while the employee recovers or the situation is resolved",
+      "Legal assistance: guidance and support through any formal or legal process that follows"
+    ],
+    "image": null,
+    "imageAlt": "LMI team with safety supervisors",
+    "imagePlaceholder": "[Photo: LMI team with safety supervisors]"
+  },
+  "sectionEight": {
+    "eyebrow": "Certifications & awards",
+    "heading": "Safety Recognised by Our Clients",
+    "awards": [
+      {
+        "heading": "ISO 9001",
+        "description": "Operations follow ISO 9001 certification standards. [Confirm certificate holder and year]",
+        "image": null,
+        "imagePlaceholder": "[Award image 1]"
+      },
+      {
+        "heading": "BP Pakistan E&P",
+        "description": "Recognised for safety performance (2001).",
+        "image": null,
+        "imagePlaceholder": "[Award image 2]"
+      },
+      {
+        "heading": "Road safety award",
+        "description": "Awarded for road safety participation. [Add year and awarding body]",
+        "image": null,
+        "imagePlaceholder": "[Award image 3]"
+      },
+      {
+        "heading": "Shell Pakistan",
+        "description": "General cartage contractor for 18+ years (certified 2002).",
+        "image": null,
+        "imagePlaceholder": "[Award image 4]"
+      }
+    ],
+    "policy": {
+      "heading": "Download Our HSSE Policy",
+      "description": "Read the policy that guides how we run drivers, vehicles, cargo and operations.",
+      "metadata": "[LMI-HSSE-Policy.pdf \u00b7 file size \u00b7 year/version]",
+      "label": "Download PDF",
+      "path": null,
+      "badge": "PDF"
+    },
+    "action": {
+      "label": "See all certifications & recognitions",
+      "path": "/company/certifications-recognitions"
+    }
+  },
+  "sectionNine": {
+    "eyebrow": "FAQ",
+    "heading": "HSSE Questions",
+    "items": [
+      {
+        "question": "What is LMI\u2019s HSE policy?",
+        "answer": "A strict policy covering trained drivers, vehicle inspection and pre-trip checks, protective equipment, emergency response procedures and incident reporting."
+      },
+      {
+        "question": "Are drivers trained?",
+        "answer": "Yes. Drivers are trained in defensive driving, hazard awareness and cargo responsibility, and are supported by EHS orientation sessions."
+      },
+      {
+        "question": "Is LMI certified?",
+        "answer": "Our operations follow ISO 9001 certification standards. [Confirm certificate details]"
+      },
+      {
+        "question": "How do I see your safety documents?",
+        "answer": "Contact us and we will share certificates and safety documentation on request."
+      }
+    ]
+  },
+  "sectionTen": {
+    "heading": "Related Pages",
+    "services": [
+      {
+        "heading": "Fleet & Equipment",
+        "path": "/fleet-visibility/fleet-equipment",
+        "label": "Explore"
+      },
+      {
+        "heading": "Nationwide Network",
+        "path": "/fleet-visibility/nationwide-network",
+        "label": "Explore"
+      },
+      {
+        "heading": "Shipment Tracking",
+        "path": "/fleet-visibility/shipment-tracking-operational-visibility",
+        "label": "Explore"
+      },
+      {
+        "heading": "Services",
+        "path": "/services",
+        "label": "Explore"
+      }
+    ]
+  },
+  "sectionEleven": {
+    "heading": "Safety is part of how the movement is planned.",
+    "description": "Tell us about your cargo and route.",
+    "action": {
+      "label": "Contact Us Today",
+      "path": "/contact-us"
+    }
+  }
+}
